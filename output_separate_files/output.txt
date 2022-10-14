@@ -1,0 +1,9689 @@
+Created Graph Saved...
+Size of Training Data 85
+Size of Testing Data 21
+('class_11_accounts_chapter_4_0.txt', 72)
+In not 0 section
+('class_11_accounts_chapter_4_1.txt', 77)
+In not 0 section
+('class_11_accounts_chapter_4_10.txt', 75)
+In not 0 section
+('class_11_accounts_chapter_4_11.txt', 118)
+In not 0 section
+('class_11_accounts_chapter_4_12.txt', 65)
+In not 0 section
+('class_11_accounts_chapter_4_13.txt', 49)
+In not 0 section
+('class_11_accounts_chapter_4_14.txt', 25)
+In not 0 section
+('class_11_accounts_chapter_4_2.txt', 60)
+In not 0 section
+('class_11_accounts_chapter_4_3.txt', 15)
+In not 0 section
+('class_11_accounts_chapter_4_4.txt', 65)
+In not 0 section
+('class_11_accounts_chapter_4_5.txt', 60)
+In not 0 section
+('class_11_accounts_chapter_4_6.txt', 76)
+In not 0 section
+('class_11_accounts_chapter_4_7.txt', 64)
+In not 0 section
+('class_11_accounts_chapter_4_8.txt', 39)
+In not 0 section
+('class_11_accounts_chapter_4_9.txt', 36)
+In not 0 section
+('class_11_biology_chapter_1_0.txt', 83)
+In not 0 section
+('class_11_biology_chapter_1_1.txt', 69)
+In not 0 section
+('class_11_biology_chapter_1_10.txt', 123)
+In not 0 section
+('class_11_biology_chapter_1_11.txt', 85)
+In not 0 section
+('class_11_biology_chapter_1_12.txt', 70)
+In not 0 section
+('class_11_biology_chapter_1_13.txt', 136)
+In not 0 section
+('class_11_biology_chapter_1_14.txt', 68)
+In not 0 section
+('class_11_biology_chapter_1_2.txt', 106)
+In not 0 section
+('class_11_biology_chapter_1_3.txt', 154)
+In not 0 section
+('class_11_biology_chapter_1_4.txt', 146)
+In not 0 section
+('class_11_biology_chapter_1_5.txt', 135)
+In not 0 section
+('class_11_biology_chapter_1_6.txt', 122)
+In not 0 section
+('class_11_biology_chapter_1_7.txt', 131)
+In not 0 section
+('class_11_biology_chapter_1_8.txt', 105)
+In not 0 section
+('class_11_biology_chapter_1_9.txt', 103)
+In not 0 section
+('class_11_geography_chapter_1_1.txt', 177)
+In not 0 section
+('class_11_geography_chapter_1_10.txt', 110)
+In not 0 section
+('class_11_geography_chapter_1_11.txt', 27)
+In not 0 section
+('class_11_geography_chapter_1_2.txt', 207)
+In not 0 section
+('class_11_geography_chapter_1_3.txt', 197)
+In not 0 section
+('class_11_geography_chapter_1_4.txt', 212)
+In not 0 section
+('class_11_geography_chapter_1_6.txt', 171)
+In not 0 section
+('class_11_geography_chapter_1_7.txt', 68)
+In not 0 section
+('class_11_geography_chapter_1_8.txt', 134)
+In not 0 section
+('class_11_geography_chapter_1_9.txt', 197)
+In not 0 section
+('class_11_geography_chapter_2_2.txt', 15)
+In not 0 section
+('class_11_geography_chapter_4_4.txt', 14)
+In not 0 section
+('class_11_geography_chapter_4_5.txt', 26)
+In not 0 section
+('class_11_geography_chapter_5_1.txt', 69)
+In not 0 section
+('class_11_physics_part_1_chapter_2_0.txt', 94)
+In not 0 section
+('class_11_physics_part_1_chapter_2_1.txt', 152)
+In not 0 section
+('class_11_physics_part_1_chapter_2_10.txt', 193)
+In not 0 section
+('class_11_physics_part_1_chapter_2_11.txt', 69)
+In not 0 section
+('class_11_physics_part_1_chapter_2_12.txt', 128)
+In not 0 section
+('class_11_physics_part_1_chapter_2_13.txt', 120)
+In not 0 section
+('class_11_physics_part_1_chapter_2_17.txt', 111)
+In not 0 section
+('class_11_physics_part_1_chapter_2_2.txt', 124)
+In not 0 section
+('class_11_physics_part_1_chapter_2_3.txt', 62)
+In not 0 section
+('class_11_physics_part_1_chapter_2_4.txt', 143)
+In not 0 section
+('class_11_physics_part_1_chapter_2_5.txt', 133)
+In not 0 section
+('class_11_physics_part_1_chapter_2_6.txt', 170)
+In not 0 section
+('class_11_physics_part_1_chapter_2_7.txt', 160)
+In not 0 section
+('class_11_physics_part_1_chapter_2_8.txt', 116)
+In not 0 section
+('class_11_physics_part_1_chapter_2_9.txt', 100)
+In not 0 section
+('class_12_biology_chapter_1_0.txt', 64)
+In not 0 section
+('class_12_biology_chapter_1_1.txt', 100)
+In not 0 section
+('Computer_Science20.txt', 197)
+In not 0 section
+('Computer_Science21.txt', 203)
+In not 0 section
+('Computer_Science22.txt', 179)
+In not 0 section
+('Computer_Science23.txt', 75)
+In not 0 section
+('Computer_Science24.txt', 93)
+In not 0 section
+('Computer_Science25.txt', 168)
+In not 0 section
+('Computer_Science26.txt', 112)
+In not 0 section
+('Computer_Science27.txt', 132)
+In not 0 section
+('Computer_Science28.txt', 90)
+In not 0 section
+('Computer_Science29.txt', 111)
+In not 0 section
+('Computer_Science30.txt', 69)
+In not 0 section
+('Computer_Science31.txt', 132)
+In not 0 section
+('Computer_Science32.txt', 78)
+In not 0 section
+('Computer_Science33.txt', 81)
+In not 0 section
+('Computer_Science392.txt', 159)
+In not 0 section
+('History_153.txt', 307)
+In not 0 section
+('History_20.txt', 210)
+In not 0 section
+('History_21.txt', 220)
+In not 0 section
+('History_22.txt', 215)
+In not 0 section
+('History_23.txt', 246)
+In not 0 section
+('History_24.txt', 199)
+In not 0 section
+('History_25.txt', 233)
+In not 0 section
+('History_26.txt', 236)
+In not 0 section
+('History_27.txt', 217)
+In not 0 section
+('History_28.txt', 227)
+In not 0 section
+('History_29.txt', 106)
+In not 0 section
+('History_31.txt', 169)
+In not 0 section
+('History_32.txt', 302)
+In not 0 section
+('History_33.txt', 303)
+In not 0 section
+('History_34.txt', 344)
+In not 0 section
+('Math_14.txt', 51)
+In not 0 section
+('Math_147.txt', 44)
+In not 0 section
+('Math_15.txt', 81)
+In not 0 section
+('Math_16.txt', 46)
+In not 0 section
+('Math_17.txt', 64)
+In not 0 section
+('Math_18.txt', 23)
+In not 0 section
+('Math_19.txt', 68)
+In not 0 section
+('Math_20.txt', 38)
+In not 0 section
+('Math_21.txt', 33)
+In not 0 section
+('Math_22.txt', 72)
+In not 0 section
+('Math_23.txt', 92)
+In not 0 section
+('Math_24.txt', 49)
+In not 0 section
+('Math_25.txt', 67)
+In not 0 section
+('Math_26.txt', 49)
+In not 0 section
+('Math_27.txt', 37)
+In not 0 section
+('aamem', 8)
+In not 0 section
+('aamm', 15)
+In not 0 section
+('aand', 9)
+In not 0 section
+('aanll', 8)
+In not 0 section
+('aasb', 9)
+In not 0 section
+('ababa', 9)
+In not 0 section
+('abbreviated', 17)
+In not 0 section
+('abbreviation', 9)
+In not 0 section
+('abdel', 9)
+In not 0 section
+('ability', 19)
+In not 0 section
+('able', 64)
+In not 0 section
+('abnormal', 9)
+In not 0 section
+('aboard', 9)
+In not 0 section
+('abode', 12)
+In not 0 section
+('abroad', 9)
+In not 0 section
+('absence', 9)
+In not 0 section
+('absolute', 45)
+In not 0 section
+('absolutely', 9)
+In not 0 section
+('absolve', 9)
+In not 0 section
+('abstraction', 29)
+In not 0 section
+('absurd', 9)
+In not 0 section
+('abundant', 9)
+In not 0 section
+('academy', 9)
+In not 0 section
+('accelerated', 9)
+In not 0 section
+('acceleration', 22)
+In not 0 section
+('acceptable', 8)
+In not 0 section
+('acceptance', 18)
+In not 0 section
+('accepted', 54)
+In not 0 section
+('access', 14)
+In not 0 section
+('accessed', 16)
+In not 0 section
+('accessibility', 9)
+In not 0 section
+('accidental', 9)
+In not 0 section
+('acclaim', 9)
+In not 0 section
+('accommodating', 9)
+In not 0 section
+('accompanied', 8)
+In not 0 section
+('accord', 83)
+In not 0 section
+('according', 33)
+In not 0 section
+('account', 154)
+In not 0 section
+('accountancy', 21)
+In not 0 section
+('accountant', 9)
+In not 0 section
+('accounting', 9)
+In not 0 section
+('accumulation', 8)
+In not 0 section
+('accuracy', 56)
+In not 0 section
+('accurate', 35)
+In not 0 section
+('achieve', 9)
+In not 0 section
+('achieved', 9)
+In not 0 section
+('acid', 31)
+In not 0 section
+('acknowledged', 9)
+In not 0 section
+('acnlally', 9)
+In not 0 section
+('acquired', 9)
+In not 0 section
+('acquitted', 8)
+In not 0 section
+('acre', 9)
+In not 0 section
+('acronym', 26)
+In not 0 section
+('across', 82)
+In not 0 section
+('acted', 9)
+In not 0 section
+('action', 18)
+In not 0 section
+('active', 8)
+In not 0 section
+('activist', 17)
+In not 0 section
+('activity', 57)
+In not 0 section
+('actu', 9)
+In not 0 section
+('actual', 43)
+In not 0 section
+('actually', 44)
+In not 0 section
+('adaptation', 18)
+In not 0 section
+('added', 37)
+In not 0 section
+('addend', 7)
+In not 0 section
+('addi', 21)
+In not 0 section
+('adding', 40)
+In not 0 section
+('addis', 9)
+In not 0 section
+('addition', 133)
+In not 0 section
+('additional', 34)
+In not 0 section
+('additive', 10)
+In not 0 section
+('ade', 8)
+In not 0 section
+('adjusted', 9)
+In not 0 section
+('adminis', 9)
+In not 0 section
+('administration', 27)
+In not 0 section
+('admire', 9)
+In not 0 section
+('adopt', 18)
+In not 0 section
+('adopted', 37)
+In not 0 section
+('adult', 9)
+In not 0 section
+('advance', 38)
+In not 0 section
+('advanced', 24)
+In not 0 section
+('advancing', 9)
+In not 0 section
+('advantage', 62)
+In not 0 section
+('adverse', 9)
+In not 0 section
+('aeronautics', 9)
+In not 0 section
+('aestivum', 9)
+In not 0 section
+('affect', 52)
+In not 0 section
+('affected', 26)
+In not 0 section
+('affecting', 18)
+In not 0 section
+('affirm', 9)
+In not 0 section
+('afford', 9)
+In not 0 section
+('afghanistan', 55)
+In not 0 section
+('africa', 88)
+In not 0 section
+('african', 39)
+In not 0 section
+('agassiz', 9)
+In not 0 section
+('agency', 32)
+In not 0 section
+('aggregate', 24)
+In not 0 section
+('aggression', 18)
+In not 0 section
+('agree', 43)
+In not 0 section
+('agreed', 17)
+In not 0 section
+('agreement', 85)
+In not 0 section
+('agrees', 17)
+In not 0 section
+('agricul', 9)
+In not 0 section
+('agricultural', 68)
+In not 0 section
+('agriculture', 57)
+In not 0 section
+('ahead', 17)
+In not 0 section
+('aiaa', 17)
+In not 0 section
+('aid', 46)
+In not 0 section
+('aimed', 9)
+In not 0 section
+('aircraft', 18)
+In not 0 section
+('airlift', 14)
+In not 0 section
+('airline', 9)
+In not 0 section
+('airplane', 27)
+In not 0 section
+('airport', 9)
+In not 0 section
+('airway', 9)
+In not 0 section
+('alarmed', 9)
+In not 0 section
+('alcohol', 12)
+In not 0 section
+('aldrin', 9)
+In not 0 section
+('aleutian', 8)
+In not 0 section
+('alexander', 27)
+In not 0 section
+('algae', 16)
+In not 0 section
+('algebra', 42)
+In not 0 section
+('algebraic', 15)
+In not 0 section
+('algeria', 24)
+In not 0 section
+('algerian', 9)
+In not 0 section
+('algorithm', 24)
+In not 0 section
+('align', 8)
+In not 0 section
+('aligned', 13)
+In not 0 section
+('allahabad', 9)
+In not 0 section
+('allen', 9)
+In not 0 section
+('allende', 21)
+In not 0 section
+('alleviating', 9)
+In not 0 section
+('alliance', 9)
+In not 0 section
+('allocating', 9)
+In not 0 section
+('allotted', 7)
+In not 0 section
+('allow', 36)
+In not 0 section
+('allowed', 27)
+In not 0 section
+('allowing', 18)
+In not 0 section
+('allows', 9)
+In not 0 section
+('alloy', 9)
+In not 0 section
+('ally', 9)
+In not 0 section
+('alma', 9)
+In not 0 section
+('almost', 61)
+In not 0 section
+('along', 103)
+In not 0 section
+('alongside', 9)
+In not 0 section
+('alphabet', 11)
+In not 0 section
+('already', 66)
+In not 0 section
+('alsatian', 9)
+In not 0 section
+('also', 458)
+In not 0 section
+('alter', 8)
+In not 0 section
+('altered', 8)
+In not 0 section
+('alternately', 6)
+In not 0 section
+('alternative', 9)
+In not 0 section
+('although', 150)
+In not 0 section
+('alto', 9)
+In not 0 section
+('always', 79)
+In not 0 section
+('amazing', 23)
+In not 0 section
+('ambiguity', 6)
+In not 0 section
+('amean', 8)
+In not 0 section
+('amem', 6)
+In not 0 section
+('amen', 6)
+In not 0 section
+('amendment', 9)
+In not 0 section
+('america', 55)
+In not 0 section
+('american', 117)
+In not 0 section
+('amid', 8)
+In not 0 section
+('amin', 48)
+In not 0 section
+('amnesty', 9)
+In not 0 section
+('amoeba', 9)
+In not 0 section
+('among', 173)
+In not 0 section
+('amongst', 9)
+In not 0 section
+('amount', 153)
+In not 0 section
+('ampere', 8)
+In not 0 section
+('amphibian', 9)
+In not 0 section
+('amply', 9)
+In not 0 section
+('amwjx', 7)
+In not 0 section
+('anacardiaceae', 9)
+In not 0 section
+('analysis', 47)
+In not 0 section
+('analytical', 5)
+In not 0 section
+('anatomy', 17)
+In not 0 section
+('andhra', 9)
+In not 0 section
+('andr', 9)
+In not 0 section
+('andromeda', 7)
+In not 0 section
+('andz', 4)
+In not 0 section
+('angered', 9)
+In not 0 section
+('angiospermae', 15)
+In not 0 section
+('angle', 86)
+In not 0 section
+('angola', 21)
+In not 0 section
+('angstrom', 30)
+In not 0 section
+('angular', 19)
+In not 0 section
+('angy', 9)
+In not 0 section
+('animal', 208)
+In not 0 section
+('animalia', 8)
+In not 0 section
+('animate', 9)
+In not 0 section
+('announced', 9)
+In not 0 section
+('announces', 24)
+In not 0 section
+('annual', 29)
+In not 0 section
+('annually', 8)
+In not 0 section
+('another', 189)
+In not 0 section
+('answer', 172)
+In not 0 section
+('answering', 8)
+In not 0 section
+('anthropocentric', 9)
+In not 0 section
+('anthropogenic', 9)
+In not 0 section
+('anthropology', 16)
+In not 0 section
+('anticommunists', 9)
+In not 0 section
+('antiwar', 16)
+In not 0 section
+('anwar', 11)
+In not 0 section
+('anyone', 9)
+In not 0 section
+('anything', 17)
+In not 0 section
+('aoumunooov', 1)
+In not 0 section
+('aozou', 9)
+In not 0 section
+('apart', 9)
+In not 0 section
+('apex', 9)
+In not 0 section
+('apollo', 23)
+In not 0 section
+('apparatus', 9)
+In not 0 section
+('appear', 15)
+In not 0 section
+('appearance', 9)
+In not 0 section
+('appeared', 9)
+In not 0 section
+('appearing', 43)
+In not 0 section
+('appears', 54)
+In not 0 section
+('appendix', 22)
+In not 0 section
+('appendixa', 12)
+In not 0 section
+('appliance', 17)
+In not 0 section
+('applica', 9)
+In not 0 section
+('applicable', 9)
+In not 0 section
+('application', 192)
+In not 0 section
+('applied', 8)
+In not 0 section
+('apply', 9)
+In not 0 section
+('appoint', 8)
+In not 0 section
+('appreciate', 9)
+In not 0 section
+('approach', 76)
+In not 0 section
+('appropriate', 34)
+In not 0 section
+('appropriating', 9)
+In not 0 section
+('approves', 9)
+In not 0 section
+('approximate', 35)
+In not 0 section
+('approximately', 26)
+In not 0 section
+('april', 55)
+In not 0 section
+('aquatic', 9)
+In not 0 section
+('aquifer', 8)
+In not 0 section
+('aquino', 9)
+In not 0 section
+('arab', 34)
+In not 0 section
+('arabia', 25)
+In not 0 section
+('arable', 9)
+In not 0 section
+('arbenz', 9)
+In not 0 section
+('arbitrarily', 9)
+In not 0 section
+('archi', 9)
+In not 0 section
+('architecture', 47)
+In not 0 section
+('archive', 9)
+In not 0 section
+('arcmin', 8)
+In not 0 section
+('arctic', 9)
+In not 0 section
+('area', 132)
+In not 0 section
+('areal', 19)
+In not 0 section
+('argentina', 37)
+In not 0 section
+('argentine', 9)
+In not 0 section
+('argentinean', 17)
+In not 0 section
+('argue', 9)
+In not 0 section
+('argued', 9)
+In not 0 section
+('argument', 15)
+In not 0 section
+('ariane', 8)
+In not 0 section
+('arise', 41)
+In not 0 section
+('arises', 9)
+In not 0 section
+('aristotle', 9)
+In not 0 section
+('arithmatic', 7)
+In not 0 section
+('arithmetic', 59)
+In not 0 section
+('arm', 25)
+In not 0 section
+('armas', 9)
+In not 0 section
+('armed', 41)
+In not 0 section
+('armistice', 11)
+In not 0 section
+('armpit', 9)
+In not 0 section
+('armstrong', 15)
+In not 0 section
+('army', 42)
+In not 0 section
+('around', 75)
+In not 0 section
+('arranged', 1)
+In not 0 section
+('arrangement', 46)
+In not 0 section
+('array', 9)
+In not 0 section
+('arrested', 9)
+In not 0 section
+('arrival', 9)
+In not 0 section
+('arrive', 17)
+In not 0 section
+('arrives', 9)
+In not 0 section
+('art', 16)
+In not 0 section
+('arthropoda', 9)
+In not 0 section
+('arti', 9)
+In not 0 section
+('article', 7)
+In not 0 section
+('artificial', 17)
+In not 0 section
+('artistic', 9)
+In not 0 section
+('artshome', 9)
+In not 0 section
+('ascending', 13)
+In not 0 section
+('asean', 14)
+In not 0 section
+('asexual', 21)
+In not 0 section
+('asia', 43)
+In not 0 section
+('asian', 18)
+In not 0 section
+('asked', 9)
+In not 0 section
+('aspect', 109)
+In not 0 section
+('ass', 9)
+In not 0 section
+('assas', 9)
+In not 0 section
+('assassin', 9)
+In not 0 section
+('assassinated', 66)
+In not 0 section
+('assassination', 7)
+In not 0 section
+('assault', 9)
+In not 0 section
+('assemblage', 8)
+In not 0 section
+('assembled', 8)
+In not 0 section
+('assembler', 36)
+In not 0 section
+('assembly', 49)
+In not 0 section
+('assign', 9)
+In not 0 section
+('assigned', 24)
+In not 0 section
+('assistant', 14)
+In not 0 section
+('associate', 9)
+In not 0 section
+('associated', 32)
+In not 0 section
+('association', 33)
+In not 0 section
+('associative', 21)
+In not 0 section
+('assume', 15)
+In not 0 section
+('assuming', 9)
+In not 0 section
+('astronaut', 9)
+In not 0 section
+('astronomer', 9)
+In not 0 section
+('astronomical', 18)
+In not 0 section
+('astronomy', 9)
+In not 0 section
+('aswa', 9)
+In not 0 section
+('atat', 9)
+In not 0 section
+('atlantic', 16)
+In not 0 section
+('atmem', 8)
+In not 0 section
+('atmosphere', 22)
+In not 0 section
+('atmospheric', 18)
+In not 0 section
+('atom', 94)
+In not 0 section
+('atomic', 115)
+In not 0 section
+('atop', 9)
+In not 0 section
+('attached', 18)
+In not 0 section
+('attack', 118)
+In not 0 section
+('attacked', 9)
+In not 0 section
+('attacking', 9)
+In not 0 section
+('attaining', 9)
+In not 0 section
+('attempt', 91)
+In not 0 section
+('attempting', 9)
+In not 0 section
+('attend', 9)
+In not 0 section
+('attending', 8)
+In not 0 section
+('attention', 18)
+In not 0 section
+('attractive', 9)
+In not 0 section
+('attribute', 28)
+In not 0 section
+('audio', 9)
+In not 0 section
+('august', 42)
+In not 0 section
+('augusto', 8)
+In not 0 section
+('australasia', 11)
+In not 0 section
+('australia', 9)
+In not 0 section
+('author', 26)
+In not 0 section
+('authorization', 9)
+In not 0 section
+('authorized', 9)
+In not 0 section
+('auto', 16)
+In not 0 section
+('automated', 9)
+In not 0 section
+('automatic', 8)
+In not 0 section
+('automobile', 18)
+In not 0 section
+('autonomy', 9)
+In not 0 section
+('availability', 8)
+In not 0 section
+('available', 61)
+In not 0 section
+('average', 40)
+In not 0 section
+('aviv', 9)
+In not 0 section
+('avoid', 18)
+In not 0 section
+('avoided', 7)
+In not 0 section
+('awarded', 9)
+In not 0 section
+('aware', 26)
+In not 0 section
+('away', 25)
+In not 0 section
+('ayatollah', 9)
+In not 0 section
+('aylwin', 9)
+In not 0 section
+('aziz', 9)
+In not 0 section
+('baaiaabiaaab', 9)
+In not 0 section
+('back', 47)
+In not 0 section
+('background', 8)
+In not 0 section
+('backyard', 9)
+In not 0 section
+('bacteria', 16)
+In not 0 section
+('bag', 9)
+In not 0 section
+('balance', 114)
+In not 0 section
+('balanced', 15)
+In not 0 section
+('balancing', 9)
+In not 0 section
+('ball', 19)
+In not 0 section
+('baltic', 9)
+In not 0 section
+('balzan', 7)
+In not 0 section
+('ban', 7)
+In not 0 section
+('banana', 9)
+In not 0 section
+('band', 9)
+In not 0 section
+('bandung', 15)
+In not 0 section
+('bang', 9)
+In not 0 section
+('bangladesh', 9)
+In not 0 section
+('bank', 156)
+In not 0 section
+('barn', 9)
+In not 0 section
+('barrack', 9)
+In not 0 section
+('barrier', 8)
+In not 0 section
+('base', 95)
+In not 0 section
+('based', 176)
+In not 0 section
+('basf', 9)
+In not 0 section
+('basic', 144)
+In not 0 section
+('basis', 81)
+In not 0 section
+('basketball', 9)
+In not 0 section
+('basutoland', 9)
+In not 0 section
+('batista', 41)
+In not 0 section
+('battle', 17)
+In not 0 section
+('bayer', 9)
+In not 0 section
+('beam', 9)
+In not 0 section
+('bearer', 31)
+In not 0 section
+('beat', 8)
+In not 0 section
+('beauty', 9)
+In not 0 section
+('became', 69)
+In not 0 section
+('bech', 9)
+In not 0 section
+('become', 105)
+In not 0 section
+('becomes', 217)
+In not 0 section
+('becoming', 9)
+In not 0 section
+('bed', 9)
+In not 0 section
+('bee', 9)
+In not 0 section
+('began', 68)
+In not 0 section
+('begin', 97)
+In not 0 section
+('beginning', 73)
+In not 0 section
+('begun', 9)
+In not 0 section
+('behave', 9)
+In not 0 section
+('behaviour', 26)
+In not 0 section
+('behind', 9)
+In not 0 section
+('beijing', 18)
+In not 0 section
+('being', 138)
+In not 0 section
+('beirut', 9)
+In not 0 section
+('beleaguered', 9)
+In not 0 section
+('belgian', 15)
+In not 0 section
+('belgium', 15)
+In not 0 section
+('believe', 9)
+In not 0 section
+('bell', 18)
+In not 0 section
+('belong', 24)
+In not 0 section
+('belonging', 16)
+In not 0 section
+('belongs', 16)
+In not 0 section
+('benazir', 11)
+In not 0 section
+('bend', 9)
+In not 0 section
+('benefit', 27)
+In not 0 section
+('berlin', 9)
+In not 0 section
+('bers', 28)
+In not 0 section
+('besides', 40)
+In not 0 section
+('best', 32)
+In not 0 section
+('better', 84)
+In not 0 section
+('betty', 7)
+In not 0 section
+('beyond', 26)
+In not 0 section
+('bhopal', 23)
+In not 0 section
+('bhutto', 23)
+In not 0 section
+('biab', 16)
+In not 0 section
+('bias', 15)
+In not 0 section
+('bien', 13)
+In not 0 section
+('bigger', 9)
+In not 0 section
+('biggest', 9)
+In not 0 section
+('bill', 15)
+In not 0 section
+('billion', 30)
+In not 0 section
+('binary', 55)
+In not 0 section
+('bine', 9)
+In not 0 section
+('binomial', 20)
+In not 0 section
+('biodiversity', 18)
+In not 0 section
+('biogeography', 20)
+In not 0 section
+('biological', 91)
+In not 0 section
+('biologist', 43)
+In not 0 section
+('biologr', 9)
+In not 0 section
+('biology', 93)
+In not 0 section
+('biomolecules', 9)
+In not 0 section
+('bioquy', 8)
+In not 0 section
+('bios', 9)
+In not 0 section
+('biosphere', 17)
+In not 0 section
+('bipm', 9)
+In not 0 section
+('bird', 48)
+In not 0 section
+('birth', 9)
+In not 0 section
+('bit', 14)
+In not 0 section
+('bitrarily', 9)
+In not 0 section
+('black', 27)
+In not 0 section
+('blackboard', 9)
+In not 0 section
+('blamed', 17)
+In not 0 section
+('blank', 9)
+In not 0 section
+('block', 9)
+In not 0 section
+('blood', 27)
+In not 0 section
+('bloodily', 9)
+In not 0 section
+('bloody', 9)
+In not 0 section
+('board', 17)
+In not 0 section
+('bodia', 8)
+In not 0 section
+('body', 115)
+In not 0 section
+('bodyguard', 9)
+In not 0 section
+('boeing', 27)
+In not 0 section
+('boiling', 8)
+In not 0 section
+('bolic', 9)
+In not 0 section
+('bolivia', 8)
+In not 0 section
+('bolivian', 15)
+In not 0 section
+('bomb', 62)
+In not 0 section
+('bombed', 9)
+In not 0 section
+('bomber', 17)
+In not 0 section
+('bombing', 17)
+In not 0 section
+('book', 275)
+In not 0 section
+('border', 56)
+In not 0 section
+('boring', 9)
+In not 0 section
+('boris', 24)
+In not 0 section
+('born', 12)
+In not 0 section
+('borne', 8)
+In not 0 section
+('borneo', 9)
+In not 0 section
+('borrow', 17)
+In not 0 section
+('bosnia', 23)
+In not 0 section
+('botanical', 47)
+In not 0 section
+('botanist', 9)
+In not 0 section
+('botany', 32)
+In not 0 section
+('botswana', 17)
+In not 0 section
+('bottleneck', 9)
+In not 0 section
+('bottom', 6)
+In not 0 section
+('boulder', 9)
+In not 0 section
+('bound', 17)
+In not 0 section
+('boundary', 41)
+In not 0 section
+('box', 16)
+In not 0 section
+('brain', 8)
+In not 0 section
+('branch', 73)
+In not 0 section
+('brazil', 17)
+In not 0 section
+('bread', 9)
+In not 0 section
+('break', 97)
+In not 0 section
+('breakthrough', 9)
+In not 0 section
+('breeder', 9)
+In not 0 section
+('brezhnev', 9)
+In not 0 section
+('bridge', 9)
+In not 0 section
+('brief', 26)
+In not 0 section
+('briend', 9)
+In not 0 section
+('brilliant', 9)
+In not 0 section
+('bring', 42)
+In not 0 section
+('bringing', 27)
+In not 0 section
+('brings', 34)
+In not 0 section
+('brinjal', 8)
+In not 0 section
+('brit', 9)
+In not 0 section
+('britain', 56)
+In not 0 section
+('british', 79)
+In not 0 section
+('briton', 9)
+In not 0 section
+('broad', 44)
+In not 0 section
+('broadly', 25)
+In not 0 section
+('brokered', 9)
+In not 0 section
+('brother', 18)
+In not 0 section
+('brought', 35)
+In not 0 section
+('brown', 9)
+In not 0 section
+('brunei', 8)
+In not 0 section
+('bubble', 9)
+In not 0 section
+('budding', 8)
+In not 0 section
+('buffer', 8)
+In not 0 section
+('build', 27)
+In not 0 section
+('building', 18)
+In not 0 section
+('buildup', 8)
+In not 0 section
+('built', 27)
+In not 0 section
+('bulky', 16)
+In not 0 section
+('bump', 10)
+In not 0 section
+('bureau', 24)
+In not 0 section
+('burkina', 8)
+In not 0 section
+('burma', 9)
+In not 0 section
+('burundi', 10)
+In not 0 section
+('bush', 21)
+In not 0 section
+('business', 75)
+In not 0 section
+('businessman', 9)
+In not 0 section
+('buying', 9)
+In not 0 section
+('bypassing', 15)
+In not 0 section
+('byte', 16)
+In not 0 section
+('cache', 9)
+In not 0 section
+('cahier', 9)
+In not 0 section
+('calcula', 9)
+In not 0 section
+('calculate', 32)
+In not 0 section
+('calculated', 25)
+In not 0 section
+('calculation', 31)
+In not 0 section
+('calibrated', 9)
+In not 0 section
+('calibration', 8)
+In not 0 section
+('california', 9)
+In not 0 section
+('call', 25)
+In not 0 section
+('called', 277)
+In not 0 section
+('calliper', 20)
+In not 0 section
+('cally', 18)
+In not 0 section
+('calorie', 7)
+In not 0 section
+('cambodia', 38)
+In not 0 section
+('cambodian', 17)
+In not 0 section
+('came', 18)
+In not 0 section
+('camera', 9)
+In not 0 section
+('camp', 9)
+In not 0 section
+('campaign', 9)
+In not 0 section
+('campus', 9)
+In not 0 section
+('canada', 9)
+In not 0 section
+('canal', 18)
+In not 0 section
+('cancelled', 9)
+In not 0 section
+('candela', 7)
+In not 0 section
+('candi', 9)
+In not 0 section
+('canidae', 11)
+In not 0 section
+('cannot', 113)
+In not 0 section
+('cant', 38)
+In not 0 section
+('capability', 24)
+In not 0 section
+('capable', 18)
+In not 0 section
+('capacity', 42)
+In not 0 section
+('capital', 33)
+In not 0 section
+('capture', 37)
+In not 0 section
+('car', 8)
+In not 0 section
+('carbide', 13)
+In not 0 section
+('carbon', 30)
+In not 0 section
+('care', 25)
+In not 0 section
+('career', 9)
+In not 0 section
+('carelessness', 9)
+In not 0 section
+('cargo', 9)
+In not 0 section
+('caribbean', 9)
+In not 0 section
+('carlos', 17)
+In not 0 section
+('carnivora', 13)
+In not 0 section
+('caroline', 7)
+In not 0 section
+('carolus', 9)
+In not 0 section
+('carried', 43)
+In not 0 section
+('carry', 37)
+In not 0 section
+('carrying', 9)
+In not 0 section
+('carson', 17)
+In not 0 section
+('cartage', 18)
+In not 0 section
+('carter', 9)
+In not 0 section
+('cartographic', 16)
+In not 0 section
+('cartography', 31)
+In not 0 section
+('case', 140)
+In not 0 section
+('cash', 210)
+In not 0 section
+('cashbook', 17)
+In not 0 section
+('cashier', 95)
+In not 0 section
+('cashless', 9)
+In not 0 section
+('castillo', 8)
+In not 0 section
+('castro', 93)
+In not 0 section
+('cat', 32)
+In not 0 section
+('catalogue', 18)
+In not 0 section
+('catapulted', 9)
+In not 0 section
+('cated', 9)
+In not 0 section
+('category', 154)
+In not 0 section
+('catholic', 8)
+In not 0 section
+('cation', 139)
+In not 0 section
+('causal', 15)
+In not 0 section
+('cause', 66)
+In not 0 section
+('caused', 23)
+In not 0 section
+('caution', 9)
+In not 0 section
+('cctoe', 7)
+In not 0 section
+('ceaus', 16)
+In not 0 section
+('celebrate', 9)
+In not 0 section
+('cell', 119)
+In not 0 section
+('celled', 9)
+In not 0 section
+('cellular', 16)
+In not 0 section
+('cent', 8)
+In not 0 section
+('center', 24)
+In not 0 section
+('centimetre', 7)
+In not 0 section
+('central', 75)
+In not 0 section
+('centralized', 8)
+In not 0 section
+('centre', 30)
+In not 0 section
+('century', 82)
+In not 0 section
+('cepts', 9)
+In not 0 section
+('certain', 126)
+In not 0 section
+('cesium', 42)
+In not 0 section
+('cessing', 5)
+In not 0 section
+('cessor', 18)
+In not 0 section
+('cessors', 8)
+In not 0 section
+('chad', 54)
+In not 0 section
+('chain', 8)
+In not 0 section
+('chairman', 9)
+In not 0 section
+('challenge', 16)
+In not 0 section
+('chance', 25)
+In not 0 section
+('chang', 9)
+In not 0 section
+('change', 93)
+In not 0 section
+('changed', 18)
+In not 0 section
+('changing', 23)
+In not 0 section
+('chaos', 16)
+In not 0 section
+('chapter', 205)
+In not 0 section
+('character', 67)
+In not 0 section
+('characterisation', 8)
+In not 0 section
+('characterised', 9)
+In not 0 section
+('characteristic', 101)
+In not 0 section
+('characterized', 8)
+In not 0 section
+('charge', 47)
+In not 0 section
+('charged', 17)
+In not 0 section
+('charles', 9)
+In not 0 section
+('chart', 8)
+In not 0 section
+('cheaper', 9)
+In not 0 section
+('cheapest', 9)
+In not 0 section
+('chechen', 9)
+In not 0 section
+('chechnya', 15)
+In not 0 section
+('check', 83)
+In not 0 section
+('checked', 7)
+In not 0 section
+('checking', 8)
+In not 0 section
+('chem', 9)
+In not 0 section
+('chemical', 81)
+In not 0 section
+('chemistry', 34)
+In not 0 section
+('cheque', 117)
+In not 0 section
+('chernobyl', 21)
+In not 0 section
+('chiang', 12)
+In not 0 section
+('chief', 15)
+In not 0 section
+('child', 27)
+In not 0 section
+('chile', 39)
+In not 0 section
+('chilean', 9)
+In not 0 section
+('china', 208)
+In not 0 section
+('chinese', 64)
+In not 0 section
+('ching', 12)
+In not 0 section
+('chip', 27)
+In not 0 section
+('chipko', 7)
+In not 0 section
+('choice', 33)
+In not 0 section
+('choose', 16)
+In not 0 section
+('choosing', 9)
+In not 0 section
+('chordata', 17)
+In not 0 section
+('chosen', 26)
+In not 0 section
+('chronological', 7)
+In not 0 section
+('chronology', 51)
+In not 0 section
+('chuck', 9)
+In not 0 section
+('cial', 18)
+In not 0 section
+('ciency', 9)
+In not 0 section
+('circle', 15)
+In not 0 section
+('circuit', 9)
+In not 0 section
+('circular', 18)
+In not 0 section
+('circulated', 7)
+In not 0 section
+('cisely', 9)
+In not 0 section
+('city', 28)
+In not 0 section
+('civics', 9)
+In not 0 section
+('civil', 119)
+In not 0 section
+('civilian', 27)
+In not 0 section
+('civilization', 8)
+In not 0 section
+('claimed', 9)
+In not 0 section
+('clamp', 9)
+In not 0 section
+('clash', 16)
+In not 0 section
+('class', 132)
+In not 0 section
+('classi', 84)
+In not 0 section
+('classic', 15)
+In not 0 section
+('classification', 49)
+In not 0 section
+('classified', 7)
+In not 0 section
+('classify', 9)
+In not 0 section
+('clean', 9)
+In not 0 section
+('clear', 36)
+In not 0 section
+('clearer', 9)
+In not 0 section
+('clearly', 43)
+In not 0 section
+('cleavage', 17)
+In not 0 section
+('cleave', 8)
+In not 0 section
+('climate', 59)
+In not 0 section
+('climatic', 24)
+In not 0 section
+('climatology', 29)
+In not 0 section
+('climbed', 9)
+In not 0 section
+('clin', 9)
+In not 0 section
+('clinton', 10)
+In not 0 section
+('clock', 83)
+In not 0 section
+('close', 31)
+In not 0 section
+('closely', 37)
+In not 0 section
+('closer', 24)
+In not 0 section
+('closing', 18)
+In not 0 section
+('clothes', 9)
+In not 0 section
+('clothing', 39)
+In not 0 section
+('club', 9)
+In not 0 section
+('clue', 9)
+In not 0 section
+('clumsy', 8)
+In not 0 section
+('coal', 17)
+In not 0 section
+('coalition', 18)
+In not 0 section
+('coast', 17)
+In not 0 section
+('coastline', 25)
+In not 0 section
+('cobol', 9)
+In not 0 section
+('cocoa', 9)
+In not 0 section
+('code', 38)
+In not 0 section
+('coffee', 9)
+In not 0 section
+('coffeehouse', 9)
+In not 0 section
+('coincide', 6)
+In not 0 section
+('coincidence', 16)
+In not 0 section
+('coined', 24)
+In not 0 section
+('cold', 63)
+In not 0 section
+('collaboration', 9)
+In not 0 section
+('collect', 18)
+In not 0 section
+('collected', 15)
+In not 0 section
+('collecting', 17)
+In not 0 section
+('collection', 52)
+In not 0 section
+('collective', 18)
+In not 0 section
+('collectively', 8)
+In not 0 section
+('collector', 8)
+In not 0 section
+('college', 18)
+In not 0 section
+('collins', 9)
+In not 0 section
+('colo', 8)
+In not 0 section
+('colombia', 9)
+In not 0 section
+('colombian', 8)
+In not 0 section
+('colonel', 18)
+In not 0 section
+('colonial', 9)
+In not 0 section
+('colonise', 8)
+In not 0 section
+('colony', 9)
+In not 0 section
+('colour', 18)
+In not 0 section
+('column', 139)
+In not 0 section
+('coma', 9)
+In not 0 section
+('combination', 34)
+In not 0 section
+('combine', 13)
+In not 0 section
+('combined', 9)
+In not 0 section
+('combining', 9)
+In not 0 section
+('come', 145)
+In not 0 section
+('coming', 9)
+In not 0 section
+('command', 8)
+In not 0 section
+('commensurate', 9)
+In not 0 section
+('commercial', 32)
+In not 0 section
+('commercially', 9)
+In not 0 section
+('commission', 9)
+In not 0 section
+('commit', 7)
+In not 0 section
+('commitment', 9)
+In not 0 section
+('commits', 9)
+In not 0 section
+('common', 141)
+In not 0 section
+('commonly', 39)
+In not 0 section
+('commonwealth', 22)
+In not 0 section
+('communicated', 8)
+In not 0 section
+('communication', 26)
+In not 0 section
+('communist', 136)
+In not 0 section
+('community', 8)
+In not 0 section
+('commutative', 27)
+In not 0 section
+('commuter', 9)
+In not 0 section
+('commuting', 8)
+In not 0 section
+('company', 17)
+In not 0 section
+('compare', 23)
+In not 0 section
+('compared', 23)
+In not 0 section
+('comparison', 16)
+In not 0 section
+('competitive', 9)
+In not 0 section
+('competitor', 9)
+In not 0 section
+('compile', 6)
+In not 0 section
+('compiler', 86)
+In not 0 section
+('compl', 9)
+In not 0 section
+('complete', 62)
+In not 0 section
+('completed', 18)
+In not 0 section
+('completely', 9)
+In not 0 section
+('completes', 9)
+In not 0 section
+('complex', 85)
+In not 0 section
+('complexity', 9)
+In not 0 section
+('complicated', 9)
+In not 0 section
+('complied', 8)
+In not 0 section
+('compo', 8)
+In not 0 section
+('component', 90)
+In not 0 section
+('compos', 4)
+In not 0 section
+('composed', 8)
+In not 0 section
+('composite', 40)
+In not 0 section
+('composition', 17)
+In not 0 section
+('compounded', 13)
+In not 0 section
+('comprehend', 9)
+In not 0 section
+('comprehended', 9)
+In not 0 section
+('comprehending', 9)
+In not 0 section
+('comprehensive', 9)
+In not 0 section
+('comprised', 9)
+In not 0 section
+('comprises', 24)
+In not 0 section
+('comprising', 68)
+In not 0 section
+('comput', 9)
+In not 0 section
+('computation', 24)
+In not 0 section
+('computational', 9)
+In not 0 section
+('compute', 8)
+In not 0 section
+('computer', 418)
+In not 0 section
+('computing', 73)
+In not 0 section
+('concentrate', 9)
+In not 0 section
+('concentration', 16)
+In not 0 section
+('concentric', 9)
+In not 0 section
+('concept', 46)
+In not 0 section
+('concern', 57)
+In not 0 section
+('concerned', 37)
+In not 0 section
+('concession', 9)
+In not 0 section
+('conciseness', 9)
+In not 0 section
+('conclude', 8)
+In not 0 section
+('concorde', 17)
+In not 0 section
+('concrete', 9)
+In not 0 section
+('condition', 43)
+In not 0 section
+('conditioner', 9)
+In not 0 section
+('conductor', 17)
+In not 0 section
+('conference', 29)
+In not 0 section
+('configured', 9)
+In not 0 section
+('confirmity', 9)
+In not 0 section
+('confirms', 9)
+In not 0 section
+('conflict', 16)
+In not 0 section
+('confrontation', 9)
+In not 0 section
+('confusion', 30)
+In not 0 section
+('congo', 21)
+In not 0 section
+('congress', 17)
+In not 0 section
+('conical', 7)
+In not 0 section
+('conjunction', 9)
+In not 0 section
+('connected', 9)
+In not 0 section
+('connection', 8)
+In not 0 section
+('connects', 7)
+In not 0 section
+('consciousness', 15)
+In not 0 section
+('consequence', 9)
+In not 0 section
+('conservation', 36)
+In not 0 section
+('consid', 16)
+In not 0 section
+('consider', 63)
+In not 0 section
+('consideration', 9)
+In not 0 section
+('considered', 32)
+In not 0 section
+('considering', 15)
+In not 0 section
+('consist', 22)
+In not 0 section
+('consistency', 14)
+In not 0 section
+('consistent', 8)
+In not 0 section
+('consisting', 8)
+In not 0 section
+('constant', 24)
+In not 0 section
+('constantine', 18)
+In not 0 section
+('constantly', 9)
+In not 0 section
+('constituency', 9)
+In not 0 section
+('constituent', 13)
+In not 0 section
+('constitute', 18)
+In not 0 section
+('constitutional', 9)
+In not 0 section
+('constraint', 8)
+In not 0 section
+('constructed', 18)
+In not 0 section
+('construction', 9)
+In not 0 section
+('consumed', 5)
+In not 0 section
+('consumer', 34)
+In not 0 section
+('consumption', 22)
+In not 0 section
+('contact', 17)
+In not 0 section
+('contain', 26)
+In not 0 section
+('container', 9)
+In not 0 section
+('containing', 9)
+In not 0 section
+('contains', 49)
+In not 0 section
+('contaminated', 9)
+In not 0 section
+('contamination', 9)
+In not 0 section
+('contemporary', 9)
+In not 0 section
+('content', 18)
+In not 0 section
+('contested', 9)
+In not 0 section
+('continue', 48)
+In not 0 section
+('continued', 9)
+In not 0 section
+('continues', 50)
+In not 0 section
+('continuously', 18)
+In not 0 section
+('contra', 31)
+In not 0 section
+('contract', 9)
+In not 0 section
+('contrast', 9)
+In not 0 section
+('contrasting', 9)
+In not 0 section
+('contribute', 9)
+In not 0 section
+('contributed', 49)
+In not 0 section
+('contribution', 17)
+In not 0 section
+('control', 114)
+In not 0 section
+('controlled', 16)
+In not 0 section
+('convenience', 9)
+In not 0 section
+('convenient', 48)
+In not 0 section
+('convention', 7)
+In not 0 section
+('conventional', 9)
+In not 0 section
+('conventionally', 16)
+In not 0 section
+('convergent', 6)
+In not 0 section
+('conversely', 9)
+In not 0 section
+('conversion', 22)
+In not 0 section
+('convert', 13)
+In not 0 section
+('converted', 17)
+In not 0 section
+('converting', 9)
+In not 0 section
+('convey', 14)
+In not 0 section
+('conveyance', 21)
+In not 0 section
+('conveys', 17)
+In not 0 section
+('convolvulaceae', 8)
+In not 0 section
+('cookware', 9)
+In not 0 section
+('cooler', 9)
+In not 0 section
+('cooling', 9)
+In not 0 section
+('cooperation', 8)
+In not 0 section
+('cooperative', 9)
+In not 0 section
+('coordinated', 9)
+In not 0 section
+('coordination', 9)
+In not 0 section
+('copper', 8)
+In not 0 section
+('copy', 17)
+In not 0 section
+('corazon', 9)
+In not 0 section
+('core', 68)
+In not 0 section
+('corn', 16)
+In not 0 section
+('corporate', 9)
+In not 0 section
+('corpuscle', 9)
+In not 0 section
+('correct', 96)
+In not 0 section
+('corrected', 8)
+In not 0 section
+('correction', 9)
+In not 0 section
+('correctly', 24)
+In not 0 section
+('corresponding', 14)
+In not 0 section
+('corruption', 8)
+In not 0 section
+('cosmologist', 9)
+In not 0 section
+('cost', 142)
+In not 0 section
+('costly', 9)
+In not 0 section
+('could', 106)
+In not 0 section
+('coun', 9)
+In not 0 section
+('council', 14)
+In not 0 section
+('count', 81)
+In not 0 section
+('counter', 21)
+In not 0 section
+('counterfoil', 9)
+In not 0 section
+('counting', 35)
+In not 0 section
+('country', 178)
+In not 0 section
+('coup', 83)
+In not 0 section
+('couple', 9)
+In not 0 section
+('couplet', 9)
+In not 0 section
+('courier', 17)
+In not 0 section
+('course', 48)
+In not 0 section
+('court', 17)
+In not 0 section
+('cover', 27)
+In not 0 section
+('covered', 9)
+In not 0 section
+('crafoord', 6)
+In not 0 section
+('crash', 47)
+In not 0 section
+('cratic', 9)
+In not 0 section
+('crease', 7)
+In not 0 section
+('create', 25)
+In not 0 section
+('created', 72)
+In not 0 section
+('creates', 8)
+In not 0 section
+('creating', 27)
+In not 0 section
+('creation', 36)
+In not 0 section
+('creative', 9)
+In not 0 section
+('creature', 8)
+In not 0 section
+('credit', 43)
+In not 0 section
+('credited', 19)
+In not 0 section
+('credo', 9)
+In not 0 section
+('cricket', 8)
+In not 0 section
+('crisis', 28)
+In not 0 section
+('criterion', 27)
+In not 0 section
+('critical', 9)
+In not 0 section
+('criticized', 9)
+In not 0 section
+('criticizing', 9)
+In not 0 section
+('croatia', 9)
+In not 0 section
+('crop', 32)
+In not 0 section
+('cropping', 18)
+In not 0 section
+('cross', 18)
+In not 0 section
+('crossed', 23)
+In not 0 section
+('crossing', 30)
+In not 0 section
+('crous', 8)
+In not 0 section
+('crown', 8)
+In not 0 section
+('crushed', 9)
+In not 0 section
+('cryptic', 8)
+In not 0 section
+('crystal', 33)
+In not 0 section
+('ctions', 9)
+In not 0 section
+('cuba', 77)
+In not 0 section
+('cuban', 97)
+In not 0 section
+('cube', 9)
+In not 0 section
+('cue', 9)
+In not 0 section
+('cuisine', 9)
+In not 0 section
+('cult', 9)
+In not 0 section
+('cultural', 118)
+In not 0 section
+('culturally', 8)
+In not 0 section
+('culture', 26)
+In not 0 section
+('culty', 9)
+In not 0 section
+('cumbersome', 15)
+In not 0 section
+('curious', 18)
+In not 0 section
+('current', 21)
+In not 0 section
+('currently', 25)
+In not 0 section
+('curriculum', 14)
+In not 0 section
+('customary', 9)
+In not 0 section
+('customer', 31)
+In not 0 section
+('customized', 18)
+In not 0 section
+('cut', 9)
+In not 0 section
+('cutting', 9)
+In not 0 section
+('cyanate', 9)
+In not 0 section
+('cycle', 26)
+In not 0 section
+('cycled', 9)
+In not 0 section
+('cylinder', 9)
+In not 0 section
+('czechoslovakia', 26)
+In not 0 section
+('dalai', 9)
+In not 0 section
+('dallas', 9)
+In not 0 section
+('dangerous', 18)
+In not 0 section
+('darfur', 9)
+In not 0 section
+('darwin', 9)
+In not 0 section
+('dashed', 7)
+In not 0 section
+('data', 150)
+In not 0 section
+('database', 33)
+In not 0 section
+('datapath', 28)
+In not 0 section
+('date', 57)
+In not 0 section
+('datura', 9)
+In not 0 section
+('david', 9)
+In not 0 section
+('day', 74)
+In not 0 section
+('daybook', 9)
+In not 0 section
+('daydreaming', 9)
+In not 0 section
+('dayton', 8)
+In not 0 section
+('dead', 16)
+In not 0 section
+('deal', 41)
+In not 0 section
+('dealing', 18)
+In not 0 section
+('death', 75)
+In not 0 section
+('debit', 37)
+In not 0 section
+('debited', 22)
+In not 0 section
+('debtor', 9)
+In not 0 section
+('decade', 26)
+In not 0 section
+('december', 34)
+In not 0 section
+('decide', 9)
+In not 0 section
+('decides', 9)
+In not 0 section
+('deciduous', 9)
+In not 0 section
+('decimal', 80)
+In not 0 section
+('decision', 9)
+In not 0 section
+('declaration', 9)
+In not 0 section
+('declare', 9)
+In not 0 section
+('declared', 8)
+In not 0 section
+('declares', 51)
+In not 0 section
+('declined', 18)
+In not 0 section
+('decreasing', 16)
+In not 0 section
+('deduce', 9)
+In not 0 section
+('deducing', 9)
+In not 0 section
+('deep', 9)
+In not 0 section
+('deepened', 9)
+In not 0 section
+('deeply', 9)
+In not 0 section
+('deer', 9)
+In not 0 section
+('defeat', 25)
+In not 0 section
+('defeated', 9)
+In not 0 section
+('defence', 16)
+In not 0 section
+('defense', 24)
+In not 0 section
+('defiance', 9)
+In not 0 section
+('define', 16)
+In not 0 section
+('defined', 8)
+In not 0 section
+('defining', 22)
+In not 0 section
+('definite', 18)
+In not 0 section
+('definition', 35)
+In not 0 section
+('deforested', 9)
+In not 0 section
+('degradation', 18)
+In not 0 section
+('degree', 17)
+In not 0 section
+('dehydrated', 9)
+In not 0 section
+('deified', 8)
+In not 0 section
+('delay', 9)
+In not 0 section
+('delhi', 33)
+In not 0 section
+('delimitation', 9)
+In not 0 section
+('delimited', 9)
+In not 0 section
+('delivered', 18)
+In not 0 section
+('delivering', 9)
+In not 0 section
+('delivery', 11)
+In not 0 section
+('dell', 9)
+In not 0 section
+('demand', 36)
+In not 0 section
+('demanding', 9)
+In not 0 section
+('demo', 9)
+In not 0 section
+('democracy', 17)
+In not 0 section
+('democrat', 9)
+In not 0 section
+('democratic', 9)
+In not 0 section
+('democratization', 17)
+In not 0 section
+('demography', 22)
+In not 0 section
+('demon', 9)
+In not 0 section
+('demonstra', 9)
+In not 0 section
+('demonstrated', 9)
+In not 0 section
+('demonstration', 18)
+In not 0 section
+('dence', 15)
+In not 0 section
+('deng', 17)
+In not 0 section
+('denoted', 9)
+In not 0 section
+('denotes', 16)
+In not 0 section
+('denoting', 9)
+In not 0 section
+('dense', 8)
+In not 0 section
+('density', 57)
+In not 0 section
+('dent', 9)
+In not 0 section
+('denunciation', 17)
+In not 0 section
+('deny', 9)
+In not 0 section
+('departed', 9)
+In not 0 section
+('department', 9)
+In not 0 section
+('depend', 44)
+In not 0 section
+('dependability', 17)
+In not 0 section
+('depended', 9)
+In not 0 section
+('dependence', 43)
+In not 0 section
+('dependency', 8)
+In not 0 section
+('dependent', 30)
+In not 0 section
+('depending', 18)
+In not 0 section
+('depends', 31)
+In not 0 section
+('depicts', 9)
+In not 0 section
+('depleted', 9)
+In not 0 section
+('deposed', 32)
+In not 0 section
+('deposes', 9)
+In not 0 section
+('deposit', 18)
+In not 0 section
+('deposited', 37)
+In not 0 section
+('depositing', 9)
+In not 0 section
+('depositor', 17)
+In not 0 section
+('depth', 9)
+In not 0 section
+('derive', 17)
+In not 0 section
+('derived', 40)
+In not 0 section
+('derives', 9)
+In not 0 section
+('describe', 33)
+In not 0 section
+('described', 47)
+In not 0 section
+('describes', 7)
+In not 0 section
+('describing', 25)
+In not 0 section
+('description', 86)
+In not 0 section
+('desert', 23)
+In not 0 section
+('design', 33)
+In not 0 section
+('designated', 14)
+In not 0 section
+('designed', 60)
+In not 0 section
+('designer', 25)
+In not 0 section
+('desktop', 95)
+In not 0 section
+('despite', 14)
+In not 0 section
+('despotic', 9)
+In not 0 section
+('destination', 9)
+In not 0 section
+('destructive', 13)
+In not 0 section
+('detail', 59)
+In not 0 section
+('detailed', 18)
+In not 0 section
+('detennines', 25)
+In not 0 section
+('deter', 9)
+In not 0 section
+('deteriorates', 9)
+In not 0 section
+('determination', 25)
+In not 0 section
+('determine', 34)
+In not 0 section
+('determined', 39)
+In not 0 section
+('determines', 17)
+In not 0 section
+('determining', 26)
+In not 0 section
+('detonate', 9)
+In not 0 section
+('devastating', 9)
+In not 0 section
+('develop', 30)
+In not 0 section
+('developed', 93)
+In not 0 section
+('development', 139)
+In not 0 section
+('develops', 18)
+In not 0 section
+('device', 133)
+In not 0 section
+('deviding', 8)
+In not 0 section
+('devise', 9)
+In not 0 section
+('devoted', 23)
+In not 0 section
+('dialogue', 9)
+In not 0 section
+('diameter', 50)
+In not 0 section
+('diametrically', 13)
+In not 0 section
+('dicotyledonae', 9)
+In not 0 section
+('dictator', 9)
+In not 0 section
+('dictatorial', 9)
+In not 0 section
+('dictatorship', 45)
+In not 0 section
+('dictum', 9)
+In not 0 section
+('died', 5)
+In not 0 section
+('dien', 13)
+In not 0 section
+('diet', 23)
+In not 0 section
+('diffefently', 9)
+In not 0 section
+('differ', 6)
+In not 0 section
+('difference', 120)
+In not 0 section
+('different', 245)
+In not 0 section
+('differentiation', 20)
+In not 0 section
+('differs', 16)
+In not 0 section
+('difficult', 17)
+In not 0 section
+('digit', 164)
+In not 0 section
+('digital', 27)
+In not 0 section
+('dilemma', 9)
+In not 0 section
+('dilute', 7)
+In not 0 section
+('dimension', 68)
+In not 0 section
+('dimensional', 42)
+In not 0 section
+('dimensionally', 23)
+In not 0 section
+('dimensionless', 16)
+In not 0 section
+('dimm', 9)
+In not 0 section
+('dinner', 8)
+In not 0 section
+('dinosaur', 9)
+In not 0 section
+('dioxide', 9)
+In not 0 section
+('diplomacy', 9)
+In not 0 section
+('diplomatic', 9)
+In not 0 section
+('diptera', 8)
+In not 0 section
+('direct', 24)
+In not 0 section
+('direction', 63)
+In not 0 section
+('directly', 46)
+In not 0 section
+('disaffected', 9)
+In not 0 section
+('disappears', 9)
+In not 0 section
+('disaster', 35)
+In not 0 section
+('disbursement', 19)
+In not 0 section
+('discharge', 9)
+In not 0 section
+('discipline', 128)
+In not 0 section
+('discount', 9)
+In not 0 section
+('discovered', 8)
+In not 0 section
+('discovery', 25)
+In not 0 section
+('discrepancy', 18)
+In not 0 section
+('discrimination', 9)
+In not 0 section
+('discus', 25)
+In not 0 section
+('discussed', 25)
+In not 0 section
+('discussion', 17)
+In not 0 section
+('disease', 9)
+In not 0 section
+('disfranchisement', 9)
+In not 0 section
+('dishonour', 8)
+In not 0 section
+('dishonoured', 16)
+In not 0 section
+('disinfectant', 9)
+In not 0 section
+('disinterested', 9)
+In not 0 section
+('disk', 9)
+In not 0 section
+('display', 18)
+In not 0 section
+('dispute', 9)
+In not 0 section
+('disrupting', 9)
+In not 0 section
+('disseminate', 9)
+In not 0 section
+('dissimilar', 16)
+In not 0 section
+('dissimilarity', 15)
+In not 0 section
+('dissolve', 7)
+In not 0 section
+('distance', 132)
+In not 0 section
+('distant', 20)
+In not 0 section
+('distinct', 57)
+In not 0 section
+('distinctive', 17)
+In not 0 section
+('distinguish', 15)
+In not 0 section
+('distinguished', 9)
+In not 0 section
+('distribu', 9)
+In not 0 section
+('distributed', 9)
+In not 0 section
+('distributing', 9)
+In not 0 section
+('distribution', 57)
+In not 0 section
+('distributional', 9)
+In not 0 section
+('distributive', 9)
+In not 0 section
+('divergent', 6)
+In not 0 section
+('diverse', 9)
+In not 0 section
+('diversity', 70)
+In not 0 section
+('divi', 8)
+In not 0 section
+('divide', 55)
+In not 0 section
+('divided', 47)
+In not 0 section
+('dividend', 31)
+In not 0 section
+('dividing', 29)
+In not 0 section
+('divisible', 37)
+In not 0 section
+('divisibly', 10)
+In not 0 section
+('division', 169)
+In not 0 section
+('divisor', 21)
+In not 0 section
+('divulge', 9)
+In not 0 section
+('document', 26)
+In not 0 section
+('dog', 24)
+In not 0 section
+('dollar', 21)
+In not 0 section
+('domestic', 9)
+In not 0 section
+('domestica', 9)
+In not 0 section
+('domination', 18)
+In not 0 section
+('dominican', 9)
+In not 0 section
+('done', 71)
+In not 0 section
+('dorsal', 9)
+In not 0 section
+('dot', 9)
+In not 0 section
+('double', 26)
+In not 0 section
+('doubled', 9)
+In not 0 section
+('doug', 9)
+In not 0 section
+('dovetailed', 9)
+In not 0 section
+('dozen', 8)
+In not 0 section
+('drainage', 9)
+In not 0 section
+('dram', 9)
+In not 0 section
+('drama', 9)
+In not 0 section
+('dramatically', 8)
+In not 0 section
+('draw', 8)
+In not 0 section
+('drawing', 26)
+In not 0 section
+('drawn', 15)
+In not 0 section
+('dreamed', 7)
+In not 0 section
+('dreas', 8)
+In not 0 section
+('dreds', 14)
+In not 0 section
+('dried', 8)
+In not 0 section
+('drink', 22)
+In not 0 section
+('driven', 41)
+In not 0 section
+('drome', 8)
+In not 0 section
+('drons', 9)
+In not 0 section
+('drop', 30)
+In not 0 section
+('dropped', 18)
+In not 0 section
+('drought', 24)
+In not 0 section
+('drove', 9)
+In not 0 section
+('drying', 9)
+In not 0 section
+('dualism', 14)
+In not 0 section
+('duarte', 11)
+In not 0 section
+('dubc', 9)
+In not 0 section
+('dudgeon', 9)
+In not 0 section
+('dump', 16)
+In not 0 section
+('dumped', 9)
+In not 0 section
+('duplicate', 9)
+In not 0 section
+('dupont', 9)
+In not 0 section
+('duration', 8)
+In not 0 section
+('dust', 9)
+In not 0 section
+('duty', 9)
+In not 0 section
+('dwight', 24)
+In not 0 section
+('dy', 42)
+In not 0 section
+('dynamic', 33)
+In not 0 section
+('eagerly', 9)
+In not 0 section
+('ear', 9)
+In not 0 section
+('earlier', 74)
+In not 0 section
+('earliest', 9)
+In not 0 section
+('early', 63)
+In not 0 section
+('earned', 9)
+In not 0 section
+('earth', 234)
+In not 0 section
+('earthworm', 9)
+In not 0 section
+('easier', 9)
+In not 0 section
+('easiest', 7)
+In not 0 section
+('easily', 82)
+In not 0 section
+('east', 69)
+In not 0 section
+('eastern', 50)
+In not 0 section
+('easu', 9)
+In not 0 section
+('easy', 56)
+In not 0 section
+('eating', 24)
+In not 0 section
+('ebbing', 9)
+In not 0 section
+('ebook', 7)
+In not 0 section
+('eckert', 9)
+In not 0 section
+('ecological', 49)
+In not 0 section
+('ecologist', 9)
+In not 0 section
+('ecology', 28)
+In not 0 section
+('econom', 9)
+In not 0 section
+('econometrics', 9)
+In not 0 section
+('economic', 110)
+In not 0 section
+('economical', 9)
+In not 0 section
+('economically', 9)
+In not 0 section
+('economics', 26)
+In not 0 section
+('economy', 9)
+In not 0 section
+('ecosystem', 8)
+In not 0 section
+('edible', 9)
+In not 0 section
+('edition', 8)
+In not 0 section
+('educated', 9)
+In not 0 section
+('education', 30)
+In not 0 section
+('educational', 7)
+In not 0 section
+('edwin', 18)
+In not 0 section
+('eeqei', 9)
+In not 0 section
+('effect', 73)
+In not 0 section
+('effective', 26)
+In not 0 section
+('effectively', 9)
+In not 0 section
+('effectiveness', 25)
+In not 0 section
+('efficiency', 17)
+In not 0 section
+('efficient', 14)
+In not 0 section
+('effort', 31)
+In not 0 section
+('egg', 9)
+In not 0 section
+('egories', 8)
+In not 0 section
+('egyp', 9)
+In not 0 section
+('egypt', 76)
+In not 0 section
+('egyptian', 31)
+In not 0 section
+('eight', 18)
+In not 0 section
+('eisenhower', 36)
+In not 0 section
+('either', 60)
+In not 0 section
+('elaboration', 21)
+In not 0 section
+('elec', 9)
+In not 0 section
+('elected', 89)
+In not 0 section
+('election', 136)
+In not 0 section
+('electric', 33)
+In not 0 section
+('electrical', 16)
+In not 0 section
+('electro', 8)
+In not 0 section
+('electromechanical', 23)
+In not 0 section
+('electron', 56)
+In not 0 section
+('electronic', 44)
+In not 0 section
+('electronics', 9)
+In not 0 section
+('element', 90)
+In not 0 section
+('elementary', 16)
+In not 0 section
+('elephant', 9)
+In not 0 section
+('eliminate', 9)
+In not 0 section
+('eliminated', 9)
+In not 0 section
+('elite', 9)
+In not 0 section
+('eloquent', 9)
+In not 0 section
+('embarked', 9)
+In not 0 section
+('embassy', 46)
+In not 0 section
+('embedded', 112)
+In not 0 section
+('embezzlement', 9)
+In not 0 section
+('embryo', 8)
+In not 0 section
+('embryological', 11)
+In not 0 section
+('embryology', 9)
+In not 0 section
+('embryonic', 9)
+In not 0 section
+('emergence', 18)
+In not 0 section
+('emergent', 9)
+In not 0 section
+('emerging', 9)
+In not 0 section
+('emeritus', 9)
+In not 0 section
+('emil', 7)
+In not 0 section
+('emission', 9)
+In not 0 section
+('emits', 9)
+In not 0 section
+('emperor', 9)
+In not 0 section
+('emphasis', 30)
+In not 0 section
+('emphasised', 18)
+In not 0 section
+('emphasize', 18)
+In not 0 section
+('employ', 24)
+In not 0 section
+('employed', 9)
+In not 0 section
+('employee', 9)
+In not 0 section
+('enable', 17)
+In not 0 section
+('enabled', 18)
+In not 0 section
+('enables', 26)
+In not 0 section
+('enacted', 9)
+In not 0 section
+('encom', 8)
+In not 0 section
+('encompasses', 9)
+In not 0 section
+('encouraged', 44)
+In not 0 section
+('end', 60)
+In not 0 section
+('endeavor', 8)
+In not 0 section
+('endeavour', 9)
+In not 0 section
+('ending', 40)
+In not 0 section
+('endorsement', 8)
+In not 0 section
+('energetic', 9)
+In not 0 section
+('energy', 76)
+In not 0 section
+('engelbart', 9)
+In not 0 section
+('engelhart', 8)
+In not 0 section
+('engine', 26)
+In not 0 section
+('engineer', 9)
+In not 0 section
+('engineered', 9)
+In not 0 section
+('engineering', 23)
+In not 0 section
+('england', 7)
+In not 0 section
+('english', 25)
+In not 0 section
+('enhanced', 18)
+In not 0 section
+('enhancing', 6)
+In not 0 section
+('eniac', 9)
+In not 0 section
+('enjoyed', 9)
+In not 0 section
+('enlarged', 9)
+In not 0 section
+('enormous', 18)
+In not 0 section
+('enough', 16)
+In not 0 section
+('enquire', 9)
+In not 0 section
+('enriched', 17)
+In not 0 section
+('ensue', 9)
+In not 0 section
+('ensure', 38)
+In not 0 section
+('entbedded', 9)
+In not 0 section
+('ented', 9)
+In not 0 section
+('entered', 17)
+In not 0 section
+('entering', 17)
+In not 0 section
+('enters', 9)
+In not 0 section
+('enthusiasm', 9)
+In not 0 section
+('entific', 18)
+In not 0 section
+('entire', 18)
+In not 0 section
+('entitled', 9)
+In not 0 section
+('entity', 27)
+In not 0 section
+('entry', 78)
+In not 0 section
+('environment', 107)
+In not 0 section
+('environmental', 56)
+In not 0 section
+('epidemic', 9)
+In not 0 section
+('epithet', 47)
+In not 0 section
+('epoxy', 9)
+In not 0 section
+('equal', 66)
+In not 0 section
+('equating', 6)
+In not 0 section
+('equation', 45)
+In not 0 section
+('equatorial', 9)
+In not 0 section
+('equip', 9)
+In not 0 section
+('equipment', 9)
+In not 0 section
+('equips', 9)
+In not 0 section
+('equivalent', 17)
+In not 0 section
+('eraser', 11)
+In not 0 section
+('erathosthenese', 9)
+In not 0 section
+('eration', 9)
+In not 0 section
+('eratosthenese', 9)
+In not 0 section
+('erbated', 9)
+In not 0 section
+('ered', 9)
+In not 0 section
+('erich', 9)
+In not 0 section
+('eritrea', 8)
+In not 0 section
+('eritrean', 9)
+In not 0 section
+('ernesto', 17)
+In not 0 section
+('ernst', 9)
+In not 0 section
+('erroneously', 8)
+In not 0 section
+('error', 224)
+In not 0 section
+('erupt', 8)
+In not 0 section
+('erupts', 8)
+In not 0 section
+('escalates', 9)
+In not 0 section
+('escape', 9)
+In not 0 section
+('escu', 16)
+In not 0 section
+('esoteric', 9)
+In not 0 section
+('especially', 43)
+In not 0 section
+('essence', 9)
+In not 0 section
+('essential', 39)
+In not 0 section
+('establish', 13)
+In not 0 section
+('established', 41)
+In not 0 section
+('establishes', 9)
+In not 0 section
+('establishment', 9)
+In not 0 section
+('estaing', 9)
+In not 0 section
+('estimate', 38)
+In not 0 section
+('estimated', 18)
+In not 0 section
+('estimating', 8)
+In not 0 section
+('estimation', 8)
+In not 0 section
+('estonia', 9)
+In not 0 section
+('ethical', 9)
+In not 0 section
+('ethiopia', 46)
+In not 0 section
+('ethiopian', 26)
+In not 0 section
+('ethnic', 9)
+In not 0 section
+('etre', 7)
+In not 0 section
+('eukaryote', 9)
+In not 0 section
+('eurasian', 10)
+In not 0 section
+('europe', 77)
+In not 0 section
+('european', 17)
+In not 0 section
+('evaluating', 33)
+In not 0 section
+('evel', 9)
+In not 0 section
+('even', 163)
+In not 0 section
+('evenly', 45)
+In not 0 section
+('event', 82)
+In not 0 section
+('eventually', 9)
+In not 0 section
+('ever', 37)
+In not 0 section
+('everest', 9)
+In not 0 section
+('every', 186)
+In not 0 section
+('everyday', 9)
+In not 0 section
+('everytime', 9)
+In not 0 section
+('everywhere', 19)
+In not 0 section
+('evidence', 9)
+In not 0 section
+('evident', 16)
+In not 0 section
+('evoked', 9)
+In not 0 section
+('evokes', 9)
+In not 0 section
+('evolution', 40)
+In not 0 section
+('evolutionary', 26)
+In not 0 section
+('evolved', 31)
+In not 0 section
+('evolving', 8)
+In not 0 section
+('exac', 9)
+In not 0 section
+('exact', 32)
+In not 0 section
+('examined', 8)
+In not 0 section
+('examines', 9)
+In not 0 section
+('example', 423)
+In not 0 section
+('exceeded', 9)
+In not 0 section
+('exceeds', 9)
+In not 0 section
+('excellence', 9)
+In not 0 section
+('exception', 9)
+In not 0 section
+('excess', 6)
+In not 0 section
+('exchange', 12)
+In not 0 section
+('excited', 9)
+In not 0 section
+('exclusive', 9)
+In not 0 section
+('execu', 9)
+In not 0 section
+('execute', 43)
+In not 0 section
+('executed', 31)
+In not 0 section
+('executes', 9)
+In not 0 section
+('executing', 13)
+In not 0 section
+('execution', 8)
+In not 0 section
+('exercise', 24)
+In not 0 section
+('exeuite', 9)
+In not 0 section
+('exhibit', 21)
+In not 0 section
+('exhibited', 16)
+In not 0 section
+('exile', 33)
+In not 0 section
+('exist', 25)
+In not 0 section
+('existed', 9)
+In not 0 section
+('existence', 9)
+In not 0 section
+('existing', 9)
+In not 0 section
+('expa', 9)
+In not 0 section
+('expanded', 9)
+In not 0 section
+('expands', 8)
+In not 0 section
+('expanse', 9)
+In not 0 section
+('expansion', 8)
+In not 0 section
+('expansive', 9)
+In not 0 section
+('expect', 9)
+In not 0 section
+('expenditure', 9)
+In not 0 section
+('expense', 44)
+In not 0 section
+('expensive', 26)
+In not 0 section
+('experi', 8)
+In not 0 section
+('experience', 30)
+In not 0 section
+('experienced', 9)
+In not 0 section
+('experiment', 38)
+In not 0 section
+('experimental', 41)
+In not 0 section
+('expires', 9)
+In not 0 section
+('explain', 17)
+In not 0 section
+('explained', 39)
+In not 0 section
+('explains', 23)
+In not 0 section
+('explanation', 35)
+In not 0 section
+('explicitly', 8)
+In not 0 section
+('explode', 18)
+In not 0 section
+('explodes', 41)
+In not 0 section
+('exploration', 26)
+In not 0 section
+('explore', 8)
+In not 0 section
+('explosion', 18)
+In not 0 section
+('exponent', 21)
+In not 0 section
+('export', 17)
+In not 0 section
+('exporter', 8)
+In not 0 section
+('exposing', 9)
+In not 0 section
+('expresed', 9)
+In not 0 section
+('express', 9)
+In not 0 section
+('expressed', 51)
+In not 0 section
+('expressing', 15)
+In not 0 section
+('expression', 44)
+In not 0 section
+('extensive', 18)
+In not 0 section
+('extensively', 16)
+In not 0 section
+('extent', 26)
+In not 0 section
+('external', 57)
+In not 0 section
+('extinct', 9)
+In not 0 section
+('extinction', 9)
+In not 0 section
+('extra', 9)
+In not 0 section
+('extraordinary', 8)
+In not 0 section
+('extreme', 9)
+In not 0 section
+('extremely', 9)
+In not 0 section
+('extremist', 9)
+In not 0 section
+('eye', 7)
+In not 0 section
+('fabrication', 9)
+In not 0 section
+('facilitate', 29)
+In not 0 section
+('fact', 61)
+In not 0 section
+('factor', 144)
+In not 0 section
+('factoring', 9)
+In not 0 section
+('faculty', 9)
+In not 0 section
+('fail', 8)
+In not 0 section
+('failed', 35)
+In not 0 section
+('fails', 35)
+In not 0 section
+('fairly', 17)
+In not 0 section
+('faisal', 14)
+In not 0 section
+('falk', 9)
+In not 0 section
+('falklands', 17)
+In not 0 section
+('fall', 34)
+In not 0 section
+('familiar', 21)
+In not 0 section
+('family', 96)
+In not 0 section
+('famine', 23)
+In not 0 section
+('famous', 8)
+In not 0 section
+('fare', 28)
+In not 0 section
+('farm', 9)
+In not 0 section
+('farmer', 18)
+In not 0 section
+('farming', 9)
+In not 0 section
+('fascinated', 8)
+In not 0 section
+('fashion', 9)
+In not 0 section
+('faso', 8)
+In not 0 section
+('fast', 66)
+In not 0 section
+('faster', 17)
+In not 0 section
+('fatal', 18)
+In not 0 section
+('fault', 9)
+In not 0 section
+('favor', 9)
+In not 0 section
+('favour', 8)
+In not 0 section
+('fear', 18)
+In not 0 section
+('feared', 9)
+In not 0 section
+('fearful', 9)
+In not 0 section
+('feature', 176)
+In not 0 section
+('february', 43)
+In not 0 section
+('federal', 9)
+In not 0 section
+('federation', 42)
+In not 0 section
+('feed', 24)
+In not 0 section
+('felidae', 19)
+In not 0 section
+('felis', 13)
+In not 0 section
+('fell', 9)
+In not 0 section
+('fellowship', 9)
+In not 0 section
+('felt', 9)
+In not 0 section
+('fequired', 9)
+In not 0 section
+('fera', 9)
+In not 0 section
+('ferdinand', 9)
+In not 0 section
+('fermi', 8)
+In not 0 section
+('fertilisation', 9)
+In not 0 section
+('fertility', 16)
+In not 0 section
+('fertilizer', 17)
+In not 0 section
+('fewer', 9)
+In not 0 section
+('ficial', 9)
+In not 0 section
+('fiction', 12)
+In not 0 section
+('fidel', 24)
+In not 0 section
+('field', 38)
+In not 0 section
+('fifth', 9)
+In not 0 section
+('fight', 17)
+In not 0 section
+('fighting', 57)
+In not 0 section
+('figure', 286)
+In not 0 section
+('file', 8)
+In not 0 section
+('filipino', 9)
+In not 0 section
+('filled', 9)
+In not 0 section
+('film', 23)
+In not 0 section
+('final', 34)
+In not 0 section
+('finally', 8)
+In not 0 section
+('find', 139)
+In not 0 section
+('finding', 41)
+In not 0 section
+('finished', 16)
+In not 0 section
+('fire', 9)
+In not 0 section
+('fireproofing', 9)
+In not 0 section
+('firm', 27)
+In not 0 section
+('first', 344)
+In not 0 section
+('fish', 9)
+In not 0 section
+('five', 55)
+In not 0 section
+('flee', 16)
+In not 0 section
+('flees', 26)
+In not 0 section
+('fleet', 9)
+In not 0 section
+('flew', 9)
+In not 0 section
+('flexibility', 9)
+In not 0 section
+('flight', 34)
+In not 0 section
+('flood', 9)
+In not 0 section
+('flora', 14)
+In not 0 section
+('florescence', 9)
+In not 0 section
+('flow', 17)
+In not 0 section
+('flower', 9)
+In not 0 section
+('flowering', 16)
+In not 0 section
+('fluent', 7)
+In not 0 section
+('fluid', 8)
+In not 0 section
+('flying', 17)
+In not 0 section
+('focus', 25)
+In not 0 section
+('focused', 9)
+In not 0 section
+('focussed', 7)
+In not 0 section
+('fold', 8)
+In not 0 section
+('folding', 9)
+In not 0 section
+('folk', 9)
+In not 0 section
+('follow', 35)
+In not 0 section
+('followed', 32)
+In not 0 section
+('following', 171)
+In not 0 section
+('follows', 40)
+In not 0 section
+('fonva', 9)
+In not 0 section
+('food', 170)
+In not 0 section
+('foodstuff', 32)
+In not 0 section
+('foot', 15)
+In not 0 section
+('force', 144)
+In not 0 section
+('forced', 17)
+In not 0 section
+('forcing', 8)
+In not 0 section
+('ford', 9)
+In not 0 section
+('forecasting', 9)
+In not 0 section
+('foreign', 9)
+In not 0 section
+('foreigner', 9)
+In not 0 section
+('foresees', 8)
+In not 0 section
+('forest', 69)
+In not 0 section
+('forestry', 11)
+In not 0 section
+('forever', 17)
+In not 0 section
+('form', 191)
+In not 0 section
+('formal', 9)
+In not 0 section
+('formance', 8)
+In not 0 section
+('format', 49)
+In not 0 section
+('formation', 8)
+In not 0 section
+('formed', 55)
+In not 0 section
+('former', 25)
+In not 0 section
+('formerly', 26)
+In not 0 section
+('formula', 41)
+In not 0 section
+('formulated', 9)
+In not 0 section
+('fortnightly', 9)
+In not 0 section
+('fortran', 17)
+In not 0 section
+('forty', 8)
+In not 0 section
+('forward', 16)
+In not 0 section
+('forwarding', 37)
+In not 0 section
+('fossil', 9)
+In not 0 section
+('fought', 9)
+In not 0 section
+('found', 122)
+In not 0 section
+('foundation', 22)
+In not 0 section
+('founded', 22)
+In not 0 section
+('four', 122)
+In not 0 section
+('fourth', 27)
+In not 0 section
+('fractal', 17)
+In not 0 section
+('fraction', 33)
+In not 0 section
+('fracture', 9)
+In not 0 section
+('fragmentation', 9)
+In not 0 section
+('fragmented', 9)
+In not 0 section
+('frame', 8)
+In not 0 section
+('framework', 9)
+In not 0 section
+('fran', 9)
+In not 0 section
+('france', 65)
+In not 0 section
+('francevbelgium', 9)
+In not 0 section
+('franchise', 8)
+In not 0 section
+('francisco', 14)
+In not 0 section
+('franco', 15)
+In not 0 section
+('fraud', 9)
+In not 0 section
+('fraudulent', 9)
+In not 0 section
+('free', 76)
+In not 0 section
+('freed', 18)
+In not 0 section
+('freedom', 8)
+In not 0 section
+('french', 112)
+In not 0 section
+('frequency', 32)
+In not 0 section
+('fresh', 9)
+In not 0 section
+('friday', 9)
+In not 0 section
+('friedan', 8)
+In not 0 section
+('friend', 6)
+In not 0 section
+('front', 33)
+In not 0 section
+('frontier', 18)
+In not 0 section
+('frozen', 9)
+In not 0 section
+('fruit', 17)
+In not 0 section
+('fuca', 8)
+In not 0 section
+('fuel', 42)
+In not 0 section
+('fueled', 9)
+In not 0 section
+('fulgencio', 9)
+In not 0 section
+('full', 23)
+In not 0 section
+('fume', 9)
+In not 0 section
+('function', 79)
+In not 0 section
+('fund', 8)
+In not 0 section
+('fundamental', 51)
+In not 0 section
+('fundamentalist', 9)
+In not 0 section
+('fungi', 26)
+In not 0 section
+('furniture', 21)
+In not 0 section
+('furthermore', 7)
+In not 0 section
+('future', 33)
+In not 0 section
+('gain', 77)
+In not 0 section
+('gained', 8)
+In not 0 section
+('galaxy', 15)
+In not 0 section
+('galileo', 9)
+In not 0 section
+('galloping', 9)
+In not 0 section
+('gamal', 9)
+In not 0 section
+('gambia', 15)
+In not 0 section
+('game', 8)
+In not 0 section
+('gandhi', 35)
+In not 0 section
+('gang', 25)
+In not 0 section
+('garden', 44)
+In not 0 section
+('garnes', 8)
+In not 0 section
+('gathered', 9)
+In not 0 section
+('gauge', 15)
+In not 0 section
+('gaulle', 9)
+In not 0 section
+('gave', 9)
+In not 0 section
+('gaza', 17)
+In not 0 section
+('gdan', 9)
+In not 0 section
+('gear', 9)
+In not 0 section
+('gee', 9)
+In not 0 section
+('gel', 9)
+In not 0 section
+('gener', 8)
+In not 0 section
+('general', 143)
+In not 0 section
+('generally', 102)
+In not 0 section
+('generating', 9)
+In not 0 section
+('generic', 8)
+In not 0 section
+('geneti', 9)
+In not 0 section
+('genetic', 7)
+In not 0 section
+('geneva', 13)
+In not 0 section
+('genocide', 18)
+In not 0 section
+('genome', 9)
+In not 0 section
+('genuinely', 9)
+In not 0 section
+('genus', 103)
+In not 0 section
+('geographer', 60)
+In not 0 section
+('geographic', 9)
+In not 0 section
+('geographical', 62)
+In not 0 section
+('geographically', 9)
+In not 0 section
+('geographlcal', 8)
+In not 0 section
+('geography', 306)
+In not 0 section
+('geoid', 9)
+In not 0 section
+('geoids', 9)
+In not 0 section
+('geology', 17)
+In not 0 section
+('geomorphology', 22)
+In not 0 section
+('george', 8)
+In not 0 section
+('georgy', 9)
+In not 0 section
+('gerald', 9)
+In not 0 section
+('german', 21)
+In not 0 section
+('germany', 46)
+In not 0 section
+('get', 24)
+In not 0 section
+('getting', 18)
+In not 0 section
+('gibbon', 9)
+In not 0 section
+('gigabyte', 7)
+In not 0 section
+('gin', 9)
+In not 0 section
+('giscard', 9)
+In not 0 section
+('give', 124)
+In not 0 section
+('given', 178)
+In not 0 section
+('giving', 9)
+In not 0 section
+('global', 43)
+In not 0 section
+('globalization', 9)
+In not 0 section
+('globe', 9)
+In not 0 section
+('glossy', 9)
+In not 0 section
+('glutted', 9)
+In not 0 section
+('go', 9)
+In not 0 section
+('goal', 9)
+In not 0 section
+('going', 17)
+In not 0 section
+('gold', 15)
+In not 0 section
+('golden', 9)
+In not 0 section
+('good', 39)
+In not 0 section
+('gorbachev', 50)
+In not 0 section
+('gore', 9)
+In not 0 section
+('gorge', 9)
+In not 0 section
+('gorilla', 9)
+In not 0 section
+('gossens', 9)
+In not 0 section
+('gotten', 9)
+In not 0 section
+('goukouni', 9)
+In not 0 section
+('govern', 9)
+In not 0 section
+('government', 183)
+In not 0 section
+('gradation', 9)
+In not 0 section
+('gradual', 9)
+In not 0 section
+('gradually', 22)
+In not 0 section
+('graduation', 17)
+In not 0 section
+('grain', 17)
+In not 0 section
+('gram', 28)
+In not 0 section
+('grammer', 8)
+In not 0 section
+('granma', 9)
+In not 0 section
+('grant', 29)
+In not 0 section
+('granted', 28)
+In not 0 section
+('grape', 9)
+In not 0 section
+('graph', 5)
+In not 0 section
+('graphic', 18)
+In not 0 section
+('graphical', 9)
+In not 0 section
+('graphically', 9)
+In not 0 section
+('graphite', 5)
+In not 0 section
+('graphos', 5)
+In not 0 section
+('grass', 9)
+In not 0 section
+('grassland', 9)
+In not 0 section
+('gravely', 9)
+In not 0 section
+('gravitation', 9)
+In not 0 section
+('gravitational', 9)
+In not 0 section
+('gravity', 22)
+In not 0 section
+('great', 68)
+In not 0 section
+('greater', 108)
+In not 0 section
+('greatest', 9)
+In not 0 section
+('greatly', 16)
+In not 0 section
+('greece', 21)
+In not 0 section
+('greek', 21)
+In not 0 section
+('green', 9)
+In not 0 section
+('greenwood', 9)
+In not 0 section
+('grenada', 7)
+In not 0 section
+('gress', 9)
+In not 0 section
+('grew', 17)
+In not 0 section
+('grocery', 9)
+In not 0 section
+('ground', 28)
+In not 0 section
+('group', 135)
+In not 0 section
+('grouped', 18)
+In not 0 section
+('grow', 49)
+In not 0 section
+('growing', 48)
+In not 0 section
+('grown', 17)
+In not 0 section
+('grows', 6)
+In not 0 section
+('growth', 113)
+In not 0 section
+('guage', 18)
+In not 0 section
+('guages', 9)
+In not 0 section
+('guardsman', 9)
+In not 0 section
+('guatemala', 9)
+In not 0 section
+('guatemalan', 9)
+In not 0 section
+('guerrilla', 54)
+In not 0 section
+('guevara', 9)
+In not 0 section
+('guevera', 12)
+In not 0 section
+('guidance', 8)
+In not 0 section
+('guideline', 9)
+In not 0 section
+('guise', 8)
+In not 0 section
+('gujarat', 9)
+In not 0 section
+('gulf', 22)
+In not 0 section
+('gunman', 9)
+In not 0 section
+('gural', 9)
+In not 0 section
+('gure', 1)
+In not 0 section
+('gures', 21)
+In not 0 section
+('gurmeet', 25)
+In not 0 section
+('gurrneet', 9)
+In not 0 section
+('habit', 41)
+In not 0 section
+('habitat', 47)
+In not 0 section
+('habr', 9)
+In not 0 section
+('hafi', 9)
+In not 0 section
+('haile', 16)
+In not 0 section
+('hair', 16)
+In not 0 section
+('half', 9)
+In not 0 section
+('hall', 9)
+In not 0 section
+('halt', 9)
+In not 0 section
+('halving', 9)
+In not 0 section
+('hamburger', 9)
+In not 0 section
+('hand', 53)
+In not 0 section
+('handedly', 9)
+In not 0 section
+('handful', 9)
+In not 0 section
+('handle', 26)
+In not 0 section
+('handled', 9)
+In not 0 section
+('handling', 18)
+In not 0 section
+('handwritten', 9)
+In not 0 section
+('handy', 17)
+In not 0 section
+('hanged', 8)
+In not 0 section
+('happen', 9)
+In not 0 section
+('hard', 23)
+In not 0 section
+('harder', 9)
+In not 0 section
+('hardwa', 30)
+In not 0 section
+('hardware', 141)
+In not 0 section
+('harm', 9)
+In not 0 section
+('harshness', 8)
+In not 0 section
+('harvard', 16)
+In not 0 section
+('harvest', 8)
+In not 0 section
+('harvey', 8)
+In not 0 section
+('havana', 24)
+In not 0 section
+('hawking', 9)
+In not 0 section
+('hazard', 46)
+In not 0 section
+('head', 51)
+In not 0 section
+('headed', 18)
+In not 0 section
+('health', 27)
+In not 0 section
+('heard', 8)
+In not 0 section
+('heart', 17)
+In not 0 section
+('heavenly', 9)
+In not 0 section
+('heavily', 9)
+In not 0 section
+('heavy', 17)
+In not 0 section
+('hectare', 23)
+In not 0 section
+('height', 18)
+In not 0 section
+('held', 88)
+In not 0 section
+('helm', 9)
+In not 0 section
+('help', 171)
+In not 0 section
+('helped', 26)
+In not 0 section
+('helper', 17)
+In not 0 section
+('helpful', 24)
+In not 0 section
+('helsinki', 13)
+In not 0 section
+('hence', 167)
+In not 0 section
+('henceforth', 8)
+In not 0 section
+('hend', 8)
+In not 0 section
+('herbarium', 44)
+In not 0 section
+('hero', 9)
+In not 0 section
+('herodotus', 9)
+In not 0 section
+('hertz', 9)
+In not 0 section
+('herzegovina', 9)
+In not 0 section
+('hettner', 9)
+In not 0 section
+('hexagonal', 9)
+In not 0 section
+('hierarchial', 9)
+In not 0 section
+('hierarchical', 40)
+In not 0 section
+('hierarchy', 56)
+In not 0 section
+('high', 140)
+In not 0 section
+('highef', 9)
+In not 0 section
+('higher', 116)
+In not 0 section
+('highest', 18)
+In not 0 section
+('highlighted', 16)
+In not 0 section
+('highlighting', 5)
+In not 0 section
+('highly', 18)
+In not 0 section
+('highway', 18)
+In not 0 section
+('hijacked', 14)
+In not 0 section
+('hill', 9)
+In not 0 section
+('hilly', 7)
+In not 0 section
+('himalaya', 9)
+In not 0 section
+('hinckley', 9)
+In not 0 section
+('hiss', 9)
+In not 0 section
+('historic', 9)
+In not 0 section
+('historical', 64)
+In not 0 section
+('history', 89)
+In not 0 section
+('hit', 9)
+In not 0 section
+('hobzcho', 5)
+In not 0 section
+('hoenecker', 9)
+In not 0 section
+('hold', 50)
+In not 0 section
+('holder', 17)
+In not 0 section
+('holiday', 9)
+In not 0 section
+('holistic', 17)
+In not 0 section
+('holistically', 7)
+In not 0 section
+('hollow', 9)
+In not 0 section
+('home', 42)
+In not 0 section
+('homemaker', 16)
+In not 0 section
+('homework', 11)
+In not 0 section
+('hominidae', 8)
+In not 0 section
+('homo', 18)
+In not 0 section
+('honduras', 15)
+In not 0 section
+('hong', 39)
+In not 0 section
+('honored', 14)
+In not 0 section
+('honoured', 9)
+In not 0 section
+('hope', 15)
+In not 0 section
+('hoped', 9)
+In not 0 section
+('horizon', 9)
+In not 0 section
+('horizontal', 7)
+In not 0 section
+('horizontally', 19)
+In not 0 section
+('horse', 9)
+In not 0 section
+('hosocho', 9)
+In not 0 section
+('hospital', 9)
+In not 0 section
+('hostage', 45)
+In not 0 section
+('hosted', 9)
+In not 0 section
+('hostile', 9)
+In not 0 section
+('hostili', 9)
+In not 0 section
+('hosting', 7)
+In not 0 section
+('hour', 46)
+In not 0 section
+('house', 81)
+In not 0 section
+('housing', 9)
+In not 0 section
+('however', 51)
+In not 0 section
+('howrah', 8)
+In not 0 section
+('hrmml', 9)
+In not 0 section
+('hubble', 18)
+In not 0 section
+('huge', 42)
+In not 0 section
+('hulllulun', 8)
+In not 0 section
+('human', 310)
+In not 0 section
+('humanised', 8)
+In not 0 section
+('humanitarian', 9)
+In not 0 section
+('humankind', 9)
+In not 0 section
+('humanl', 9)
+In not 0 section
+('humberto', 8)
+In not 0 section
+('humbled', 9)
+In not 0 section
+('humboldt', 13)
+In not 0 section
+('humidity', 9)
+In not 0 section
+('hundred', 86)
+In not 0 section
+('hundredth', 9)
+In not 0 section
+('hungarian', 26)
+In not 0 section
+('hungary', 32)
+In not 0 section
+('hunger', 18)
+In not 0 section
+('hunting', 9)
+In not 0 section
+('hurhl', 7)
+In not 0 section
+('hurricane', 9)
+In not 0 section
+('hussein', 8)
+In not 0 section
+('hydra', 9)
+In not 0 section
+('hydrogen', 33)
+In not 0 section
+('hydrology', 23)
+In not 0 section
+('hydroponics', 9)
+In not 0 section
+('hydrosphere', 9)
+In not 0 section
+('hyper', 9)
+In not 0 section
+('hyperfine', 9)
+In not 0 section
+('iaai', 9)
+In not 0 section
+('iaaiab', 9)
+In not 0 section
+('iaail', 8)
+In not 0 section
+('icbn', 8)
+In not 0 section
+('iceland', 9)
+In not 0 section
+('iczn', 9)
+In not 0 section
+('idea', 66)
+In not 0 section
+('ideal', 9)
+In not 0 section
+('identi', 107)
+In not 0 section
+('identification', 27)
+In not 0 section
+('identified', 8)
+In not 0 section
+('identify', 16)
+In not 0 section
+('identifying', 16)
+In not 0 section
+('identity', 27)
+In not 0 section
+('ideological', 17)
+In not 0 section
+('ideology', 17)
+In not 0 section
+('idiot', 9)
+In not 0 section
+('idly', 9)
+In not 0 section
+('ifwe', 8)
+In not 0 section
+('ignore', 9)
+In not 0 section
+('ignored', 18)
+In not 0 section
+('iipon', 8)
+In not 0 section
+('illegal', 9)
+In not 0 section
+('illness', 9)
+In not 0 section
+('illuminates', 9)
+In not 0 section
+('illumination', 8)
+In not 0 section
+('illustrate', 15)
+In not 0 section
+('illustrated', 25)
+In not 0 section
+('illustration', 8)
+In not 0 section
+('ilure', 9)
+In not 0 section
+('image', 36)
+In not 0 section
+('imagination', 8)
+In not 0 section
+('imagine', 15)
+In not 0 section
+('imbalance', 9)
+In not 0 section
+('immature', 8)
+In not 0 section
+('immediate', 13)
+In not 0 section
+('immediately', 26)
+In not 0 section
+('immunodeficiency', 9)
+In not 0 section
+('impact', 9)
+In not 0 section
+('impart', 9)
+In not 0 section
+('impeached', 10)
+In not 0 section
+('impeachment', 7)
+In not 0 section
+('imperfect', 8)
+In not 0 section
+('imperfection', 9)
+In not 0 section
+('imperial', 9)
+In not 0 section
+('implement', 9)
+In not 0 section
+('implicated', 9)
+In not 0 section
+('implication', 8)
+In not 0 section
+('implicit', 8)
+In not 0 section
+('implicitly', 9)
+In not 0 section
+('implies', 13)
+In not 0 section
+('import', 23)
+In not 0 section
+('importance', 29)
+In not 0 section
+('important', 132)
+In not 0 section
+('importing', 9)
+In not 0 section
+('impose', 9)
+In not 0 section
+('imposed', 26)
+In not 0 section
+('impossible', 9)
+In not 0 section
+('impressed', 9)
+In not 0 section
+('imprest', 26)
+In not 0 section
+('imprint', 20)
+In not 0 section
+('improve', 32)
+In not 0 section
+('improved', 45)
+In not 0 section
+('improvement', 15)
+In not 0 section
+('improves', 9)
+In not 0 section
+('improving', 25)
+In not 0 section
+('imre', 14)
+In not 0 section
+('inadequately', 9)
+In not 0 section
+('inanimate', 21)
+In not 0 section
+('inau', 9)
+In not 0 section
+('inaugurated', 18)
+In not 0 section
+('incidental', 8)
+In not 0 section
+('incidentally', 8)
+In not 0 section
+('includ', 9)
+In not 0 section
+('include', 43)
+In not 0 section
+('included', 68)
+In not 0 section
+('includes', 56)
+In not 0 section
+('including', 156)
+In not 0 section
+('inclusive', 9)
+In not 0 section
+('inconsistent', 7)
+In not 0 section
+('inconvenient', 9)
+In not 0 section
+('incorporat', 9)
+In not 0 section
+('incorporate', 9)
+In not 0 section
+('incorrect', 7)
+In not 0 section
+('increase', 102)
+In not 0 section
+('increased', 80)
+In not 0 section
+('increasing', 27)
+In not 0 section
+('increasingly', 26)
+In not 0 section
+('incremented', 8)
+In not 0 section
+('incumbent', 16)
+In not 0 section
+('incurred', 9)
+In not 0 section
+('inde', 18)
+In not 0 section
+('indeed', 8)
+In not 0 section
+('indepen', 18)
+In not 0 section
+('independence', 153)
+In not 0 section
+('independent', 149)
+In not 0 section
+('independently', 6)
+In not 0 section
+('indestructible', 9)
+In not 0 section
+('index', 8)
+In not 0 section
+('india', 185)
+In not 0 section
+('indian', 66)
+In not 0 section
+('indica', 47)
+In not 0 section
+('indicate', 40)
+In not 0 section
+('indicates', 25)
+In not 0 section
+('indicating', 26)
+In not 0 section
+('indira', 21)
+In not 0 section
+('indirect', 9)
+In not 0 section
+('individual', 121)
+In not 0 section
+('individuality', 8)
+In not 0 section
+('individually', 9)
+In not 0 section
+('indo', 18)
+In not 0 section
+('indochina', 9)
+In not 0 section
+('indonesia', 33)
+In not 0 section
+('induced', 8)
+In not 0 section
+('indulged', 9)
+In not 0 section
+('industrial', 58)
+In not 0 section
+('industrializing', 9)
+In not 0 section
+('industry', 62)
+In not 0 section
+('inefficiency', 9)
+In not 0 section
+('inequality', 30)
+In not 0 section
+('inevitably', 7)
+In not 0 section
+('inexpensive', 9)
+In not 0 section
+('infant', 9)
+In not 0 section
+('infeasible', 9)
+In not 0 section
+('infertile', 9)
+In not 0 section
+('infinite', 9)
+In not 0 section
+('inflation', 9)
+In not 0 section
+('informatics', 13)
+In not 0 section
+('information', 160)
+In not 0 section
+('infrastructure', 15)
+In not 0 section
+('inga', 9)
+In not 0 section
+('inistas', 9)
+In not 0 section
+('initial', 9)
+In not 0 section
+('initially', 8)
+In not 0 section
+('initiate', 9)
+In not 0 section
+('initiating', 9)
+In not 0 section
+('initiation', 8)
+In not 0 section
+('injuring', 9)
+In not 0 section
+('injustice', 9)
+In not 0 section
+('innovation', 17)
+In not 0 section
+('inorganic', 9)
+In not 0 section
+('input', 87)
+In not 0 section
+('inputting', 9)
+In not 0 section
+('insect', 39)
+In not 0 section
+('insecta', 8)
+In not 0 section
+('insecticide', 18)
+In not 0 section
+('inside', 39)
+In not 0 section
+('insight', 25)
+In not 0 section
+('insignificant', 9)
+In not 0 section
+('inspiration', 18)
+In not 0 section
+('inspired', 9)
+In not 0 section
+('instalment', 9)
+In not 0 section
+('instance', 16)
+In not 0 section
+('instant', 18)
+In not 0 section
+('instead', 44)
+In not 0 section
+('instigates', 9)
+In not 0 section
+('institute', 13)
+In not 0 section
+('institution', 18)
+In not 0 section
+('instruc', 16)
+In not 0 section
+('instruct', 8)
+In not 0 section
+('instruction', 163)
+In not 0 section
+('instrument', 73)
+In not 0 section
+('instrumental', 7)
+In not 0 section
+('insufficient', 18)
+In not 0 section
+('insulated', 9)
+In not 0 section
+('insurance', 20)
+In not 0 section
+('insurrection', 17)
+In not 0 section
+('insurrectionary', 9)
+In not 0 section
+('integral', 22)
+In not 0 section
+('integrate', 18)
+In not 0 section
+('integrated', 29)
+In not 0 section
+('integrates', 7)
+In not 0 section
+('integrating', 13)
+In not 0 section
+('integration', 20)
+In not 0 section
+('intellectu', 9)
+In not 0 section
+('intellectual', 18)
+In not 0 section
+('intelligence', 15)
+In not 0 section
+('intelligent', 9)
+In not 0 section
+('intemational', 7)
+In not 0 section
+('intended', 8)
+In not 0 section
+('intensified', 9)
+In not 0 section
+('intensity', 15)
+In not 0 section
+('intensive', 9)
+In not 0 section
+('inter', 21)
+In not 0 section
+('interact', 8)
+In not 0 section
+('interaction', 52)
+In not 0 section
+('interactive', 32)
+In not 0 section
+('intercepted', 9)
+In not 0 section
+('interchange', 7)
+In not 0 section
+('interdependency', 9)
+In not 0 section
+('interdisciplinary', 8)
+In not 0 section
+('interest', 71)
+In not 0 section
+('interested', 54)
+In not 0 section
+('interesting', 18)
+In not 0 section
+('interestingly', 8)
+In not 0 section
+('interface', 57)
+In not 0 section
+('interlace', 9)
+In not 0 section
+('intermediate', 9)
+In not 0 section
+('internal', 39)
+In not 0 section
+('international', 105)
+In not 0 section
+('internationale', 9)
+In not 0 section
+('internationally', 16)
+In not 0 section
+('internet', 18)
+In not 0 section
+('interpfeting', 9)
+In not 0 section
+('interpret', 9)
+In not 0 section
+('interpretation', 9)
+In not 0 section
+('interpreted', 27)
+In not 0 section
+('interprets', 12)
+In not 0 section
+('interval', 59)
+In not 0 section
+('interven', 9)
+In not 0 section
+('intervene', 17)
+In not 0 section
+('intervenes', 9)
+In not 0 section
+('intervention', 9)
+In not 0 section
+('inthe', 9)
+In not 0 section
+('intifada', 9)
+In not 0 section
+('intimation', 8)
+In not 0 section
+('intra', 9)
+In not 0 section
+('intricate', 9)
+In not 0 section
+('introduce', 26)
+In not 0 section
+('introduced', 40)
+In not 0 section
+('introduces', 17)
+In not 0 section
+('introduction', 35)
+In not 0 section
+('introductory', 9)
+In not 0 section
+('intuit', 6)
+In not 0 section
+('invade', 32)
+In not 0 section
+('invader', 9)
+In not 0 section
+('invades', 48)
+In not 0 section
+('invariably', 9)
+In not 0 section
+('invasion', 8)
+In not 0 section
+('invented', 24)
+In not 0 section
+('inventing', 9)
+In not 0 section
+('invention', 18)
+In not 0 section
+('inventorised', 8)
+In not 0 section
+('invest', 9)
+In not 0 section
+('investigate', 9)
+In not 0 section
+('investigation', 17)
+In not 0 section
+('invitation', 9)
+In not 0 section
+('involve', 22)
+In not 0 section
+('involved', 24)
+In not 0 section
+('involvement', 17)
+In not 0 section
+('involves', 41)
+In not 0 section
+('involving', 41)
+In not 0 section
+('inwards', 5)
+In not 0 section
+('iochl', 5)
+In not 0 section
+('ion', 8)
+In not 0 section
+('ippines', 9)
+In not 0 section
+('iran', 45)
+In not 0 section
+('iraq', 52)
+In not 0 section
+('ireland', 13)
+In not 0 section
+('iridium', 9)
+In not 0 section
+('irish', 9)
+In not 0 section
+('iron', 9)
+In not 0 section
+('irregular', 8)
+In not 0 section
+('irregularly', 5)
+In not 0 section
+('irrelevant', 17)
+In not 0 section
+('irrespective', 9)
+In not 0 section
+('irrigation', 17)
+In not 0 section
+('islamic', 9)
+In not 0 section
+('islamist', 8)
+In not 0 section
+('island', 51)
+In not 0 section
+('isocyanate', 9)
+In not 0 section
+('isolated', 13)
+In not 0 section
+('isolating', 9)
+In not 0 section
+('isotope', 7)
+In not 0 section
+('israel', 111)
+In not 0 section
+('israeli', 59)
+In not 0 section
+('issue', 18)
+In not 0 section
+('ists', 9)
+In not 0 section
+('italic', 15)
+In not 0 section
+('item', 40)
+In not 0 section
+('iysics', 5)
+In not 0 section
+('jacobo', 9)
+In not 0 section
+('jaipur', 7)
+In not 0 section
+('james', 9)
+In not 0 section
+('january', 77)
+In not 0 section
+('japan', 24)
+In not 0 section
+('jar', 9)
+In not 0 section
+('jaruzelski', 9)
+In not 0 section
+('java', 19)
+In not 0 section
+('jericho', 8)
+In not 0 section
+('jerusalem', 9)
+In not 0 section
+('jesuit', 9)
+In not 0 section
+('jet', 17)
+In not 0 section
+('jew', 14)
+In not 0 section
+('jewish', 9)
+In not 0 section
+('jiang', 9)
+In not 0 section
+('jimmy', 9)
+In not 0 section
+('job', 9)
+In not 0 section
+('john', 56)
+In not 0 section
+('join', 25)
+In not 0 section
+('joined', 9)
+In not 0 section
+('joining', 8)
+In not 0 section
+('joint', 17)
+In not 0 section
+('jointed', 9)
+In not 0 section
+('jordan', 9)
+In not 0 section
+('joseph', 18)
+In not 0 section
+('jour', 9)
+In not 0 section
+('journal', 55)
+In not 0 section
+('juan', 17)
+In not 0 section
+('july', 72)
+In not 0 section
+('june', 79)
+In not 0 section
+('junta', 9)
+In not 0 section
+('kabul', 9)
+In not 0 section
+('kamal', 9)
+In not 0 section
+('kampala', 9)
+In not 0 section
+('kantaga', 9)
+In not 0 section
+('karamanlis', 9)
+In not 0 section
+('karl', 9)
+In not 0 section
+('kasavubu', 9)
+In not 0 section
+('kashmir', 8)
+In not 0 section
+('katrina', 9)
+In not 0 section
+('keep', 44)
+In not 0 section
+('keeping', 7)
+In not 0 section
+('kelvin', 9)
+In not 0 section
+('kempten', 7)
+In not 0 section
+('kennedy', 49)
+In not 0 section
+('kent', 14)
+In not 0 section
+('kenya', 23)
+In not 0 section
+('kept', 18)
+In not 0 section
+('kets', 9)
+In not 0 section
+('key', 27)
+In not 0 section
+('keyboard', 30)
+In not 0 section
+('khomeini', 9)
+In not 0 section
+('khrushchev', 29)
+In not 0 section
+('kicked', 9)
+In not 0 section
+('kiev', 9)
+In not 0 section
+('kill', 43)
+In not 0 section
+('killed', 77)
+In not 0 section
+('killing', 27)
+In not 0 section
+('kilogram', 38)
+In not 0 section
+('kind', 54)
+In not 0 section
+('kinetic', 21)
+In not 0 section
+('king', 38)
+In not 0 section
+('kingdom', 64)
+In not 0 section
+('kippur', 9)
+In not 0 section
+('klerk', 9)
+In not 0 section
+('kmart', 9)
+In not 0 section
+('know', 119)
+In not 0 section
+('knowing', 33)
+In not 0 section
+('knowledge', 60)
+In not 0 section
+('known', 95)
+In not 0 section
+('kong', 38)
+In not 0 section
+('korea', 71)
+In not 0 section
+('korean', 14)
+In not 0 section
+('kornbluh', 9)
+In not 0 section
+('kremlin', 9)
+In not 0 section
+('kuwait', 17)
+In not 0 section
+('kyoto', 9)
+In not 0 section
+('label', 9)
+In not 0 section
+('labelled', 9)
+In not 0 section
+('labo', 9)
+In not 0 section
+('labor', 9)
+In not 0 section
+('laboratory', 45)
+In not 0 section
+('labour', 42)
+In not 0 section
+('lack', 8)
+In not 0 section
+('laden', 9)
+In not 0 section
+('laid', 9)
+In not 0 section
+('lake', 30)
+In not 0 section
+('lama', 9)
+In not 0 section
+('lamentous', 9)
+In not 0 section
+('lamp', 6)
+In not 0 section
+('land', 98)
+In not 0 section
+('landfill', 9)
+In not 0 section
+('landforms', 31)
+In not 0 section
+('landmark', 9)
+In not 0 section
+('langll', 24)
+In not 0 section
+('language', 133)
+In not 0 section
+('lanka', 9)
+In not 0 section
+('lao', 9)
+In not 0 section
+('laptop', 14)
+In not 0 section
+('larg', 9)
+In not 0 section
+('large', 205)
+In not 0 section
+('largely', 7)
+In not 0 section
+('larger', 44)
+In not 0 section
+('largest', 62)
+In not 0 section
+('larly', 9)
+In not 0 section
+('laser', 9)
+In not 0 section
+('last', 107)
+In not 0 section
+('lasted', 9)
+In not 0 section
+('late', 26)
+In not 0 section
+('lated', 16)
+In not 0 section
+('lately', 9)
+In not 0 section
+('later', 103)
+In not 0 section
+('lates', 8)
+In not 0 section
+('latest', 9)
+In not 0 section
+('latin', 36)
+In not 0 section
+('latinised', 8)
+In not 0 section
+('lation', 9)
+In not 0 section
+('latitude', 9)
+In not 0 section
+('launch', 55)
+In not 0 section
+('launched', 51)
+In not 0 section
+('laundry', 14)
+In not 0 section
+('lawrence', 9)
+In not 0 section
+('lawyer', 9)
+In not 0 section
+('lay', 9)
+In not 0 section
+('layer', 48)
+In not 0 section
+('le', 135)
+In not 0 section
+('lead', 55)
+In not 0 section
+('leader', 127)
+In not 0 section
+('leadership', 18)
+In not 0 section
+('leading', 34)
+In not 0 section
+('leaf', 27)
+In not 0 section
+('leaked', 9)
+In not 0 section
+('leap', 9)
+In not 0 section
+('learn', 95)
+In not 0 section
+('learning', 9)
+In not 0 section
+('learnt', 17)
+In not 0 section
+('lease', 9)
+In not 0 section
+('least', 82)
+In not 0 section
+('leave', 9)
+In not 0 section
+('leaving', 9)
+In not 0 section
+('lebanese', 9)
+In not 0 section
+('lebanon', 37)
+In not 0 section
+('lech', 17)
+In not 0 section
+('lecture', 9)
+In not 0 section
+('ledger', 65)
+In not 0 section
+('left', 91)
+In not 0 section
+('leftist', 36)
+In not 0 section
+('leg', 9)
+In not 0 section
+('legalize', 8)
+In not 0 section
+('legislation', 15)
+In not 0 section
+('legislature', 9)
+In not 0 section
+('legitimacy', 9)
+In not 0 section
+('leisure', 9)
+In not 0 section
+('length', 173)
+In not 0 section
+('leninist', 16)
+In not 0 section
+('leon', 8)
+In not 0 section
+('leonid', 9)
+In not 0 section
+('leopard', 13)
+In not 0 section
+('lesotho', 16)
+In not 0 section
+('lesson', 61)
+In not 0 section
+('letter', 53)
+In not 0 section
+('level', 165)
+In not 0 section
+('leveler', 7)
+In not 0 section
+('lhasa', 9)
+In not 0 section
+('liberation', 39)
+In not 0 section
+('library', 9)
+In not 0 section
+('libya', 34)
+In not 0 section
+('libyan', 24)
+In not 0 section
+('lie', 9)
+In not 0 section
+('life', 139)
+In not 0 section
+('lift', 9)
+In not 0 section
+('lifted', 9)
+In not 0 section
+('light', 92)
+In not 0 section
+('lighting', 9)
+In not 0 section
+('lightly', 8)
+In not 0 section
+('like', 205)
+In not 0 section
+('likely', 31)
+In not 0 section
+('likewise', 26)
+In not 0 section
+('limit', 49)
+In not 0 section
+('limitation', 17)
+In not 0 section
+('limited', 65)
+In not 0 section
+('line', 123)
+In not 0 section
+('linearly', 9)
+In not 0 section
+('lingering', 9)
+In not 0 section
+('link', 18)
+In not 0 section
+('linkage', 12)
+In not 0 section
+('linked', 62)
+In not 0 section
+('linn', 9)
+In not 0 section
+('linnaeus', 26)
+In not 0 section
+('linux', 9)
+In not 0 section
+('lion', 17)
+In not 0 section
+('liquid', 18)
+In not 0 section
+('lisp', 9)
+In not 0 section
+('list', 56)
+In not 0 section
+('listed', 1)
+In not 0 section
+('literature', 9)
+In not 0 section
+('lithosphere', 9)
+In not 0 section
+('lithuania', 13)
+In not 0 section
+('lithuanian', 9)
+In not 0 section
+('little', 36)
+In not 0 section
+('live', 40)
+In not 0 section
+('lived', 9)
+In not 0 section
+('livelihood', 9)
+In not 0 section
+('livestock', 26)
+In not 0 section
+('living', 221)
+In not 0 section
+('llddded', 9)
+In not 0 section
+('lldsechd', 5)
+In not 0 section
+('llllloeellts', 9)
+In not 0 section
+('lllvaslll', 6)
+In not 0 section
+('lloszchos', 5)
+In not 0 section
+('lnlr', 9)
+In not 0 section
+('load', 9)
+In not 0 section
+('local', 33)
+In not 0 section
+('locally', 9)
+In not 0 section
+('locate', 9)
+In not 0 section
+('located', 54)
+In not 0 section
+('location', 50)
+In not 0 section
+('locational', 18)
+In not 0 section
+('logic', 9)
+In not 0 section
+('logical', 9)
+In not 0 section
+('logically', 9)
+In not 0 section
+('london', 9)
+In not 0 section
+('lone', 18)
+In not 0 section
+('long', 96)
+In not 0 section
+('longer', 14)
+In not 0 section
+('longest', 14)
+In not 0 section
+('longevity', 9)
+In not 0 section
+('longitude', 9)
+In not 0 section
+('look', 90)
+In not 0 section
+('looked', 9)
+In not 0 section
+('looking', 23)
+In not 0 section
+('loosen', 8)
+In not 0 section
+('lose', 9)
+In not 0 section
+('loses', 9)
+In not 0 section
+('lost', 24)
+In not 0 section
+('love', 27)
+In not 0 section
+('lowed', 8)
+In not 0 section
+('lower', 34)
+In not 0 section
+('lowered', 9)
+In not 0 section
+('lowest', 7)
+In not 0 section
+('lowland', 9)
+In not 0 section
+('loyalist', 8)
+In not 0 section
+('lpln', 9)
+In not 0 section
+('lucknow', 8)
+In not 0 section
+('ludi', 8)
+In not 0 section
+('luminous', 9)
+In not 0 section
+('lumumba', 9)
+In not 0 section
+('lung', 18)
+In not 0 section
+('lustre', 16)
+In not 0 section
+('luther', 16)
+In not 0 section
+('luxury', 9)
+In not 0 section
+('lycopodium', 9)
+In not 0 section
+('lying', 9)
+In not 0 section
+('lyze', 9)
+In not 0 section
+('macedonia', 9)
+In not 0 section
+('mach', 9)
+In not 0 section
+('machine', 130)
+In not 0 section
+('machinery', 14)
+In not 0 section
+('macin', 9)
+In not 0 section
+('macos', 9)
+In not 0 section
+('macro', 16)
+In not 0 section
+('madagascar', 9)
+In not 0 section
+('made', 154)
+In not 0 section
+('madrid', 16)
+In not 0 section
+('maestra', 9)
+In not 0 section
+('magnetic', 15)
+In not 0 section
+('magnitude', 31)
+In not 0 section
+('maheshwari', 10)
+In not 0 section
+('mahotsava', 9)
+In not 0 section
+('main', 58)
+In not 0 section
+('mainframe', 8)
+In not 0 section
+('mainland', 9)
+In not 0 section
+('mainly', 9)
+In not 0 section
+('maintain', 43)
+In not 0 section
+('maintained', 44)
+In not 0 section
+('maintaining', 9)
+In not 0 section
+('maintenance', 8)
+In not 0 section
+('major', 120)
+In not 0 section
+('majority', 41)
+In not 0 section
+('make', 158)
+In not 0 section
+('making', 48)
+In not 0 section
+('malaysia', 46)
+In not 0 section
+('malaysian', 9)
+In not 0 section
+('malenkov', 9)
+In not 0 section
+('mali', 16)
+In not 0 section
+('malnutrition', 26)
+In not 0 section
+('mammal', 36)
+In not 0 section
+('mammalia', 22)
+In not 0 section
+('manages', 8)
+In not 0 section
+('managing', 9)
+In not 0 section
+('managua', 9)
+In not 0 section
+('mance', 38)
+In not 0 section
+('mandated', 8)
+In not 0 section
+('mandating', 9)
+In not 0 section
+('mandela', 26)
+In not 0 section
+('mang', 18)
+In not 0 section
+('manganese', 9)
+In not 0 section
+('mangifera', 34)
+In not 0 section
+('manglfera', 9)
+In not 0 section
+('mango', 34)
+In not 0 section
+('manipu', 9)
+In not 0 section
+('manipulating', 9)
+In not 0 section
+('manned', 9)
+In not 0 section
+('manner', 18)
+In not 0 section
+('manual', 28)
+In not 0 section
+('manuel', 9)
+In not 0 section
+('manufacture', 9)
+In not 0 section
+('manufactured', 9)
+In not 0 section
+('manufacturer', 8)
+In not 0 section
+('manufacturing', 8)
+In not 0 section
+('many', 221)
+In not 0 section
+('map', 37)
+In not 0 section
+('mar', 8)
+In not 0 section
+('march', 76)
+In not 0 section
+('marcos', 24)
+In not 0 section
+('marine', 9)
+In not 0 section
+('mark', 54)
+In not 0 section
+('marked', 8)
+In not 0 section
+('market', 55)
+In not 0 section
+('marketed', 9)
+In not 0 section
+('martial', 21)
+In not 0 section
+('martin', 15)
+In not 0 section
+('marxist', 33)
+In not 0 section
+('mass', 160)
+In not 0 section
+('match', 26)
+In not 0 section
+('material', 80)
+In not 0 section
+('materiality', 9)
+In not 0 section
+('math', 44)
+In not 0 section
+('mathematical', 8)
+In not 0 section
+('mathematically', 9)
+In not 0 section
+('mathematician', 15)
+In not 0 section
+('mathematics', 25)
+In not 0 section
+('mation', 16)
+In not 0 section
+('mations', 9)
+In not 0 section
+('matter', 74)
+In not 0 section
+('maturity', 7)
+In not 0 section
+('mauchly', 9)
+In not 0 section
+('mauritania', 16)
+In not 0 section
+('maximum', 18)
+In not 0 section
+('mayr', 28)
+In not 0 section
+('mean', 208)
+In not 0 section
+('meaning', 29)
+In not 0 section
+('meaningfully', 9)
+In not 0 section
+('meant', 18)
+In not 0 section
+('meanwhile', 9)
+In not 0 section
+('measure', 108)
+In not 0 section
+('measured', 138)
+In not 0 section
+('measurement', 241)
+In not 0 section
+('measuring', 47)
+In not 0 section
+('meat', 18)
+In not 0 section
+('mechanical', 9)
+In not 0 section
+('mechanism', 24)
+In not 0 section
+('medical', 9)
+In not 0 section
+('medicine', 9)
+In not 0 section
+('mediterranean', 9)
+In not 0 section
+('medium', 18)
+In not 0 section
+('meet', 45)
+In not 0 section
+('meeting', 8)
+In not 0 section
+('megawati', 9)
+In not 0 section
+('melongena', 8)
+In not 0 section
+('meltdown', 9)
+In not 0 section
+('melting', 8)
+In not 0 section
+('member', 58)
+In not 0 section
+('membership', 8)
+In not 0 section
+('membrane', 9)
+In not 0 section
+('memory', 94)
+In not 0 section
+('ment', 33)
+In not 0 section
+('mental', 17)
+In not 0 section
+('mention', 8)
+In not 0 section
+('mentioned', 49)
+In not 0 section
+('ments', 9)
+In not 0 section
+('mera', 9)
+In not 0 section
+('mere', 30)
+In not 0 section
+('merely', 9)
+In not 0 section
+('merg', 9)
+In not 0 section
+('mesa', 9)
+In not 0 section
+('meso', 7)
+In not 0 section
+('metabolic', 26)
+In not 0 section
+('metabolism', 31)
+In not 0 section
+('metallic', 9)
+In not 0 section
+('meteorology', 25)
+In not 0 section
+('method', 120)
+In not 0 section
+('methodology', 17)
+In not 0 section
+('methyl', 16)
+In not 0 section
+('metre', 65)
+In not 0 section
+('mexico', 45)
+In not 0 section
+('michael', 17)
+In not 0 section
+('micro', 25)
+In not 0 section
+('microbe', 9)
+In not 0 section
+('microchip', 1)
+In not 0 section
+('microprocessor', 18)
+In not 0 section
+('microscope', 43)
+In not 0 section
+('microscopy', 9)
+In not 0 section
+('middle', 24)
+In not 0 section
+('middleman', 9)
+In not 0 section
+('might', 55)
+In not 0 section
+('migrant', 9)
+In not 0 section
+('migrating', 9)
+In not 0 section
+('migration', 9)
+In not 0 section
+('mikhail', 21)
+In not 0 section
+('mild', 9)
+In not 0 section
+('mile', 18)
+In not 0 section
+('milestone', 8)
+In not 0 section
+('mili', 9)
+In not 0 section
+('militant', 15)
+In not 0 section
+('military', 170)
+In not 0 section
+('militia', 9)
+In not 0 section
+('milk', 9)
+In not 0 section
+('milky', 9)
+In not 0 section
+('million', 105)
+In not 0 section
+('milton', 9)
+In not 0 section
+('mind', 23)
+In not 0 section
+('mined', 9)
+In not 0 section
+('mineral', 43)
+In not 0 section
+('ming', 9)
+In not 0 section
+('minh', 7)
+In not 0 section
+('miniature', 7)
+In not 0 section
+('minicomputer', 8)
+In not 0 section
+('minimised', 8)
+In not 0 section
+('minimize', 18)
+In not 0 section
+('minimizing', 9)
+In not 0 section
+('minimum', 9)
+In not 0 section
+('minister', 43)
+In not 0 section
+('minuend', 13)
+In not 0 section
+('minute', 18)
+In not 0 section
+('mips', 10)
+In not 0 section
+('mirvd', 9)
+In not 0 section
+('misc', 9)
+In not 0 section
+('miscellaneous', 23)
+In not 0 section
+('misleading', 9)
+In not 0 section
+('missile', 44)
+In not 0 section
+('missing', 16)
+In not 0 section
+('mission', 28)
+In not 0 section
+('missionary', 9)
+In not 0 section
+('mitterrand', 15)
+In not 0 section
+('mlll', 16)
+In not 0 section
+('mobility', 9)
+In not 0 section
+('mode', 8)
+In not 0 section
+('model', 8)
+In not 0 section
+('modeled', 9)
+In not 0 section
+('moderate', 26)
+In not 0 section
+('modern', 86)
+In not 0 section
+('modi', 18)
+In not 0 section
+('modification', 18)
+In not 0 section
+('modified', 26)
+In not 0 section
+('modify', 9)
+In not 0 section
+('mofe', 9)
+In not 0 section
+('mohammed', 9)
+In not 0 section
+('mohit', 9)
+In not 0 section
+('moise', 9)
+In not 0 section
+('mold', 9)
+In not 0 section
+('mole', 17)
+In not 0 section
+('molecular', 57)
+In not 0 section
+('molecule', 69)
+In not 0 section
+('moment', 9)
+In not 0 section
+('monarchy', 9)
+In not 0 section
+('moncada', 9)
+In not 0 section
+('monday', 7)
+In not 0 section
+('money', 27)
+In not 0 section
+('monitoring', 9)
+In not 0 section
+('monkey', 9)
+In not 0 section
+('mono', 16)
+In not 0 section
+('monochromatic', 9)
+In not 0 section
+('monocotyledonae', 8)
+In not 0 section
+('monograph', 21)
+In not 0 section
+('monsanto', 9)
+In not 0 section
+('monsoon', 7)
+In not 0 section
+('monsoonal', 9)
+In not 0 section
+('month', 23)
+In not 0 section
+('monthly', 24)
+In not 0 section
+('monumental', 9)
+In not 0 section
+('moon', 71)
+In not 0 section
+('moreover', 15)
+In not 0 section
+('morocco', 14)
+In not 0 section
+('morphological', 34)
+In not 0 section
+('morphology', 9)
+In not 0 section
+('mosquito', 9)
+In not 0 section
+('moss', 9)
+In not 0 section
+('mostly', 18)
+In not 0 section
+('mother', 18)
+In not 0 section
+('motion', 9)
+In not 0 section
+('motivated', 9)
+In not 0 section
+('mound', 8)
+In not 0 section
+('mount', 18)
+In not 0 section
+('mountain', 32)
+In not 0 section
+('mounted', 8)
+In not 0 section
+('mouse', 90)
+In not 0 section
+('move', 25)
+In not 0 section
+('moved', 30)
+In not 0 section
+('movement', 87)
+In not 0 section
+('moving', 18)
+In not 0 section
+('mozambique', 23)
+In not 0 section
+('mriaula', 7)
+In not 0 section
+('much', 148)
+In not 0 section
+('mudit', 6)
+In not 0 section
+('mugabe', 9)
+In not 0 section
+('mule', 9)
+In not 0 section
+('multi', 23)
+In not 0 section
+('multicellular', 19)
+In not 0 section
+('multifaceted', 9)
+In not 0 section
+('multiple', 76)
+In not 0 section
+('multiplica', 16)
+In not 0 section
+('multiplication', 128)
+In not 0 section
+('multiplicative', 9)
+In not 0 section
+('multiplied', 24)
+In not 0 section
+('multiplier', 1)
+In not 0 section
+('multiply', 78)
+In not 0 section
+('multiplying', 50)
+In not 0 section
+('multiracial', 18)
+In not 0 section
+('mum', 9)
+In not 0 section
+('mundane', 9)
+In not 0 section
+('munist', 18)
+In not 0 section
+('musca', 9)
+In not 0 section
+('muscidae', 8)
+In not 0 section
+('museum', 31)
+In not 0 section
+('muslim', 26)
+In not 0 section
+('must', 109)
+In not 0 section
+('mutual', 15)
+In not 0 section
+('mutually', 9)
+In not 0 section
+('myanmar', 14)
+In not 0 section
+('nagy', 15)
+In not 0 section
+('naive', 9)
+In not 0 section
+('naked', 9)
+In not 0 section
+('nalise', 9)
+In not 0 section
+('name', 185)
+In not 0 section
+('named', 33)
+In not 0 section
+('namely', 9)
+In not 0 section
+('namese', 9)
+In not 0 section
+('namibia', 16)
+In not 0 section
+('naming', 36)
+In not 0 section
+('nanlfe', 9)
+In not 0 section
+('napo', 9)
+In not 0 section
+('narrative', 9)
+In not 0 section
+('nasa', 9)
+In not 0 section
+('nasser', 9)
+In not 0 section
+('nathan', 9)
+In not 0 section
+('nation', 184)
+In not 0 section
+('national', 164)
+In not 0 section
+('nationalist', 18)
+In not 0 section
+('nationalization', 9)
+In not 0 section
+('nationalize', 9)
+In not 0 section
+('nationalized', 9)
+In not 0 section
+('naturae', 9)
+In not 0 section
+('natural', 166)
+In not 0 section
+('naturalised', 9)
+In not 0 section
+('naturally', 26)
+In not 0 section
+('nature', 101)
+In not 0 section
+('navigation', 9)
+In not 0 section
+('nazca', 6)
+In not 0 section
+('nceht', 9)
+In not 0 section
+('ncert', 10)
+In not 0 section
+('ndability', 9)
+In not 0 section
+('ndica', 9)
+In not 0 section
+('near', 27)
+In not 0 section
+('nearby', 9)
+In not 0 section
+('nearest', 9)
+In not 0 section
+('nearly', 36)
+In not 0 section
+('necessary', 36)
+In not 0 section
+('necessity', 17)
+In not 0 section
+('nected', 9)
+In not 0 section
+('need', 180)
+In not 0 section
+('needed', 45)
+In not 0 section
+('needle', 9)
+In not 0 section
+('negative', 27)
+In not 0 section
+('negligible', 9)
+In not 0 section
+('negotiates', 9)
+In not 0 section
+('negotiation', 9)
+In not 0 section
+('neighbor', 8)
+In not 0 section
+('neighboring', 9)
+In not 0 section
+('neighbouring', 9)
+In not 0 section
+('neil', 15)
+In not 0 section
+('neither', 16)
+In not 0 section
+('nelson', 19)
+In not 0 section
+('nents', 8)
+In not 0 section
+('neously', 9)
+In not 0 section
+('network', 50)
+In not 0 section
+('neumann', 9)
+In not 0 section
+('neural', 9)
+In not 0 section
+('never', 43)
+In not 0 section
+('newer', 6)
+In not 0 section
+('newly', 9)
+In not 0 section
+('news', 9)
+In not 0 section
+('newton', 18)
+In not 0 section
+('next', 98)
+In not 0 section
+('niagara', 9)
+In not 0 section
+('nial', 8)
+In not 0 section
+('nicaragua', 24)
+In not 0 section
+('nicest', 9)
+In not 0 section
+('niche', 9)
+In not 0 section
+('nicolae', 9)
+In not 0 section
+('niger', 9)
+In not 0 section
+('nigeria', 9)
+In not 0 section
+('nigerian', 22)
+In not 0 section
+('night', 5)
+In not 0 section
+('nigrum', 9)
+In not 0 section
+('nikita', 29)
+In not 0 section
+('nimeiri', 13)
+In not 0 section
+('nine', 16)
+In not 0 section
+('ning', 26)
+In not 0 section
+('nite', 17)
+In not 0 section
+('nitions', 9)
+In not 0 section
+('nixon', 39)
+In not 0 section
+('nllmbers', 7)
+In not 0 section
+('node', 9)
+In not 0 section
+('nodule', 9)
+In not 0 section
+('nomenclature', 62)
+In not 0 section
+('nonaligned', 9)
+In not 0 section
+('noncommunist', 9)
+In not 0 section
+('nonmilitary', 9)
+In not 0 section
+('nonstick', 9)
+In not 0 section
+('nonviolent', 9)
+In not 0 section
+('noon', 7)
+In not 0 section
+('noriega', 17)
+In not 0 section
+('norm', 1)
+In not 0 section
+('normal', 8)
+In not 0 section
+('normally', 23)
+In not 0 section
+('north', 81)
+In not 0 section
+('northern', 25)
+In not 0 section
+('notation', 67)
+In not 0 section
+('note', 98)
+In not 0 section
+('noted', 9)
+In not 0 section
+('nothing', 23)
+In not 0 section
+('nothingness', 9)
+In not 0 section
+('notice', 44)
+In not 0 section
+('noticed', 9)
+In not 0 section
+('noting', 6)
+In not 0 section
+('notochord', 9)
+In not 0 section
+('november', 41)
+In not 0 section
+('ntany', 9)
+In not 0 section
+('ntay', 17)
+In not 0 section
+('ntul', 6)
+In not 0 section
+('ntultiple', 9)
+In not 0 section
+('nucle', 9)
+In not 0 section
+('nuclear', 116)
+In not 0 section
+('nucleus', 23)
+In not 0 section
+('nuclides', 8)
+In not 0 section
+('number', 436)
+In not 0 section
+('numberof', 9)
+In not 0 section
+('numeral', 9)
+In not 0 section
+('numerical', 9)
+In not 0 section
+('numerous', 8)
+In not 0 section
+('nursing', 9)
+In not 0 section
+('nutrient', 9)
+In not 0 section
+('nutrition', 9)
+In not 0 section
+('nutritional', 9)
+In not 0 section
+('nutshell', 9)
+In not 0 section
+('obesity', 9)
+In not 0 section
+('object', 115)
+In not 0 section
+('objective', 34)
+In not 0 section
+('obote', 9)
+In not 0 section
+('observable', 28)
+In not 0 section
+('observation', 84)
+In not 0 section
+('observatory', 9)
+In not 0 section
+('observe', 68)
+In not 0 section
+('observed', 16)
+In not 0 section
+('observer', 9)
+In not 0 section
+('observing', 9)
+In not 0 section
+('obstruct', 9)
+In not 0 section
+('obstructed', 9)
+In not 0 section
+('obtain', 9)
+In not 0 section
+('obtained', 64)
+In not 0 section
+('obvious', 16)
+In not 0 section
+('obviously', 30)
+In not 0 section
+('occupant', 9)
+In not 0 section
+('occupation', 27)
+In not 0 section
+('occupational', 9)
+In not 0 section
+('occupied', 18)
+In not 0 section
+('occupies', 8)
+In not 0 section
+('occur', 39)
+In not 0 section
+('occurrence', 18)
+In not 0 section
+('occurring', 22)
+In not 0 section
+('occurs', 31)
+In not 0 section
+('ocean', 50)
+In not 0 section
+('oceanic', 18)
+In not 0 section
+('oceanography', 17)
+In not 0 section
+('octahe', 9)
+In not 0 section
+('octo', 9)
+In not 0 section
+('october', 79)
+In not 0 section
+('ofarm', 9)
+In not 0 section
+('ofdollars', 9)
+In not 0 section
+('offensive', 6)
+In not 0 section
+('offer', 9)
+In not 0 section
+('offered', 9)
+In not 0 section
+('office', 28)
+In not 0 section
+('officially', 18)
+In not 0 section
+('ofsoft', 9)
+In not 0 section
+('often', 113)
+In not 0 section
+('ofthe', 24)
+In not 0 section
+('ogaden', 9)
+In not 0 section
+('ohio', 9)
+In not 0 section
+('older', 6)
+In not 0 section
+('oleic', 34)
+In not 0 section
+('olutionary', 9)
+In not 0 section
+('olympic', 9)
+In not 0 section
+('olympics', 9)
+In not 0 section
+('omnipresent', 8)
+In not 0 section
+('one', 89)
+In not 0 section
+('ongoing', 9)
+In not 0 section
+('online', 9)
+In not 0 section
+('onset', 9)
+In not 0 section
+('open', 32)
+In not 0 section
+('opened', 24)
+In not 0 section
+('operate', 9)
+In not 0 section
+('operated', 1)
+In not 0 section
+('operating', 49)
+In not 0 section
+('operation', 81)
+In not 0 section
+('opponent', 18)
+In not 0 section
+('opportunity', 25)
+In not 0 section
+('oppose', 9)
+In not 0 section
+('opposed', 7)
+In not 0 section
+('opposite', 22)
+In not 0 section
+('opposition', 27)
+In not 0 section
+('optical', 51)
+In not 0 section
+('optimise', 9)
+In not 0 section
+('option', 18)
+In not 0 section
+('optiplex', 9)
+In not 0 section
+('oral', 8)
+In not 0 section
+('orange', 8)
+In not 0 section
+('orbit', 17)
+In not 0 section
+('order', 208)
+In not 0 section
+('orderly', 9)
+In not 0 section
+('ordinary', 16)
+In not 0 section
+('orga', 5)
+In not 0 section
+('organ', 8)
+In not 0 section
+('organelle', 15)
+In not 0 section
+('organic', 18)
+In not 0 section
+('organisation', 62)
+In not 0 section
+('organisational', 9)
+In not 0 section
+('organise', 8)
+In not 0 section
+('organised', 22)
+In not 0 section
+('organism', 334)
+In not 0 section
+('organization', 87)
+In not 0 section
+('organize', 9)
+In not 0 section
+('organized', 9)
+In not 0 section
+('oriente', 9)
+In not 0 section
+('oriented', 9)
+In not 0 section
+('origin', 33)
+In not 0 section
+('original', 97)
+In not 0 section
+('originally', 17)
+In not 0 section
+('orleans', 8)
+In not 0 section
+('ornithology', 9)
+In not 0 section
+('osama', 8)
+In not 0 section
+('oscillates', 9)
+In not 0 section
+('oscillation', 39)
+In not 0 section
+('osmotic', 8)
+In not 0 section
+('oswald', 7)
+In not 0 section
+('others', 59)
+In not 0 section
+('otherwise', 16)
+In not 0 section
+('oueddei', 9)
+In not 0 section
+('ouse', 8)
+In not 0 section
+('oust', 18)
+In not 0 section
+('ousted', 70)
+In not 0 section
+('ouster', 18)
+In not 0 section
+('ousting', 9)
+In not 0 section
+('ousts', 9)
+In not 0 section
+('outcome', 9)
+In not 0 section
+('outer', 9)
+In not 0 section
+('outermost', 15)
+In not 0 section
+('outlined', 9)
+In not 0 section
+('outnumbers', 9)
+In not 0 section
+('outpul', 7)
+In not 0 section
+('output', 57)
+In not 0 section
+('outputting', 12)
+In not 0 section
+('outside', 22)
+In not 0 section
+('outwards', 6)
+In not 0 section
+('ovarian', 9)
+In not 0 section
+('overall', 30)
+In not 0 section
+('overburdened', 9)
+In not 0 section
+('overdraft', 10)
+In not 0 section
+('overestimate', 9)
+In not 0 section
+('overseas', 7)
+In not 0 section
+('overthrew', 9)
+In not 0 section
+('overthrow', 18)
+In not 0 section
+('overthrown', 18)
+In not 0 section
+('overwhelmingly', 9)
+In not 0 section
+('owed', 9)
+In not 0 section
+('ower', 9)
+In not 0 section
+('owers', 9)
+In not 0 section
+('owes', 9)
+In not 0 section
+('owned', 9)
+In not 0 section
+('ownership', 9)
+In not 0 section
+('ozone', 9)
+In not 0 section
+('pace', 18)
+In not 0 section
+('paci', 8)
+In not 0 section
+('pacific', 8)
+In not 0 section
+('pact', 9)
+In not 0 section
+('pad', 9)
+In not 0 section
+('page', 40)
+In not 0 section
+('paid', 60)
+In not 0 section
+('pair', 26)
+In not 0 section
+('pakistan', 32)
+In not 0 section
+('pakistani', 9)
+In not 0 section
+('palace', 9)
+In not 0 section
+('palestine', 9)
+In not 0 section
+('palestinian', 32)
+In not 0 section
+('pamphlet', 9)
+In not 0 section
+('panama', 17)
+In not 0 section
+('panamanian', 9)
+In not 0 section
+('panchanan', 17)
+In not 0 section
+('panic', 9)
+In not 0 section
+('panthera', 33)
+In not 0 section
+('paper', 9)
+In not 0 section
+('parallactic', 8)
+In not 0 section
+('parallax', 52)
+In not 0 section
+('parallel', 45)
+In not 0 section
+('parameter', 17)
+In not 0 section
+('parcel', 8)
+In not 0 section
+('pardus', 9)
+In not 0 section
+('parent', 18)
+In not 0 section
+('paris', 41)
+In not 0 section
+('park', 36)
+In not 0 section
+('parliament', 18)
+In not 0 section
+('parliamentary', 13)
+In not 0 section
+('parsec', 9)
+In not 0 section
+('part', 124)
+In not 0 section
+('participate', 9)
+In not 0 section
+('particle', 49)
+In not 0 section
+('particu', 9)
+In not 0 section
+('particular', 131)
+In not 0 section
+('particularly', 50)
+In not 0 section
+('party', 49)
+In not 0 section
+('pas', 8)
+In not 0 section
+('pass', 33)
+In not 0 section
+('passage', 18)
+In not 0 section
+('passed', 25)
+In not 0 section
+('passenger', 17)
+In not 0 section
+('past', 24)
+In not 0 section
+('paste', 9)
+In not 0 section
+('pasture', 8)
+In not 0 section
+('path', 28)
+In not 0 section
+('patient', 22)
+In not 0 section
+('patrice', 9)
+In not 0 section
+('patricio', 9)
+In not 0 section
+('pattern', 81)
+In not 0 section
+('paul', 14)
+In not 0 section
+('paved', 5)
+In not 0 section
+('payee', 20)
+In not 0 section
+('payment', 125)
+In not 0 section
+('peace', 81)
+In not 0 section
+('peaceful', 9)
+In not 0 section
+('peak', 9)
+In not 0 section
+('peanut', 17)
+In not 0 section
+('peasant', 9)
+In not 0 section
+('pedogenesis', 9)
+In not 0 section
+('pedology', 22)
+In not 0 section
+('pencil', 32)
+In not 0 section
+('pendence', 9)
+In not 0 section
+('pendent', 9)
+In not 0 section
+('pendulum', 42)
+In not 0 section
+('penh', 15)
+In not 0 section
+('peninsula', 9)
+In not 0 section
+('pennsylvania', 17)
+In not 0 section
+('pentagon', 7)
+In not 0 section
+('people', 184)
+In not 0 section
+('perceive', 18)
+In not 0 section
+('perceived', 25)
+In not 0 section
+('percent', 18)
+In not 0 section
+('percentage', 34)
+In not 0 section
+('perfectly', 9)
+In not 0 section
+('perfor', 36)
+In not 0 section
+('perform', 33)
+In not 0 section
+('performance', 107)
+In not 0 section
+('performed', 25)
+In not 0 section
+('performs', 8)
+In not 0 section
+('perhaps', 8)
+In not 0 section
+('period', 155)
+In not 0 section
+('periodic', 18)
+In not 0 section
+('periodically', 8)
+In not 0 section
+('perishable', 9)
+In not 0 section
+('perpendicular', 8)
+In not 0 section
+('persisted', 9)
+In not 0 section
+('persollal', 8)
+In not 0 section
+('person', 37)
+In not 0 section
+('personal', 39)
+In not 0 section
+('perspective', 34)
+In not 0 section
+('pertinent', 9)
+In not 0 section
+('pesticide', 26)
+In not 0 section
+('pet', 8)
+In not 0 section
+('petabyte', 8)
+In not 0 section
+('peter', 9)
+In not 0 section
+('petition', 8)
+In not 0 section
+('petroleum', 9)
+In not 0 section
+('petty', 110)
+In not 0 section
+('petunia', 9)
+In not 0 section
+('pfedominantly', 8)
+In not 0 section
+('pfoces', 9)
+In not 0 section
+('pfocessors', 17)
+In not 0 section
+('pharmaceutical', 9)
+In not 0 section
+('phenomenon', 136)
+In not 0 section
+('phil', 9)
+In not 0 section
+('philosophical', 8)
+In not 0 section
+('philosophy', 33)
+In not 0 section
+('phnom', 14)
+In not 0 section
+('phone', 33)
+In not 0 section
+('photo', 10)
+In not 0 section
+('photograph', 13)
+In not 0 section
+('photoperiod', 9)
+In not 0 section
+('phylum', 46)
+In not 0 section
+('physic', 62)
+In not 0 section
+('physical', 247)
+In not 0 section
+('physicist', 17)
+In not 0 section
+('physiography', 9)
+In not 0 section
+('physiological', 9)
+In not 0 section
+('pick', 9)
+In not 0 section
+('picture', 43)
+In not 0 section
+('piece', 8)
+In not 0 section
+('pilot', 14)
+In not 0 section
+('piloting', 9)
+In not 0 section
+('pinning', 9)
+In not 0 section
+('pinochet', 7)
+In not 0 section
+('pioneer', 7)
+In not 0 section
+('pioneered', 9)
+In not 0 section
+('pipe', 7)
+In not 0 section
+('pipeline', 48)
+In not 0 section
+('pizza', 9)
+In not 0 section
+('place', 248)
+In not 0 section
+('placed', 52)
+In not 0 section
+('placeholder', 17)
+In not 0 section
+('placement', 8)
+In not 0 section
+('plain', 21)
+In not 0 section
+('plan', 9)
+In not 0 section
+('planaria', 8)
+In not 0 section
+('plane', 85)
+In not 0 section
+('planet', 60)
+In not 0 section
+('planned', 9)
+In not 0 section
+('plannin', 9)
+In not 0 section
+('planning', 16)
+In not 0 section
+('plant', 262)
+In not 0 section
+('plantae', 9)
+In not 0 section
+('plastic', 17)
+In not 0 section
+('plate', 25)
+In not 0 section
+('plateau', 16)
+In not 0 section
+('platinum', 9)
+In not 0 section
+('platt', 9)
+In not 0 section
+('play', 7)
+In not 0 section
+('please', 15)
+In not 0 section
+('pledge', 9)
+In not 0 section
+('plenty', 8)
+In not 0 section
+('plpellnlng', 6)
+In not 0 section
+('plumpy', 9)
+In not 0 section
+('plus', 8)
+In not 0 section
+('pluto', 6)
+In not 0 section
+('plying', 5)
+In not 0 section
+('poaceae', 8)
+In not 0 section
+('poales', 8)
+In not 0 section
+('pocket', 9)
+In not 0 section
+('poet', 8)
+In not 0 section
+('point', 130)
+In not 0 section
+('pointed', 9)
+In not 0 section
+('pointing', 13)
+In not 0 section
+('poised', 9)
+In not 0 section
+('poison', 9)
+In not 0 section
+('poland', 46)
+In not 0 section
+('pole', 9)
+In not 0 section
+('police', 8)
+In not 0 section
+('policy', 24)
+In not 0 section
+('polish', 15)
+In not 0 section
+('political', 93)
+In not 0 section
+('politically', 9)
+In not 0 section
+('politician', 9)
+In not 0 section
+('pollination', 9)
+In not 0 section
+('pollutant', 8)
+In not 0 section
+('pollution', 35)
+In not 0 section
+('polyester', 9)
+In not 0 section
+('polymoniales', 9)
+In not 0 section
+('poor', 55)
+In not 0 section
+('pope', 15)
+In not 0 section
+('popular', 71)
+In not 0 section
+('popularised', 8)
+In not 0 section
+('popularity', 17)
+In not 0 section
+('population', 109)
+In not 0 section
+('pore', 8)
+In not 0 section
+('port', 24)
+In not 0 section
+('portable', 15)
+In not 0 section
+('portion', 24)
+In not 0 section
+('portugal', 20)
+In not 0 section
+('pose', 9)
+In not 0 section
+('posed', 17)
+In not 0 section
+('posit', 9)
+In not 0 section
+('position', 73)
+In not 0 section
+('positioning', 9)
+In not 0 section
+('positive', 26)
+In not 0 section
+('possessing', 9)
+In not 0 section
+('possibility', 9)
+In not 0 section
+('possible', 96)
+In not 0 section
+('possibly', 9)
+In not 0 section
+('post', 22)
+In not 0 section
+('postage', 28)
+In not 0 section
+('postal', 16)
+In not 0 section
+('posted', 35)
+In not 0 section
+('posting', 28)
+In not 0 section
+('postwar', 9)
+In not 0 section
+('potato', 16)
+In not 0 section
+('potent', 9)
+In not 0 section
+('potted', 9)
+In not 0 section
+('pound', 6)
+In not 0 section
+('pour', 9)
+In not 0 section
+('poverty', 18)
+In not 0 section
+('powder', 9)
+In not 0 section
+('power', 169)
+In not 0 section
+('powered', 9)
+In not 0 section
+('powerful', 26)
+In not 0 section
+('practical', 18)
+In not 0 section
+('practically', 9)
+In not 0 section
+('practice', 7)
+In not 0 section
+('practised', 8)
+In not 0 section
+('pradesh', 9)
+In not 0 section
+('prague', 9)
+In not 0 section
+('precaution', 9)
+In not 0 section
+('preceding', 11)
+In not 0 section
+('precipitation', 24)
+In not 0 section
+('precise', 16)
+In not 0 section
+('precision', 92)
+In not 0 section
+('predetermined', 9)
+In not 0 section
+('prefer', 9)
+In not 0 section
+('preferred', 8)
+In not 0 section
+('preliminary', 9)
+In not 0 section
+('premier', 34)
+In not 0 section
+('preparation', 17)
+In not 0 section
+('prepare', 31)
+In not 0 section
+('prepared', 23)
+In not 0 section
+('presence', 9)
+In not 0 section
+('present', 118)
+In not 0 section
+('presented', 9)
+In not 0 section
+('preservation', 9)
+In not 0 section
+('preservative', 8)
+In not 0 section
+('preserve', 9)
+In not 0 section
+('preserved', 41)
+In not 0 section
+('presi', 9)
+In not 0 section
+('presidency', 9)
+In not 0 section
+('president', 251)
+In not 0 section
+('presper', 9)
+In not 0 section
+('press', 17)
+In not 0 section
+('pressed', 7)
+In not 0 section
+('pressure', 44)
+In not 0 section
+('prestige', 9)
+In not 0 section
+('pretty', 9)
+In not 0 section
+('prevailing', 18)
+In not 0 section
+('prevent', 9)
+In not 0 section
+('prevention', 9)
+In not 0 section
+('price', 27)
+In not 0 section
+('priced', 9)
+In not 0 section
+('primarily', 27)
+In not 0 section
+('primary', 48)
+In not 0 section
+('primata', 16)
+In not 0 section
+('prime', 115)
+In not 0 section
+('primitive', 20)
+In not 0 section
+('principle', 65)
+In not 0 section
+('printed', 30)
+In not 0 section
+('prism', 17)
+In not 0 section
+('prison', 17)
+In not 0 section
+('prisoner', 9)
+In not 0 section
+('private', 9)
+In not 0 section
+('privatization', 9)
+In not 0 section
+('prize', 14)
+In not 0 section
+('probably', 42)
+In not 0 section
+('problem', 95)
+In not 0 section
+('procedure', 50)
+In not 0 section
+('proces', 8)
+In not 0 section
+('process', 183)
+In not 0 section
+('processing', 19)
+In not 0 section
+('processof', 14)
+In not 0 section
+('processor', 155)
+In not 0 section
+('proclaimed', 18)
+In not 0 section
+('produce', 45)
+In not 0 section
+('produced', 17)
+In not 0 section
+('producer', 9)
+In not 0 section
+('producing', 18)
+In not 0 section
+('product', 129)
+In not 0 section
+('production', 94)
+In not 0 section
+('productivity', 26)
+In not 0 section
+('professor', 9)
+In not 0 section
+('proficiency', 15)
+In not 0 section
+('profile', 8)
+In not 0 section
+('profit', 9)
+In not 0 section
+('profitably', 9)
+In not 0 section
+('profound', 9)
+In not 0 section
+('profoundly', 9)
+In not 0 section
+('progeny', 17)
+In not 0 section
+('program', 224)
+In not 0 section
+('programmer', 88)
+In not 0 section
+('programming', 48)
+In not 0 section
+('progress', 36)
+In not 0 section
+('progressed', 9)
+In not 0 section
+('project', 82)
+In not 0 section
+('projection', 9)
+In not 0 section
+('prokaryote', 8)
+In not 0 section
+('proletarian', 9)
+In not 0 section
+('proliferated', 9)
+In not 0 section
+('proliferating', 9)
+In not 0 section
+('proliferation', 16)
+In not 0 section
+('prominence', 8)
+In not 0 section
+('promised', 9)
+In not 0 section
+('promising', 9)
+In not 0 section
+('promote', 18)
+In not 0 section
+('prompted', 9)
+In not 0 section
+('prompting', 9)
+In not 0 section
+('prone', 9)
+In not 0 section
+('proofing', 9)
+In not 0 section
+('prop', 9)
+In not 0 section
+('propelled', 9)
+In not 0 section
+('propeller', 9)
+In not 0 section
+('proper', 63)
+In not 0 section
+('properly', 16)
+In not 0 section
+('property', 84)
+In not 0 section
+('proportion', 9)
+In not 0 section
+('proportional', 8)
+In not 0 section
+('proportionally', 9)
+In not 0 section
+('proposes', 9)
+In not 0 section
+('protect', 9)
+In not 0 section
+('protected', 18)
+In not 0 section
+('protection', 17)
+In not 0 section
+('protectionist', 9)
+In not 0 section
+('protective', 9)
+In not 0 section
+('protectorate', 9)
+In not 0 section
+('protein', 18)
+In not 0 section
+('protest', 52)
+In not 0 section
+('protestant', 8)
+In not 0 section
+('protester', 9)
+In not 0 section
+('proton', 15)
+In not 0 section
+('protonema', 9)
+In not 0 section
+('prototype', 23)
+In not 0 section
+('prove', 8)
+In not 0 section
+('proved', 20)
+In not 0 section
+('provide', 91)
+In not 0 section
+('provided', 92)
+In not 0 section
+('provides', 71)
+In not 0 section
+('providing', 66)
+In not 0 section
+('province', 27)
+In not 0 section
+('publication', 9)
+In not 0 section
+('published', 14)
+In not 0 section
+('pull', 8)
+In not 0 section
+('pumpkin', 8)
+In not 0 section
+('punished', 9)
+In not 0 section
+('purchase', 45)
+In not 0 section
+('purchased', 17)
+In not 0 section
+('purely', 9)
+In not 0 section
+('purportedly', 9)
+In not 0 section
+('purpose', 69)
+In not 0 section
+('putation', 8)
+In not 0 section
+('puted', 9)
+In not 0 section
+('puter', 25)
+In not 0 section
+('puters', 9)
+In not 0 section
+('puting', 9)
+In not 0 section
+('putting', 8)
+In not 0 section
+('pyramid', 9)
+In not 0 section
+('qaeda', 9)
+In not 0 section
+('qbhiiiiiiiii', 8)
+In not 0 section
+('qing', 9)
+In not 0 section
+('qllantitlltive', 9)
+In not 0 section
+('quality', 9)
+In not 0 section
+('quantitative', 17)
+In not 0 section
+('quantitativetechniques', 8)
+In not 0 section
+('quantity', 140)
+In not 0 section
+('quantum', 9)
+In not 0 section
+('quartz', 10)
+In not 0 section
+('ques', 9)
+In not 0 section
+('question', 151)
+In not 0 section
+('quick', 18)
+In not 0 section
+('quickly', 45)
+In not 0 section
+('quintal', 9)
+In not 0 section
+('quite', 8)
+In not 0 section
+('quota', 5)
+In not 0 section
+('quotient', 25)
+In not 0 section
+('rabin', 9)
+In not 0 section
+('race', 9)
+In not 0 section
+('rachel', 17)
+In not 0 section
+('racial', 9)
+In not 0 section
+('radian', 27)
+In not 0 section
+('radiant', 9)
+In not 0 section
+('radiation', 47)
+In not 0 section
+('radio', 7)
+In not 0 section
+('radioactive', 16)
+In not 0 section
+('radius', 45)
+In not 0 section
+('raid', 9)
+In not 0 section
+('railway', 23)
+In not 0 section
+('rain', 17)
+In not 0 section
+('rainfall', 9)
+In not 0 section
+('raised', 12)
+In not 0 section
+('raison', 7)
+In not 0 section
+('rajasthan', 13)
+In not 0 section
+('rajiv', 20)
+In not 0 section
+('rally', 9)
+In not 0 section
+('random', 30)
+In not 0 section
+('range', 124)
+In not 0 section
+('ranging', 25)
+In not 0 section
+('rank', 27)
+In not 0 section
+('rapidly', 8)
+In not 0 section
+('rarely', 9)
+In not 0 section
+('rate', 27)
+In not 0 section
+('rather', 27)
+In not 0 section
+('ratified', 18)
+In not 0 section
+('ratio', 45)
+In not 0 section
+('ration', 9)
+In not 0 section
+('ratories', 9)
+In not 0 section
+('ray', 7)
+In not 0 section
+('rding', 9)
+In not 0 section
+('reac', 9)
+In not 0 section
+('reach', 48)
+In not 0 section
+('reached', 35)
+In not 0 section
+('reaction', 33)
+In not 0 section
+('reactor', 16)
+In not 0 section
+('read', 20)
+In not 0 section
+('reader', 42)
+In not 0 section
+('reading', 61)
+In not 0 section
+('ready', 35)
+In not 0 section
+('reagan', 41)
+In not 0 section
+('real', 11)
+In not 0 section
+('realisation', 17)
+In not 0 section
+('reality', 35)
+In not 0 section
+('really', 16)
+In not 0 section
+('realm', 16)
+In not 0 section
+('reason', 18)
+In not 0 section
+('reasonable', 8)
+In not 0 section
+('rebel', 36)
+In not 0 section
+('rebelling', 9)
+In not 0 section
+('rebellion', 18)
+In not 0 section
+('recall', 9)
+In not 0 section
+('recapitulation', 8)
+In not 0 section
+('recategorizations', 8)
+In not 0 section
+('receipt', 79)
+In not 0 section
+('received', 68)
+In not 0 section
+('receives', 26)
+In not 0 section
+('recent', 18)
+In not 0 section
+('recently', 17)
+In not 0 section
+('reception', 9)
+In not 0 section
+('recharges', 9)
+In not 0 section
+('recognisable', 9)
+In not 0 section
+('recognise', 23)
+In not 0 section
+('recognises', 9)
+In not 0 section
+('recognition', 18)
+In not 0 section
+('recognize', 17)
+In not 0 section
+('recognizing', 9)
+In not 0 section
+('recommended', 8)
+In not 0 section
+('record', 36)
+In not 0 section
+('recorded', 78)
+In not 0 section
+('recording', 74)
+In not 0 section
+('redefined', 9)
+In not 0 section
+('reduce', 18)
+In not 0 section
+('reduced', 23)
+In not 0 section
+('reducing', 8)
+In not 0 section
+('reduction', 9)
+In not 0 section
+('redundancy', 9)
+In not 0 section
+('refer', 47)
+In not 0 section
+('reference', 43)
+In not 0 section
+('referral', 16)
+In not 0 section
+('referred', 26)
+In not 0 section
+('refers', 25)
+In not 0 section
+('refine', 9)
+In not 0 section
+('refinery', 9)
+In not 0 section
+('reform', 43)
+In not 0 section
+('refreshment', 16)
+In not 0 section
+('refu', 9)
+In not 0 section
+('refugee', 9)
+In not 0 section
+('refuse', 18)
+In not 0 section
+('refused', 9)
+In not 0 section
+('refusing', 9)
+In not 0 section
+('regard', 17)
+In not 0 section
+('regarded', 9)
+In not 0 section
+('regarding', 9)
+In not 0 section
+('regenerates', 9)
+In not 0 section
+('regeneration', 9)
+In not 0 section
+('regime', 106)
+In not 0 section
+('region', 88)
+In not 0 section
+('regional', 39)
+In not 0 section
+('register', 17)
+In not 0 section
+('registered', 9)
+In not 0 section
+('regulate', 14)
+In not 0 section
+('regulated', 9)
+In not 0 section
+('regulating', 8)
+In not 0 section
+('reign', 9)
+In not 0 section
+('reimbursed', 8)
+In not 0 section
+('reimbursement', 15)
+In not 0 section
+('reinforce', 9)
+In not 0 section
+('rejection', 9)
+In not 0 section
+('relate', 9)
+In not 0 section
+('related', 160)
+In not 0 section
+('relating', 6)
+In not 0 section
+('relation', 45)
+In not 0 section
+('relationship', 112)
+In not 0 section
+('relative', 46)
+In not 0 section
+('relatively', 19)
+In not 0 section
+('releas', 9)
+In not 0 section
+('release', 16)
+In not 0 section
+('released', 27)
+In not 0 section
+('reliability', 9)
+In not 0 section
+('reliable', 18)
+In not 0 section
+('reliably', 8)
+In not 0 section
+('relief', 27)
+In not 0 section
+('religious', 9)
+In not 0 section
+('rely', 27)
+In not 0 section
+('remainder', 40)
+In not 0 section
+('remained', 17)
+In not 0 section
+('remains', 9)
+In not 0 section
+('remark', 20)
+In not 0 section
+('remember', 67)
+In not 0 section
+('remembered', 9)
+In not 0 section
+('remote', 9)
+In not 0 section
+('remove', 25)
+In not 0 section
+('removing', 9)
+In not 0 section
+('renamed', 9)
+In not 0 section
+('rendered', 9)
+In not 0 section
+('renewable', 9)
+In not 0 section
+('rent', 32)
+In not 0 section
+('repeat', 8)
+In not 0 section
+('repeated', 9)
+In not 0 section
+('repeating', 9)
+In not 0 section
+('repel', 9)
+In not 0 section
+('repetitive', 17)
+In not 0 section
+('replace', 25)
+In not 0 section
+('replaced', 16)
+In not 0 section
+('replacement', 8)
+In not 0 section
+('replaces', 17)
+In not 0 section
+('replacing', 23)
+In not 0 section
+('replicate', 8)
+In not 0 section
+('replicating', 16)
+In not 0 section
+('report', 18)
+In not 0 section
+('reported', 32)
+In not 0 section
+('reportedly', 9)
+In not 0 section
+('reporting', 15)
+In not 0 section
+('repository', 8)
+In not 0 section
+('represent', 65)
+In not 0 section
+('representation', 45)
+In not 0 section
+('representative', 53)
+In not 0 section
+('represented', 24)
+In not 0 section
+('representing', 17)
+In not 0 section
+('represents', 74)
+In not 0 section
+('repress', 9)
+In not 0 section
+('repressive', 9)
+In not 0 section
+('reproduce', 15)
+In not 0 section
+('reproducing', 9)
+In not 0 section
+('reproduction', 88)
+In not 0 section
+('reproductive', 28)
+In not 0 section
+('reptile', 9)
+In not 0 section
+('republic', 95)
+In not 0 section
+('republican', 8)
+In not 0 section
+('repudiate', 9)
+In not 0 section
+('request', 9)
+In not 0 section
+('require', 33)
+In not 0 section
+('required', 69)
+In not 0 section
+('requirement', 24)
+In not 0 section
+('requires', 59)
+In not 0 section
+('rescue', 9)
+In not 0 section
+('research', 44)
+In not 0 section
+('resemblance', 9)
+In not 0 section
+('resembles', 9)
+In not 0 section
+('residence', 8)
+In not 0 section
+('resign', 9)
+In not 0 section
+('resigns', 34)
+In not 0 section
+('resin', 9)
+In not 0 section
+('resistance', 19)
+In not 0 section
+('resistor', 9)
+In not 0 section
+('resolution', 89)
+In not 0 section
+('resolve', 25)
+In not 0 section
+('resolving', 8)
+In not 0 section
+('resource', 108)
+In not 0 section
+('respect', 30)
+In not 0 section
+('respective', 16)
+In not 0 section
+('respectively', 39)
+In not 0 section
+('respond', 30)
+In not 0 section
+('responding', 9)
+In not 0 section
+('response', 32)
+In not 0 section
+('responsibility', 8)
+In not 0 section
+('responsible', 9)
+In not 0 section
+('rest', 18)
+In not 0 section
+('restore', 9)
+In not 0 section
+('restricted', 9)
+In not 0 section
+('result', 223)
+In not 0 section
+('resulted', 32)
+In not 0 section
+('resulting', 41)
+In not 0 section
+('retain', 14)
+In not 0 section
+('retained', 13)
+In not 0 section
+('retake', 9)
+In not 0 section
+('retaliation', 9)
+In not 0 section
+('retired', 9)
+In not 0 section
+('retrieve', 9)
+In not 0 section
+('retrieving', 9)
+In not 0 section
+('retum', 6)
+In not 0 section
+('return', 63)
+In not 0 section
+('returned', 9)
+In not 0 section
+('returning', 8)
+In not 0 section
+('reunite', 9)
+In not 0 section
+('reunited', 8)
+In not 0 section
+('reveals', 17)
+In not 0 section
+('revelation', 9)
+In not 0 section
+('revenge', 9)
+In not 0 section
+('revenue', 9)
+In not 0 section
+('reversal', 9)
+In not 0 section
+('reverse', 28)
+In not 0 section
+('review', 18)
+In not 0 section
+('reviewing', 9)
+In not 0 section
+('revised', 6)
+In not 0 section
+('revolt', 33)
+In not 0 section
+('revolu', 9)
+In not 0 section
+('revolution', 187)
+In not 0 section
+('revolutionary', 33)
+In not 0 section
+('reykjav', 13)
+In not 0 section
+('rhee', 12)
+In not 0 section
+('rhetoric', 9)
+In not 0 section
+('rhodesia', 22)
+In not 0 section
+('rhythm', 9)
+In not 0 section
+('rice', 33)
+In not 0 section
+('rich', 43)
+In not 0 section
+('richard', 31)
+In not 0 section
+('ridge', 8)
+In not 0 section
+('ridiculous', 9)
+In not 0 section
+('rift', 9)
+In not 0 section
+('right', 119)
+In not 0 section
+('ring', 9)
+In not 0 section
+('riot', 9)
+In not 0 section
+('rioting', 30)
+In not 0 section
+('rise', 18)
+In not 0 section
+('ritter', 9)
+In not 0 section
+('river', 52)
+In not 0 section
+('rized', 9)
+In not 0 section
+('road', 47)
+In not 0 section
+('robert', 23)
+In not 0 section
+('robi', 9)
+In not 0 section
+('rock', 18)
+In not 0 section
+('roentgen', 9)
+In not 0 section
+('rohit', 19)
+In not 0 section
+('role', 8)
+In not 0 section
+('rolled', 9)
+In not 0 section
+('rolling', 9)
+In not 0 section
+('romania', 9)
+In not 0 section
+('romanian', 9)
+In not 0 section
+('romero', 8)
+In not 0 section
+('ronald', 16)
+In not 0 section
+('room', 9)
+In not 0 section
+('roopa', 22)
+In not 0 section
+('root', 16)
+In not 0 section
+('rose', 18)
+In not 0 section
+('rotation', 7)
+In not 0 section
+('roughly', 28)
+In not 0 section
+('round', 7)
+In not 0 section
+('rounded', 27)
+In not 0 section
+('rounding', 14)
+In not 0 section
+('rout', 9)
+In not 0 section
+('route', 17)
+In not 0 section
+('royal', 9)
+In not 0 section
+('rukmani', 19)
+In not 0 section
+('rule', 172)
+In not 0 section
+('ruled', 18)
+In not 0 section
+('rulming', 9)
+In not 0 section
+('running', 9)
+In not 0 section
+('rupee', 18)
+In not 0 section
+('rural', 44)
+In not 0 section
+('russia', 9)
+In not 0 section
+('russian', 26)
+In not 0 section
+('sadat', 11)
+In not 0 section
+('saddam', 8)
+In not 0 section
+('safer', 9)
+In not 0 section
+('safety', 16)
+In not 0 section
+('sahara', 9)
+In not 0 section
+('saharan', 17)
+In not 0 section
+('sahel', 9)
+In not 0 section
+('said', 36)
+In not 0 section
+('saigon', 7)
+In not 0 section
+('salaam', 9)
+In not 0 section
+('salary', 26)
+In not 0 section
+('sale', 60)
+In not 0 section
+('salt', 11)
+In not 0 section
+('salvador', 65)
+In not 0 section
+('samaira', 19)
+In not 0 section
+('samaria', 8)
+In not 0 section
+('sample', 9)
+In not 0 section
+('sanction', 14)
+In not 0 section
+('sanctuary', 13)
+In not 0 section
+('sand', 18)
+In not 0 section
+('sandinista', 30)
+In not 0 section
+('sandinistas', 9)
+In not 0 section
+('sanitation', 10)
+In not 0 section
+('sanity', 9)
+In not 0 section
+('sapiens', 19)
+In not 0 section
+('sapindales', 9)
+In not 0 section
+('sarawak', 8)
+In not 0 section
+('satellite', 27)
+In not 0 section
+('satisfaction', 9)
+In not 0 section
+('satisfactory', 9)
+In not 0 section
+('saturday', 9)
+In not 0 section
+('saudi', 25)
+In not 0 section
+('save', 16)
+In not 0 section
+('saving', 9)
+In not 0 section
+('saying', 9)
+In not 0 section
+('scale', 80)
+In not 0 section
+('scaled', 10)
+In not 0 section
+('scaling', 9)
+In not 0 section
+('scenario', 9)
+In not 0 section
+('scheme', 8)
+In not 0 section
+('scholar', 40)
+In not 0 section
+('school', 70)
+In not 0 section
+('schroeder', 9)
+In not 0 section
+('science', 161)
+In not 0 section
+('scienti', 78)
+In not 0 section
+('scientific', 121)
+In not 0 section
+('scientist', 118)
+In not 0 section
+('scope', 26)
+In not 0 section
+('score', 9)
+In not 0 section
+('scotia', 7)
+In not 0 section
+('scotland', 9)
+In not 0 section
+('scre', 9)
+In not 0 section
+('screen', 20)
+In not 0 section
+('screw', 16)
+In not 0 section
+('sea', 9)
+In not 0 section
+('search', 35)
+In not 0 section
+('searching', 9)
+In not 0 section
+('seasonal', 9)
+In not 0 section
+('seato', 9)
+In not 0 section
+('secedes', 9)
+In not 0 section
+('second', 163)
+In not 0 section
+('secondary', 25)
+In not 0 section
+('secret', 9)
+In not 0 section
+('secretary', 9)
+In not 0 section
+('secretly', 9)
+In not 0 section
+('section', 69)
+In not 0 section
+('sector', 18)
+In not 0 section
+('security', 31)
+In not 0 section
+('seek', 30)
+In not 0 section
+('seeking', 9)
+In not 0 section
+('seemed', 9)
+In not 0 section
+('seems', 9)
+In not 0 section
+('seen', 58)
+In not 0 section
+('sefvers', 9)
+In not 0 section
+('segment', 7)
+In not 0 section
+('segregation', 17)
+In not 0 section
+('seize', 42)
+In not 0 section
+('seized', 9)
+In not 0 section
+('seizes', 26)
+In not 0 section
+('seizing', 9)
+In not 0 section
+('selassie', 15)
+In not 0 section
+('select', 9)
+In not 0 section
+('selecting', 9)
+In not 0 section
+('self', 32)
+In not 0 section
+('sell', 9)
+In not 0 section
+('selling', 9)
+In not 0 section
+('semicolon', 9)
+In not 0 section
+('semiconductor', 8)
+In not 0 section
+('senate', 18)
+In not 0 section
+('send', 17)
+In not 0 section
+('sending', 18)
+In not 0 section
+('sends', 9)
+In not 0 section
+('senegal', 8)
+In not 0 section
+('sense', 52)
+In not 0 section
+('sensing', 9)
+In not 0 section
+('sent', 25)
+In not 0 section
+('sentenced', 18)
+In not 0 section
+('separate', 41)
+In not 0 section
+('separated', 26)
+In not 0 section
+('separately', 9)
+In not 0 section
+('sept', 16)
+In not 0 section
+('september', 27)
+In not 0 section
+('sequence', 27)
+In not 0 section
+('serbia', 9)
+In not 0 section
+('serf', 14)
+In not 0 section
+('sergeyevich', 9)
+In not 0 section
+('series', 59)
+In not 0 section
+('seriously', 18)
+In not 0 section
+('serve', 9)
+In not 0 section
+('server', 91)
+In not 0 section
+('service', 65)
+In not 0 section
+('serving', 18)
+In not 0 section
+('set', 26)
+In not 0 section
+('setting', 8)
+In not 0 section
+('settlement', 40)
+In not 0 section
+('seven', 51)
+In not 0 section
+('seventeen', 6)
+In not 0 section
+('several', 107)
+In not 0 section
+('severe', 18)
+In not 0 section
+('severely', 9)
+In not 0 section
+('sevres', 9)
+In not 0 section
+('sexual', 17)
+In not 0 section
+('sgxucji', 9)
+In not 0 section
+('shackle', 9)
+In not 0 section
+('shah', 23)
+In not 0 section
+('shall', 36)
+In not 0 section
+('shape', 21)
+In not 0 section
+('share', 27)
+In not 0 section
+('sharing', 33)
+In not 0 section
+('shark', 9)
+In not 0 section
+('sharp', 17)
+In not 0 section
+('sharpener', 11)
+In not 0 section
+('sheet', 27)
+In not 0 section
+('shell', 9)
+In not 0 section
+('shelter', 16)
+In not 0 section
+('shes', 9)
+In not 0 section
+('shift', 18)
+In not 0 section
+('shifted', 7)
+In not 0 section
+('ship', 9)
+In not 0 section
+('shipyard', 8)
+In not 0 section
+('shop', 8)
+In not 0 section
+('short', 24)
+In not 0 section
+('shortage', 16)
+In not 0 section
+('shortcut', 14)
+In not 0 section
+('shortest', 14)
+In not 0 section
+('shot', 18)
+In not 0 section
+('show', 87)
+In not 0 section
+('showed', 18)
+In not 0 section
+('showing', 31)
+In not 0 section
+('shown', 115)
+In not 0 section
+('shrank', 9)
+In not 0 section
+('shrink', 9)
+In not 0 section
+('shuttle', 9)
+In not 0 section
+('sickening', 9)
+In not 0 section
+('sickness', 9)
+In not 0 section
+('side', 102)
+In not 0 section
+('siege', 16)
+In not 0 section
+('sierra', 9)
+In not 0 section
+('sight', 11)
+In not 0 section
+('sign', 101)
+In not 0 section
+('signal', 17)
+In not 0 section
+('signature', 9)
+In not 0 section
+('signed', 36)
+In not 0 section
+('signi', 38)
+In not 0 section
+('significant', 139)
+In not 0 section
+('significantly', 9)
+In not 0 section
+('signifies', 9)
+In not 0 section
+('signify', 9)
+In not 0 section
+('signing', 26)
+In not 0 section
+('sikh', 18)
+In not 0 section
+('silent', 9)
+In not 0 section
+('silicon', 9)
+In not 0 section
+('silky', 9)
+In not 0 section
+('silver', 7)
+In not 0 section
+('similar', 82)
+In not 0 section
+('similarity', 47)
+In not 0 section
+('similarly', 77)
+In not 0 section
+('simple', 128)
+In not 0 section
+('simplicity', 9)
+In not 0 section
+('simplified', 9)
+In not 0 section
+('simplify', 9)
+In not 0 section
+('simply', 42)
+In not 0 section
+('simulate', 8)
+In not 0 section
+('simulation', 9)
+In not 0 section
+('simulta', 9)
+In not 0 section
+('simultaneously', 24)
+In not 0 section
+('sinai', 9)
+In not 0 section
+('sinated', 9)
+In not 0 section
+('since', 208)
+In not 0 section
+('singa', 9)
+In not 0 section
+('singapore', 35)
+In not 0 section
+('singing', 8)
+In not 0 section
+('single', 119)
+In not 0 section
+('sino', 8)
+In not 0 section
+('sion', 15)
+In not 0 section
+('sister', 14)
+In not 0 section
+('sitting', 6)
+In not 0 section
+('situation', 7)
+In not 0 section
+('size', 156)
+In not 0 section
+('skeleton', 5)
+In not 0 section
+('sketch', 9)
+In not 0 section
+('sketched', 7)
+In not 0 section
+('skid', 9)
+In not 0 section
+('skill', 33)
+In not 0 section
+('skip', 16)
+In not 0 section
+('skirmish', 9)
+In not 0 section
+('slave', 8)
+In not 0 section
+('slight', 9)
+In not 0 section
+('slip', 18)
+In not 0 section
+('slovenia', 7)
+In not 0 section
+('slowly', 9)
+In not 0 section
+('small', 161)
+In not 0 section
+('smaller', 45)
+In not 0 section
+('smallest', 24)
+In not 0 section
+('smart', 9)
+In not 0 section
+('smith', 8)
+In not 0 section
+('soapy', 8)
+In not 0 section
+('soccer', 9)
+In not 0 section
+('social', 131)
+In not 0 section
+('socialist', 18)
+In not 0 section
+('society', 101)
+In not 0 section
+('sociology', 21)
+In not 0 section
+('sock', 9)
+In not 0 section
+('soft', 32)
+In not 0 section
+('softwa', 17)
+In not 0 section
+('software', 131)
+In not 0 section
+('softwood', 7)
+In not 0 section
+('soil', 101)
+In not 0 section
+('solanaceae', 17)
+In not 0 section
+('solanum', 31)
+In not 0 section
+('solar', 16)
+In not 0 section
+('sold', 43)
+In not 0 section
+('soldier', 9)
+In not 0 section
+('solid', 17)
+In not 0 section
+('solidarity', 28)
+In not 0 section
+('solution', 96)
+In not 0 section
+('solve', 13)
+In not 0 section
+('solving', 9)
+In not 0 section
+('somalia', 12)
+In not 0 section
+('something', 17)
+In not 0 section
+('sometimes', 68)
+In not 0 section
+('somewhat', 15)
+In not 0 section
+('somoza', 9)
+In not 0 section
+('sonte', 9)
+In not 0 section
+('soon', 43)
+In not 0 section
+('sophisti', 9)
+In not 0 section
+('sophistication', 9)
+In not 0 section
+('sors', 15)
+In not 0 section
+('sought', 26)
+In not 0 section
+('sound', 41)
+In not 0 section
+('source', 73)
+In not 0 section
+('south', 158)
+In not 0 section
+('southeast', 17)
+In not 0 section
+('southern', 18)
+In not 0 section
+('sovereignty', 8)
+In not 0 section
+('sovi', 9)
+In not 0 section
+('soviet', 239)
+In not 0 section
+('soyuz', 16)
+In not 0 section
+('space', 200)
+In not 0 section
+('spacing', 9)
+In not 0 section
+('spam', 9)
+In not 0 section
+('span', 34)
+In not 0 section
+('spanish', 9)
+In not 0 section
+('spanned', 9)
+In not 0 section
+('sparking', 9)
+In not 0 section
+('spatial', 85)
+In not 0 section
+('speak', 8)
+In not 0 section
+('speaker', 9)
+In not 0 section
+('speaking', 8)
+In not 0 section
+('speci', 43)
+In not 0 section
+('special', 120)
+In not 0 section
+('specialised', 8)
+In not 0 section
+('specie', 167)
+In not 0 section
+('specific', 48)
+In not 0 section
+('specification', 9)
+In not 0 section
+('specified', 13)
+In not 0 section
+('specimen', 57)
+In not 0 section
+('spectrograph', 8)
+In not 0 section
+('speech', 26)
+In not 0 section
+('speechless', 9)
+In not 0 section
+('speed', 48)
+In not 0 section
+('spending', 9)
+In not 0 section
+('spent', 45)
+In not 0 section
+('sphere', 28)
+In not 0 section
+('spherical', 9)
+In not 0 section
+('spherometer', 13)
+In not 0 section
+('spin', 9)
+In not 0 section
+('splendored', 8)
+In not 0 section
+('split', 15)
+In not 0 section
+('spoke', 9)
+In not 0 section
+('spore', 9)
+In not 0 section
+('spot', 27)
+In not 0 section
+('spread', 44)
+In not 0 section
+('spreading', 1)
+In not 0 section
+('spring', 27)
+In not 0 section
+('sprinkle', 8)
+In not 0 section
+('sputnik', 29)
+In not 0 section
+('square', 18)
+In not 0 section
+('stage', 116)
+In not 0 section
+('stalin', 19)
+In not 0 section
+('stall', 9)
+In not 0 section
+('stalled', 8)
+In not 0 section
+('stamp', 11)
+In not 0 section
+('stand', 43)
+In not 0 section
+('standard', 91)
+In not 0 section
+('standardise', 8)
+In not 0 section
+('standstill', 9)
+In not 0 section
+('star', 33)
+In not 0 section
+('stared', 9)
+In not 0 section
+('start', 40)
+In not 0 section
+('started', 27)
+In not 0 section
+('starting', 18)
+In not 0 section
+('starvation', 9)
+In not 0 section
+('state', 277)
+In not 0 section
+('stated', 18)
+In not 0 section
+('statement', 41)
+In not 0 section
+('static', 17)
+In not 0 section
+('stating', 10)
+In not 0 section
+('station', 34)
+In not 0 section
+('stationary', 9)
+In not 0 section
+('stationery', 45)
+In not 0 section
+('statistic', 9)
+In not 0 section
+('statistical', 9)
+In not 0 section
+('status', 16)
+In not 0 section
+('stay', 9)
+In not 0 section
+('steal', 8)
+In not 0 section
+('step', 62)
+In not 0 section
+('stephen', 9)
+In not 0 section
+('steradian', 20)
+In not 0 section
+('sterile', 9)
+In not 0 section
+('still', 63)
+In not 0 section
+('stimulus', 17)
+In not 0 section
+('stirring', 9)
+In not 0 section
+('stor', 8)
+In not 0 section
+('storage', 24)
+In not 0 section
+('store', 39)
+In not 0 section
+('stored', 16)
+In not 0 section
+('storing', 12)
+In not 0 section
+('story', 28)
+In not 0 section
+('straight', 16)
+In not 0 section
+('strange', 9)
+In not 0 section
+('strategic', 9)
+In not 0 section
+('strategy', 9)
+In not 0 section
+('strations', 9)
+In not 0 section
+('street', 9)
+In not 0 section
+('strength', 9)
+In not 0 section
+('strife', 9)
+In not 0 section
+('strike', 36)
+In not 0 section
+('string', 33)
+In not 0 section
+('stringent', 9)
+In not 0 section
+('strip', 18)
+In not 0 section
+('strong', 18)
+In not 0 section
+('strongman', 17)
+In not 0 section
+('struck', 7)
+In not 0 section
+('struction', 9)
+In not 0 section
+('structural', 8)
+In not 0 section
+('structure', 44)
+In not 0 section
+('struggle', 9)
+In not 0 section
+('student', 71)
+In not 0 section
+('studied', 34)
+In not 0 section
+('study', 290)
+In not 0 section
+('studying', 17)
+In not 0 section
+('stuff', 8)
+In not 0 section
+('stuffed', 9)
+In not 0 section
+('style', 9)
+In not 0 section
+('subject', 53)
+In not 0 section
+('subsequent', 27)
+In not 0 section
+('subsidiary', 9)
+In not 0 section
+('subsidize', 9)
+In not 0 section
+('subsidy', 9)
+In not 0 section
+('subsisted', 9)
+In not 0 section
+('subsistence', 26)
+In not 0 section
+('substance', 32)
+In not 0 section
+('substantial', 7)
+In not 0 section
+('substantially', 9)
+In not 0 section
+('subtended', 14)
+In not 0 section
+('subtends', 9)
+In not 0 section
+('subtra', 8)
+In not 0 section
+('subtrac', 8)
+In not 0 section
+('subtract', 49)
+In not 0 section
+('subtracted', 21)
+In not 0 section
+('subtracting', 9)
+In not 0 section
+('subtraction', 82)
+In not 0 section
+('subtrahend', 9)
+In not 0 section
+('succeed', 9)
+In not 0 section
+('succeeded', 49)
+In not 0 section
+('success', 9)
+In not 0 section
+('successful', 26)
+In not 0 section
+('successfully', 42)
+In not 0 section
+('successive', 25)
+In not 0 section
+('succinctly', 9)
+In not 0 section
+('succumbs', 9)
+In not 0 section
+('sudan', 35)
+In not 0 section
+('sudanese', 9)
+In not 0 section
+('suddenly', 9)
+In not 0 section
+('suez', 17)
+In not 0 section
+('suffer', 9)
+In not 0 section
+('sufficient', 25)
+In not 0 section
+('sugar', 14)
+In not 0 section
+('suggest', 8)
+In not 0 section
+('suharto', 9)
+In not 0 section
+('suicide', 15)
+In not 0 section
+('suitable', 16)
+In not 0 section
+('sukarno', 9)
+In not 0 section
+('sukarnoputri', 9)
+In not 0 section
+('sulphur', 9)
+In not 0 section
+('sum', 7)
+In not 0 section
+('summa', 9)
+In not 0 section
+('summarize', 9)
+In not 0 section
+('summarized', 9)
+In not 0 section
+('summarizes', 9)
+In not 0 section
+('summary', 17)
+In not 0 section
+('summer', 9)
+In not 0 section
+('summit', 45)
+In not 0 section
+('sunday', 9)
+In not 0 section
+('sundries', 12)
+In not 0 section
+('super', 14)
+In not 0 section
+('supercomputer', 38)
+In not 0 section
+('supersonic', 9)
+In not 0 section
+('supervising', 9)
+In not 0 section
+('supervisory', 9)
+In not 0 section
+('supplied', 8)
+In not 0 section
+('supply', 27)
+In not 0 section
+('support', 67)
+In not 0 section
+('supported', 18)
+In not 0 section
+('suppose', 94)
+In not 0 section
+('supreme', 17)
+In not 0 section
+('sure', 25)
+In not 0 section
+('surely', 7)
+In not 0 section
+('surface', 126)
+In not 0 section
+('surged', 9)
+In not 0 section
+('surprise', 18)
+In not 0 section
+('surrender', 9)
+In not 0 section
+('surrounding', 17)
+In not 0 section
+('surroundings', 32)
+In not 0 section
+('survey', 13)
+In not 0 section
+('survival', 9)
+In not 0 section
+('survive', 9)
+In not 0 section
+('suspect', 9)
+In not 0 section
+('sustain', 16)
+In not 0 section
+('sustainable', 9)
+In not 0 section
+('sustained', 17)
+In not 0 section
+('sustaining', 9)
+In not 0 section
+('sustenance', 9)
+In not 0 section
+('swap', 9)
+In not 0 section
+('swiss', 9)
+In not 0 section
+('symbol', 151)
+In not 0 section
+('symbolic', 24)
+In not 0 section
+('symmetric', 6)
+In not 0 section
+('syngman', 12)
+In not 0 section
+('synonymous', 9)
+In not 0 section
+('synthesis', 45)
+In not 0 section
+('synthesized', 9)
+In not 0 section
+('synthetic', 17)
+In not 0 section
+('syria', 20)
+In not 0 section
+('syrian', 9)
+In not 0 section
+('system', 306)
+In not 0 section
+('systema', 15)
+In not 0 section
+('systematic', 75)
+In not 0 section
+('systematically', 9)
+In not 0 section
+('systematics', 40)
+In not 0 section
+('systeme', 9)
+In not 0 section
+('systents', 9)
+In not 0 section
+('table', 109)
+In not 0 section
+('tabular', 9)
+In not 0 section
+('tackled', 9)
+In not 0 section
+('tained', 8)
+In not 0 section
+('taiwan', 21)
+In not 0 section
+('take', 215)
+In not 0 section
+('taken', 79)
+In not 0 section
+('taking', 48)
+In not 0 section
+('taliban', 23)
+In not 0 section
+('talk', 33)
+In not 0 section
+('talking', 18)
+In not 0 section
+('taller', 9)
+In not 0 section
+('tamil', 9)
+In not 0 section
+('tandem', 9)
+In not 0 section
+('tane', 9)
+In not 0 section
+('tanzania', 9)
+In not 0 section
+('tanzanian', 9)
+In not 0 section
+('taraki', 16)
+In not 0 section
+('tary', 9)
+In not 0 section
+('task', 26)
+In not 0 section
+('taught', 7)
+In not 0 section
+('taxi', 10)
+In not 0 section
+('taxon', 84)
+In not 0 section
+('taxonomic', 100)
+In not 0 section
+('taxonomical', 53)
+In not 0 section
+('taxonomist', 31)
+In not 0 section
+('taxonomy', 48)
+In not 0 section
+('teacher', 29)
+In not 0 section
+('team', 15)
+In not 0 section
+('tebeooks', 9)
+In not 0 section
+('technical', 17)
+In not 0 section
+('technically', 9)
+In not 0 section
+('technique', 135)
+In not 0 section
+('technological', 48)
+In not 0 section
+('technologically', 9)
+In not 0 section
+('technology', 217)
+In not 0 section
+('tected', 9)
+In not 0 section
+('tecture', 9)
+In not 0 section
+('tedious', 9)
+In not 0 section
+('tehran', 8)
+In not 0 section
+('telegram', 29)
+In not 0 section
+('telephone', 18)
+In not 0 section
+('telescope', 16)
+In not 0 section
+('television', 17)
+In not 0 section
+('tell', 43)
+In not 0 section
+('teller', 8)
+In not 0 section
+('temp', 9)
+In not 0 section
+('temperature', 84)
+In not 0 section
+('temple', 25)
+In not 0 section
+('temporal', 24)
+In not 0 section
+('temporally', 8)
+In not 0 section
+('ten', 64)
+In not 0 section
+('tend', 7)
+In not 0 section
+('tendency', 9)
+In not 0 section
+('tennis', 8)
+In not 0 section
+('tenth', 8)
+In not 0 section
+('terabyte', 14)
+In not 0 section
+('term', 159)
+In not 0 section
+('termed', 16)
+In not 0 section
+('terminal', 8)
+In not 0 section
+('terminology', 20)
+In not 0 section
+('terrain', 8)
+In not 0 section
+('terrestrial', 8)
+In not 0 section
+('territory', 42)
+In not 0 section
+('terror', 9)
+In not 0 section
+('terrorism', 9)
+In not 0 section
+('terrorist', 55)
+In not 0 section
+('test', 65)
+In not 0 section
+('tested', 7)
+In not 0 section
+('testing', 17)
+In not 0 section
+('texaco', 9)
+In not 0 section
+('texas', 9)
+In not 0 section
+('text', 33)
+In not 0 section
+('textbook', 18)
+In not 0 section
+('thailand', 18)
+In not 0 section
+('theirin', 8)
+In not 0 section
+('theme', 6)
+In not 0 section
+('thennometer', 8)
+In not 0 section
+('theoretical', 35)
+In not 0 section
+('theory', 9)
+In not 0 section
+('therefore', 109)
+In not 0 section
+('thermal', 9)
+In not 0 section
+('thermo', 8)
+In not 0 section
+('thermodynamic', 8)
+In not 0 section
+('thermometer', 16)
+In not 0 section
+('thickness', 36)
+In not 0 section
+('thin', 21)
+In not 0 section
+('thing', 69)
+In not 0 section
+('think', 56)
+In not 0 section
+('third', 35)
+In not 0 section
+('thirty', 26)
+In not 0 section
+('though', 36)
+In not 0 section
+('thought', 38)
+In not 0 section
+('thousand', 76)
+In not 0 section
+('thread', 13)
+In not 0 section
+('threaten', 9)
+In not 0 section
+('threatened', 17)
+In not 0 section
+('three', 163)
+In not 0 section
+('throughout', 59)
+In not 0 section
+('thtx', 1)
+In not 0 section
+('thunder', 17)
+In not 0 section
+('thursday', 9)
+In not 0 section
+('thus', 219)
+In not 0 section
+('thwarting', 9)
+In not 0 section
+('tian', 9)
+In not 0 section
+('tiananmen', 9)
+In not 0 section
+('tibet', 9)
+In not 0 section
+('ticides', 9)
+In not 0 section
+('ticket', 9)
+In not 0 section
+('tie', 9)
+In not 0 section
+('tied', 9)
+In not 0 section
+('tiger', 22)
+In not 0 section
+('tigris', 16)
+In not 0 section
+('tile', 9)
+In not 0 section
+('till', 16)
+In not 0 section
+('time', 368)
+In not 0 section
+('ting', 8)
+In not 0 section
+('tinue', 7)
+In not 0 section
+('tiny', 20)
+In not 0 section
+('tion', 89)
+In not 0 section
+('tions', 52)
+In not 0 section
+('tiresome', 9)
+In not 0 section
+('tissue', 31)
+In not 0 section
+('title', 35)
+In not 0 section
+('tocols', 9)
+In not 0 section
+('today', 53)
+In not 0 section
+('together', 100)
+In not 0 section
+('told', 8)
+In not 0 section
+('tolera', 9)
+In not 0 section
+('tolerate', 9)
+In not 0 section
+('tomorrow', 8)
+In not 0 section
+('ton', 1)
+In not 0 section
+('tonium', 9)
+In not 0 section
+('tonkin', 14)
+In not 0 section
+('took', 9)
+In not 0 section
+('tool', 57)
+In not 0 section
+('topic', 42)
+In not 0 section
+('torship', 9)
+In not 0 section
+('tortilla', 9)
+In not 0 section
+('tosh', 9)
+In not 0 section
+('total', 98)
+In not 0 section
+('totaled', 7)
+In not 0 section
+('totality', 8)
+In not 0 section
+('touch', 8)
+In not 0 section
+('tour', 18)
+In not 0 section
+('tourism', 9)
+In not 0 section
+('tourist', 9)
+In not 0 section
+('tower', 16)
+In not 0 section
+('town', 30)
+In not 0 section
+('toxic', 9)
+In not 0 section
+('track', 18)
+In not 0 section
+('tracting', 8)
+In not 0 section
+('trade', 53)
+In not 0 section
+('trader', 41)
+In not 0 section
+('traditional', 34)
+In not 0 section
+('traffic', 9)
+In not 0 section
+('tragedy', 9)
+In not 0 section
+('trailing', 34)
+In not 0 section
+('train', 18)
+In not 0 section
+('training', 9)
+In not 0 section
+('trajectory', 8)
+In not 0 section
+('trans', 21)
+In not 0 section
+('transaction', 119)
+In not 0 section
+('transferred', 14)
+In not 0 section
+('transfor', 9)
+In not 0 section
+('transform', 4)
+In not 0 section
+('transforma', 9)
+In not 0 section
+('transformation', 26)
+In not 0 section
+('transformed', 17)
+In not 0 section
+('transforming', 9)
+In not 0 section
+('transistor', 9)
+In not 0 section
+('transition', 13)
+In not 0 section
+('translate', 36)
+In not 0 section
+('translated', 15)
+In not 0 section
+('translates', 15)
+In not 0 section
+('translation', 27)
+In not 0 section
+('transport', 14)
+In not 0 section
+('transportation', 25)
+In not 0 section
+('tration', 9)
+In not 0 section
+('travel', 41)
+In not 0 section
+('traveled', 9)
+In not 0 section
+('travelled', 8)
+In not 0 section
+('treated', 9)
+In not 0 section
+('treatment', 9)
+In not 0 section
+('treaty', 71)
+In not 0 section
+('tree', 44)
+In not 0 section
+('tremendous', 15)
+In not 0 section
+('tremendously', 9)
+In not 0 section
+('trench', 8)
+In not 0 section
+('trial', 32)
+In not 0 section
+('tribute', 9)
+In not 0 section
+('trillion', 9)
+In not 0 section
+('trip', 17)
+In not 0 section
+('triple', 16)
+In not 0 section
+('triticum', 8)
+In not 0 section
+('triumph', 9)
+In not 0 section
+('triumphant', 9)
+In not 0 section
+('trivial', 7)
+In not 0 section
+('troop', 164)
+In not 0 section
+('troubling', 9)
+In not 0 section
+('trough', 8)
+In not 0 section
+('truck', 9)
+In not 0 section
+('true', 86)
+In not 0 section
+('trust', 9)
+In not 0 section
+('try', 9)
+In not 0 section
+('trying', 9)
+In not 0 section
+('tshombe', 9)
+In not 0 section
+('tube', 28)
+In not 0 section
+('tuberosum', 14)
+In not 0 section
+('tuesday', 7)
+In not 0 section
+('tung', 22)
+In not 0 section
+('tunisia', 8)
+In not 0 section
+('tunnelling', 9)
+In not 0 section
+('tural', 18)
+In not 0 section
+('tures', 9)
+In not 0 section
+('turkey', 9)
+In not 0 section
+('turn', 55)
+In not 0 section
+('turned', 17)
+In not 0 section
+('turning', 9)
+In not 0 section
+('tuxpan', 9)
+In not 0 section
+('twain', 9)
+In not 0 section
+('twice', 9)
+In not 0 section
+('twin', 8)
+In not 0 section
+('twist', 9)
+In not 0 section
+('type', 112)
+In not 0 section
+('typi', 9)
+In not 0 section
+('typical', 42)
+In not 0 section
+('typically', 17)
+In not 0 section
+('typology', 16)
+In not 0 section
+('uanaland', 9)
+In not 0 section
+('ubiquitous', 9)
+In not 0 section
+('uctuations', 11)
+In not 0 section
+('uence', 9)
+In not 0 section
+('uenced', 7)
+In not 0 section
+('uences', 18)
+In not 0 section
+('uganda', 9)
+In not 0 section
+('ugandan', 26)
+In not 0 section
+('ugarte', 1)
+In not 0 section
+('ukraine', 18)
+In not 0 section
+('unable', 26)
+In not 0 section
+('unambiguously', 9)
+In not 0 section
+('unarmed', 9)
+In not 0 section
+('unbiased', 9)
+In not 0 section
+('uncertain', 32)
+In not 0 section
+('uncertainty', 28)
+In not 0 section
+('unconstitutional', 9)
+In not 0 section
+('uncover', 8)
+In not 0 section
+('undercut', 9)
+In not 0 section
+('underestimate', 9)
+In not 0 section
+('undergoes', 9)
+In not 0 section
+('undergone', 9)
+In not 0 section
+('underground', 18)
+In not 0 section
+('underlined', 17)
+In not 0 section
+('underlying', 29)
+In not 0 section
+('undermine', 9)
+In not 0 section
+('underneath', 23)
+In not 0 section
+('understand', 96)
+In not 0 section
+('understanding', 101)
+In not 0 section
+('understands', 9)
+In not 0 section
+('understood', 15)
+In not 0 section
+('undoing', 6)
+In not 0 section
+('uneven', 17)
+In not 0 section
+('unfortunately', 9)
+In not 0 section
+('unicellular', 25)
+In not 0 section
+('unified', 9)
+In not 0 section
+('uniform', 17)
+In not 0 section
+('unilateral', 9)
+In not 0 section
+('unilaterally', 9)
+In not 0 section
+('unimpeded', 8)
+In not 0 section
+('uninhabited', 9)
+In not 0 section
+('union', 160)
+In not 0 section
+('unique', 36)
+In not 0 section
+('unit', 228)
+In not 0 section
+('united', 218)
+In not 0 section
+('unites', 9)
+In not 0 section
+('unity', 18)
+In not 0 section
+('universal', 9)
+In not 0 section
+('universally', 33)
+In not 0 section
+('universe', 78)
+In not 0 section
+('universily', 9)
+In not 0 section
+('university', 36)
+In not 0 section
+('unknown', 9)
+In not 0 section
+('unless', 9)
+In not 0 section
+('unlikely', 9)
+In not 0 section
+('unloading', 10)
+In not 0 section
+('unmanageable', 9)
+In not 0 section
+('unmanned', 5)
+In not 0 section
+('unpaid', 8)
+In not 0 section
+('unpredictable', 11)
+In not 0 section
+('unraveling', 9)
+In not 0 section
+('unreliable', 9)
+In not 0 section
+('unseated', 9)
+In not 0 section
+('unseats', 22)
+In not 0 section
+('unstable', 6)
+In not 0 section
+('untiring', 8)
+In not 0 section
+('unuminn', 8)
+In not 0 section
+('uous', 13)
+In not 0 section
+('upon', 27)
+In not 0 section
+('upper', 9)
+In not 0 section
+('uprising', 18)
+In not 0 section
+('upsetting', 9)
+In not 0 section
+('upto', 24)
+In not 0 section
+('uqate', 9)
+In not 0 section
+('uranium', 9)
+In not 0 section
+('urban', 20)
+In not 0 section
+('urged', 9)
+In not 0 section
+('us', 61)
+In not 0 section
+('usage', 25)
+In not 0 section
+('used', 248)
+In not 0 section
+('useful', 62)
+In not 0 section
+('user', 74)
+In not 0 section
+('usher', 9)
+In not 0 section
+('using', 178)
+In not 0 section
+('ussuri', 9)
+In not 0 section
+('usual', 9)
+In not 0 section
+('usually', 69)
+In not 0 section
+('utilisation', 9)
+In not 0 section
+('utilise', 8)
+In not 0 section
+('utilised', 9)
+In not 0 section
+('utilising', 9)
+In not 0 section
+('utility', 9)
+In not 0 section
+('utput', 8)
+In not 0 section
+('uttaranchal', 1)
+In not 0 section
+('vacation', 9)
+In not 0 section
+('vacuum', 31)
+In not 0 section
+('valid', 15)
+In not 0 section
+('valley', 18)
+In not 0 section
+('value', 170)
+In not 0 section
+('variable', 9)
+In not 0 section
+('variant', 9)
+In not 0 section
+('variation', 81)
+In not 0 section
+('variety', 74)
+In not 0 section
+('various', 94)
+In not 0 section
+('vary', 53)
+In not 0 section
+('varying', 5)
+In not 0 section
+('vast', 23)
+In not 0 section
+('vegetable', 9)
+In not 0 section
+('vegetation', 28)
+In not 0 section
+('vegetative', 8)
+In not 0 section
+('vehicle', 9)
+In not 0 section
+('vein', 9)
+In not 0 section
+('velocity', 24)
+In not 0 section
+('venezuela', 15)
+In not 0 section
+('venture', 14)
+In not 0 section
+('verify', 9)
+In not 0 section
+('verilog', 17)
+In not 0 section
+('vernier', 23)
+In not 0 section
+('versa', 16)
+In not 0 section
+('version', 28)
+In not 0 section
+('versity', 9)
+In not 0 section
+('vertical', 19)
+In not 0 section
+('vertically', 23)
+In not 0 section
+('vhdl', 9)
+In not 0 section
+('vibration', 44)
+In not 0 section
+('vice', 25)
+In not 0 section
+('victory', 33)
+In not 0 section
+('video', 14)
+In not 0 section
+('vides', 9)
+In not 0 section
+('viet', 27)
+In not 0 section
+('vietnam', 94)
+In not 0 section
+('vietnamese', 31)
+In not 0 section
+('view', 35)
+In not 0 section
+('viewed', 16)
+In not 0 section
+('village', 27)
+In not 0 section
+('virtual', 9)
+In not 0 section
+('virtually', 18)
+In not 0 section
+('virus', 18)
+In not 0 section
+('visible', 48)
+In not 0 section
+('visit', 17)
+In not 0 section
+('visiting', 18)
+In not 0 section
+('vista', 9)
+In not 0 section
+('visual', 26)
+In not 0 section
+('vital', 33)
+In not 0 section
+('vitro', 17)
+In not 0 section
+('vllo', 8)
+In not 0 section
+('voltage', 9)
+In not 0 section
+('volume', 30)
+In not 0 section
+('vote', 57)
+In not 0 section
+('voter', 9)
+In not 0 section
+('voucher', 13)
+In not 0 section
+('vrsit', 5)
+In not 0 section
+('wait', 23)
+In not 0 section
+('waiting', 9)
+In not 0 section
+('wake', 9)
+In not 0 section
+('walk', 9)
+In not 0 section
+('walking', 9)
+In not 0 section
+('wall', 32)
+In not 0 section
+('waned', 9)
+In not 0 section
+('waning', 9)
+In not 0 section
+('want', 40)
+In not 0 section
+('war', 17)
+In not 0 section
+('ware', 31)
+In not 0 section
+('warfare', 9)
+In not 0 section
+('warming', 8)
+In not 0 section
+('warmth', 9)
+In not 0 section
+('warsaw', 9)
+In not 0 section
+('washing', 18)
+In not 0 section
+('washington', 17)
+In not 0 section
+('waste', 25)
+In not 0 section
+('watch', 9)
+In not 0 section
+('water', 135)
+In not 0 section
+('watt', 9)
+In not 0 section
+('wave', 30)
+In not 0 section
+('wavelength', 29)
+In not 0 section
+('way', 42)
+In not 0 section
+('wealthiest', 9)
+In not 0 section
+('wealthy', 18)
+In not 0 section
+('weapon', 42)
+In not 0 section
+('weather', 32)
+In not 0 section
+('wednesday', 8)
+In not 0 section
+('week', 9)
+In not 0 section
+('weekly', 9)
+In not 0 section
+('weight', 20)
+In not 0 section
+('well', 149)
+In not 0 section
+('went', 9)
+In not 0 section
+('west', 79)
+In not 0 section
+('western', 43)
+In not 0 section
+('wheat', 51)
+In not 0 section
+('wheel', 8)
+In not 0 section
+('whelming', 9)
+In not 0 section
+('whereas', 24)
+In not 0 section
+('whether', 51)
+In not 0 section
+('white', 17)
+In not 0 section
+('whole', 24)
+In not 0 section
+('whose', 59)
+In not 0 section
+('wide', 47)
+In not 0 section
+('widely', 9)
+In not 0 section
+('widespread', 9)
+In not 0 section
+('widest', 13)
+In not 0 section
+('wife', 18)
+In not 0 section
+('wild', 9)
+In not 0 section
+('wilderness', 15)
+In not 0 section
+('win', 31)
+In not 0 section
+('wind', 35)
+In not 0 section
+('window', 9)
+In not 0 section
+('wing', 16)
+In not 0 section
+('wink', 8)
+In not 0 section
+('winner', 16)
+In not 0 section
+('winning', 9)
+In not 0 section
+('wish', 17)
+In not 0 section
+('withdraw', 9)
+In not 0 section
+('withdrawal', 25)
+In not 0 section
+('withdrawing', 9)
+In not 0 section
+('withdrawn', 30)
+In not 0 section
+('within', 67)
+In not 0 section
+('without', 83)
+In not 0 section
+('wojciech', 9)
+In not 0 section
+('woman', 32)
+In not 0 section
+('wonder', 9)
+In not 0 section
+('wonderful', 7)
+In not 0 section
+('wonderfully', 9)
+In not 0 section
+('word', 184)
+In not 0 section
+('work', 116)
+In not 0 section
+('worked', 8)
+In not 0 section
+('worker', 38)
+In not 0 section
+('working', 9)
+In not 0 section
+('workload', 9)
+In not 0 section
+('workstation', 9)
+In not 0 section
+('world', 327)
+In not 0 section
+('worldwide', 18)
+In not 0 section
+('worm', 8)
+In not 0 section
+('worn', 9)
+In not 0 section
+('worry', 8)
+In not 0 section
+('worth', 7)
+In not 0 section
+('would', 241)
+In not 0 section
+('wound', 9)
+In not 0 section
+('wounded', 9)
+In not 0 section
+('wrap', 9)
+In not 0 section
+('wrist', 9)
+In not 0 section
+('wristwatch', 13)
+In not 0 section
+('writ', 9)
+In not 0 section
+('write', 109)
+In not 0 section
+('writes', 9)
+In not 0 section
+('writing', 42)
+In not 0 section
+('written', 147)
+In not 0 section
+('wrong', 27)
+In not 0 section
+('wtiles', 7)
+In not 0 section
+('xiaoping', 18)
+In not 0 section
+('xxii', 5)
+In not 0 section
+('xxiii', 6)
+In not 0 section
+('xxiv', 5)
+In not 0 section
+('xxix', 6)
+In not 0 section
+('xxvi', 5)
+In not 0 section
+('xxvii', 6)
+In not 0 section
+('xxviii', 5)
+In not 0 section
+('xxxi', 1)
+In not 0 section
+('xxxii', 5)
+In not 0 section
+('xxxiii', 6)
+In not 0 section
+('xxxiv', 5)
+In not 0 section
+('yacht', 9)
+In not 0 section
+('yankee', 9)
+In not 0 section
+('yeager', 9)
+In not 0 section
+('year', 230)
+In not 0 section
+('yeast', 9)
+In not 0 section
+('yeltsin', 25)
+In not 0 section
+('yield', 34)
+In not 0 section
+('yielded', 9)
+In not 0 section
+('yielding', 9)
+In not 0 section
+('yitzhak', 9)
+In not 0 section
+('york', 51)
+In not 0 section
+('young', 9)
+In not 0 section
+('yugoslavia', 15)
+In not 0 section
+('zation', 1)
+In not 0 section
+('zedong', 52)
+In not 0 section
+('zero', 127)
+In not 0 section
+('ziaz', 14)
+In not 0 section
+('zigzag', 8)
+In not 0 section
+('zimbabwe', 16)
+In not 0 section
+('zoo', 8)
+In not 0 section
+('zoogeography', 9)
+In not 0 section
+('zoological', 33)
+In not 0 section
+('zoology', 26)
+In not 0 section
+('zulfikar', 6)
+In not 0 section
+('zullah', 9)
+In not 0 section

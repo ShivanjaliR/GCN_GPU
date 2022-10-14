@@ -1,11 +1,12 @@
 import torch
 from torch import nn, optim
+from calculate import writeTextFile, accuracy, save_as_pickle
 from resources.constants import learning_rate, num_of_epochs, model_filename, regularization_factor, result_file, \
     X_input, Ahat_input, selected_index_file, selected_label_doc_index_file, not_selected_file, \
     not_selected_label_doc_index_file, loss_per_epochs_file, accuracy_per_epochs_file, trained_epochs_file, \
     trained_accuracy_file, untrained_accuracy_file, trained_loss_file, untrained_loss_file
 from gcnmodel import gcn
-from utils import accuracy, writeTextFile, read_pickel, save_as_pickle
+from calculate import read_pickel
 
 if __name__ == '__main__':
     # Step 8. Graph Convolutional Network Model

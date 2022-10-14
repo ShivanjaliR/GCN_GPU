@@ -6,6 +6,7 @@ import logging
 import os
 from math import log
 from pathlib import Path
+from calculate import word_word_edges, save_as_pickle
 from resources.constants import output_folder, input_folder, \
     dataset_details, output_column_filename, output_column_noOfWords, output_column_content, summary_column_noOfFiles, \
     summary_column_noOfUniqueWords, summary_column_uniqueWords, log_save_graph, log_pkl_saved, log_add_doc_node, \
@@ -13,7 +14,7 @@ from resources.constants import output_folder, input_folder, \
     graph_word_edges, graph_no_edges, graph_document_nodes, graph_word_nodes, graph_no_document_nodes, \
     graph_no_word_nodes, graph_no_document_edges, graph_no_word_edges, graph_details, tf_idf_histogram, pmi_histogram, \
     tf_idf_histogram_title, pmi_histogram_title
-from utils import save_as_pickle, word_word_edges, drawHistogram
+from utils import drawHistogram
 import nltk
 from nltk.stem import WordNetLemmatizer
 from sklearn.feature_extraction.text import TfidfVectorizer

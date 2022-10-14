@@ -1,8 +1,9 @@
 import torch
 from sklearn.metrics import confusion_matrix
 
+from calculate import calculateMetrics, read_pickel
 from utils import plotGraph, plotCombined, labelDistribution, \
-    plotConfusionMatrix, plotScatter, calculateMetrics, plotBarChart, read_pickel
+    plotConfusionMatrix, plotScatter, plotBarChart
 from resources.constants import training_accuracy_plot_name, training_loss_plot_name, training_loss_plot_file_name, \
     training_accuracy_plot_file_name, plot_x_axis, plot_y_axis_loss, \
     plot_y_axis_accuracy, num_of_epochs, testing_loss_plot_file_name, testing_loss_plot_name, \

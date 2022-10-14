@@ -5,9 +5,9 @@
 
 from __future__ import division
 from __future__ import print_function
-
 import sys
 import numpy as np
+from calculate import generateLabels
 from datasetlaoding import Dataset
 from resources.constants import output_file, test_index_file_name, \
     selected_index_file, not_selected_file, \
@@ -16,7 +16,7 @@ from resources.constants import output_file, test_index_file_name, \
     not_selected_label_doc_index_file, X_input, f_function, Ahat_input, graph_input, \
     selected_index_training, selected_label_doc_index, test_idxs_file, features_file
 from textGraph import TextGraph
-from utils import generateLabels, save_as_pickle
+from calculate import save_as_pickle
 
 if __name__ == '__main__':
 

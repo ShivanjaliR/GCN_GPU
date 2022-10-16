@@ -7,6 +7,7 @@ from resources.constants import learning_rate, num_of_epochs, model_filename, re
     trained_accuracy_file, untrained_accuracy_file, trained_loss_file, untrained_loss_file
 from gcnmodel import gcn
 from calculate import read_pickel
+import time
 
 if __name__ == '__main__':
     # Step 8. Graph Convolutional Network Model
@@ -37,6 +38,7 @@ if __name__ == '__main__':
     not_selected = read_pickel(not_selected_file)
     labels_not_selected_doc_index = read_pickel(not_selected_label_doc_index_file)
 
+    start_time = time.time()
     for epoch in range(num_of_epochs):
         optimizer.zero_grad()
         output = model(X)
@@ -86,22 +88,23 @@ if __name__ == '__main__':
                 model.train()
         scheduler.step()
 
-        # save the model to disk
-        save_as_pickle(model_filename, model)
-        save_as_pickle(loss_per_epochs_file, loss_per_epochs)
-        save_as_pickle(accuracy_per_epochs_file, accuracy_per_epochs)
-        save_as_pickle(trained_epochs_file, trained_epochs)
-        save_as_pickle(trained_accuracy_file, trained_accuracy)
-        save_as_pickle(untrained_accuracy_file, untrained_accuracy)
-        save_as_pickle(trained_loss_file, trained_loss)
-        save_as_pickle(untrained_loss_file, untrained_loss)
+    print("--- %s seconds ---" % (time.time() - start_time))
+    # save the model to disk
+    save_as_pickle(model_filename, model)
+    save_as_pickle(loss_per_epochs_file, loss_per_epochs)
+    save_as_pickle(accuracy_per_epochs_file, accuracy_per_epochs)
+    save_as_pickle(trained_epochs_file, trained_epochs)
+    save_as_pickle(trained_accuracy_file, trained_accuracy)
+    save_as_pickle(untrained_accuracy_file, untrained_accuracy)
+    save_as_pickle(trained_loss_file, trained_loss)
+    save_as_pickle(untrained_loss_file, untrained_loss)
 
-        # Write result on text file
-        writeTextFile(result_file, "Training Loss\n", loss_per_epochs)
-        writeTextFile(result_file, "Training Accuracy\n", accuracy_per_epochs)
-        writeTextFile(result_file, "Testing Loss\n", test_loss)
-        writeTextFile(result_file, "Testing Accuracy\n", test_accuracy)
-        writeTextFile(result_file, "Trained Accuracy\n", trained_accuracy)
-        writeTextFile(result_file, "Un-trained Accuracy\n", untrained_accuracy)
-        writeTextFile(result_file, "Trained Loss\n", trained_loss)
-        writeTextFile(result_file, "Un-trained Loss\n", untrained_loss)
+    # Write result on text file
+    writeTextFile(result_file, "Training Loss\n", loss_per_epochs)
+    writeTextFile(result_file, "Training Accuracy\n", accuracy_per_epochs)
+    writeTextFile(result_file, "Testing Loss\n", test_loss)
+    writeTextFile(result_file, "Testing Accuracy\n", test_accuracy)
+    writeTextFile(result_file, "Trained Accuracy\n", trained_accuracy)
+    writeTextFile(result_file, "Un-trained Accuracy\n", untrained_accuracy)
+    writeTextFile(result_file, "Trained Loss\n", trained_loss)
+    writeTextFile(result_file, "Un-trained Loss\n", untrained_loss)

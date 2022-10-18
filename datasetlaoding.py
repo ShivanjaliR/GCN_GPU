@@ -13,7 +13,8 @@ from resources.constants import output_folder, input_folder, \
     log_building_graph, text_graph_pkl_file_name, word_edge_graph_pkl_file_name, graph_document_edges, graph_no_nodes, \
     graph_word_edges, graph_no_edges, graph_document_nodes, graph_word_nodes, graph_no_document_nodes, \
     graph_no_word_nodes, graph_no_document_edges, graph_no_word_edges, graph_details, tf_idf_histogram, pmi_histogram, \
-    tf_idf_histogram_title, pmi_histogram_title, summary_column_avgWordCount
+    tf_idf_histogram_title, pmi_histogram_title, summary_column_avgWordCount, output_column_noOfTrainingWords, \
+    output_column_training_content, summary_column_avgWordCountForTraining
 from utils import drawHistogram
 import nltk
 from nltk.stem import WordNetLemmatizer
@@ -227,6 +228,8 @@ class Dataset:
             self.docName = ''
             self.words = []
             self.noOfWords = 0
+            self.wordsForTraining = []
+            self.noOfTrainingWords = 0
 
         def setDocName(self, docName):
             """
@@ -272,6 +275,37 @@ class Dataset:
             :return:
             """
             return self.noOfWords
+
+        def setWordsForTraining(self, wordsForTraining):
+            """
+            Set all words present in given document
+            :param words:
+            :return: None
+            """
+            self.wordsForTraining = wordsForTraining
+
+        def getWordsForTraining(self):
+            """
+            Get all words present in the given document
+            :return: words
+            """
+            return self.wordsForTraining
+
+
+        def setNoOfTrainingWords(self, noOfTrainingWords):
+            """
+            Set number of words used for training
+            :param noOfTrainingWords:
+            :return: None
+            """
+            self.noOfTrainingWords = noOfTrainingWords
+
+        def getNoOfTrainingWords(self):
+            """
+            Get number of training words
+            :return: noOfTrainingWords
+            """
+            return self.noOfTrainingWords
 
     def __init__(self):
         """
@@ -573,13 +607,17 @@ class Dataset:
                 for word in content_no_spchar:
                     # Removing stop words, space and string less than three characters
                     word = lemmatizer.lemmatize(word.strip().lower())
-                    if word not in en_stops and word != "" and word != " " and len(word) > 3 and word not in list_without_stop_word:
+                    if word not in en_stops and word != "" and word != " " and len(word) > 3:
                         list_without_stop_word = list_without_stop_word + " " + word
                 all_content_array.append(list_without_stop_word)
                 all_content_line = all_content_line + list_without_stop_word
                 dum = pd.DataFrame(columns=["content", "category"])
                 dum = dum.append({'content': list_without_stop_word, 'category': cleanedFileName[0]}, ignore_index=True)
                 df_data = pd.concat([df_data, dum], ignore_index=True)
+
+                doc.setWords(list_without_stop_word)
+                doc.setNoOfWords(len(list_without_stop_word))
+                docs.append(doc)  # Keep track of document list
 
         print("---Reading time %s seconds ---" % (time.time() - start_time))
         # Set all resultant values to dataset class object
@@ -600,16 +638,20 @@ class Dataset:
         """
         documents = self.getDocuments()
         table = []
-        row = [output_column_filename, output_column_noOfWords, output_column_content]
+        row = [output_column_filename, output_column_noOfWords, output_column_noOfTrainingWords, output_column_content, output_column_training_content]
         table.append(row)
         avg_word_count = 0
+        avg_word_training_count = 0
         for document in documents:
             row = []
             row.append(document.getDocName())
             row.append(document.getNoOfWords())
+            row.append(document.getNoOfTrainingWords())
             row.append(document.getWords())
+            row.append(document.getWordsForTraining())
             table.append(row)
             avg_word_count += document.getNoOfWords()
+            avg_word_training_count += document.getNoOfTrainingWords()
 
         summary = []
         row = []
@@ -627,6 +669,10 @@ class Dataset:
         row = []
         row.append(summary_column_avgWordCount)
         row.append(avg_word_count/len(documents))
+        summary.append(row)
+        row = []
+        row.append(summary_column_avgWordCountForTraining)
+        row.append(avg_word_training_count/len(documents))
         summary.append(row)
 
         with open(dataset_details, 'w') as csvfile:

@@ -13,7 +13,7 @@ from resources.constants import output_folder, input_folder, \
     log_building_graph, text_graph_pkl_file_name, word_edge_graph_pkl_file_name, graph_document_edges, graph_no_nodes, \
     graph_word_edges, graph_no_edges, graph_document_nodes, graph_word_nodes, graph_no_document_nodes, \
     graph_no_word_nodes, graph_no_document_edges, graph_no_word_edges, graph_details, tf_idf_histogram, pmi_histogram, \
-    tf_idf_histogram_title, pmi_histogram_title
+    tf_idf_histogram_title, pmi_histogram_title, summary_column_avgWordCount
 from utils import drawHistogram
 import nltk
 from nltk.stem import WordNetLemmatizer
@@ -27,6 +27,7 @@ import math
 from nltk.corpus import stopwords
 import csv
 from itertools import combinations
+import time
 
 nltk.download('wordnet')
 nltk.download('omw-1.4')
@@ -544,6 +545,7 @@ class Dataset:
         doc_nodes = []
         lemmatizer = WordNetLemmatizer()
         df_data = pd.DataFrame(columns=["content", "category"])
+        start_time = time.time()
         for file in files:
             with open(file, encoding="utf-8") as fp:
                 no_of_docs = no_of_docs + 1
@@ -570,15 +572,16 @@ class Dataset:
                 list_without_stop_word = ""
                 for word in content_no_spchar:
                     # Removing stop words, space and string less than three characters
-                    if word.lower() not in en_stops and word.lower() != "" and word.lower() != " " and len(
-                            word.lower()) > 3:
-                        list_without_stop_word = list_without_stop_word + " " + lemmatizer.lemmatize(word.lower())
+                    word = lemmatizer.lemmatize(word.strip().lower())
+                    if word not in en_stops and word != "" and word != " " and len(word) > 3 and word not in list_without_stop_word:
+                        list_without_stop_word = list_without_stop_word + " " + word
                 all_content_array.append(list_without_stop_word)
                 all_content_line = all_content_line + list_without_stop_word
                 dum = pd.DataFrame(columns=["content", "category"])
                 dum = dum.append({'content': list_without_stop_word, 'category': cleanedFileName[0]}, ignore_index=True)
                 df_data = pd.concat([df_data, dum], ignore_index=True)
 
+        print("---Reading time %s seconds ---" % (time.time() - start_time))
         # Set all resultant values to dataset class object
         self.setCleanContent(content_no_spchar)
         self.setAllContentLine(all_content_line)
@@ -599,12 +602,14 @@ class Dataset:
         table = []
         row = [output_column_filename, output_column_noOfWords, output_column_content]
         table.append(row)
+        avg_word_count = 0
         for document in documents:
             row = []
             row.append(document.getDocName())
             row.append(document.getNoOfWords())
             row.append(document.getWords())
             table.append(row)
+            avg_word_count += document.getNoOfWords()
 
         summary = []
         row = []
@@ -618,6 +623,10 @@ class Dataset:
         row = []
         row.append(summary_column_uniqueWords)
         row.append(self.getUniqueWords())
+        summary.append(row)
+        row = []
+        row.append(summary_column_avgWordCount)
+        row.append(avg_word_count/len(documents))
         summary.append(row)
 
         with open(dataset_details, 'w') as csvfile:

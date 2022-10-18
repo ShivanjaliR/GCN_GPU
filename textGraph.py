@@ -41,11 +41,9 @@ class TextGraph:
         for d in G.degree():
             print(d)
             if d[1] == 0:
-                print('In 0 section')
                 degrees.append(0)
             else:
                 degrees.append(d[1] ** (-0.5))
-                print('In not 0 section')
         degrees = np.diag(degrees)  # Degree Matrix ^ (-1/2)
         X = np.eye(G.number_of_nodes())  # identity matrix as Input
         A_hat = degrees @ A @ degrees  # A_hat = D^-1/2 A D^-1/2

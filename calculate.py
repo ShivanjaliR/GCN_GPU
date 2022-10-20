@@ -21,9 +21,9 @@ def save_as_pickle(filename, data):
 
 def read_pickel(filename):
     #filePath = os.path.join(output_folder, filename)
-    filePath = '/home/ranashsv/textclassification/GCN_GPU/input_560/'+filename
+    #filePath = '/home/ranashsv/textclassification/GCN_GPU/input_560/'+filename
     #fileContent = pd.read_pickle(filePath)
-    fileContent = pickle.load(open(filePath, "rb"))
+    fileContent = pickle.load(open(filename, "rb"))
 
     return fileContent
 

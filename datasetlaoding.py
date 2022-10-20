@@ -14,8 +14,9 @@ from resources.constants import output_folder, input_folder, \
     graph_word_edges, graph_no_edges, graph_document_nodes, graph_word_nodes, graph_no_document_nodes, \
     graph_no_word_nodes, graph_no_document_edges, graph_no_word_edges, graph_details, tf_idf_histogram, pmi_histogram, \
     tf_idf_histogram_title, pmi_histogram_title, summary_column_avgWordCount, output_column_noOfTrainingWords, \
-    output_column_training_content, summary_column_avgWordCountForTraining
-from utils import drawHistogram
+    output_column_training_content, summary_column_avgWordCountForTraining, summary_total_words, \
+    summary_total_training_words
+from utils import plotHistogram
 import nltk
 from nltk.stem import WordNetLemmatizer
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -601,7 +602,6 @@ class Dataset:
                 doc.setDocName(file.name)
                 doc.setWords(content_no_spchar)
                 doc.setNoOfWords(len(content_no_spchar))
-                docs.append(doc)  # Keep track of document list
 
                 list_without_stop_word = ""
                 for word in content_no_spchar:
@@ -615,8 +615,8 @@ class Dataset:
                 dum = dum.append({'content': list_without_stop_word, 'category': cleanedFileName[0]}, ignore_index=True)
                 df_data = pd.concat([df_data, dum], ignore_index=True)
 
-                doc.setWords(list_without_stop_word)
-                doc.setNoOfWords(len(list_without_stop_word))
+                doc.setWordsForTraining(list_without_stop_word)
+                doc.setNoOfTrainingWords(len(list_without_stop_word.split()))
                 docs.append(doc)  # Keep track of document list
 
         print("---Reading time %s seconds ---" % (time.time() - start_time))
@@ -667,6 +667,14 @@ class Dataset:
         row.append(self.getUniqueWords())
         summary.append(row)
         row = []
+        row.append(summary_total_words)
+        row.append(avg_word_count)
+        summary.append(row)
+        row = []
+        row.append(summary_total_training_words)
+        row.append(avg_word_training_count)
+        summary.append(row)
+        row = []
         row.append(summary_column_avgWordCount)
         row.append(avg_word_count/len(documents))
         summary.append(row)
@@ -675,7 +683,7 @@ class Dataset:
         row.append(avg_word_training_count/len(documents))
         summary.append(row)
 
-        with open(dataset_details, 'w') as csvfile:
+        with open(dataset_details, 'w', newline='') as csvfile:
             writer = csv.writer(csvfile)
             [writer.writerow(r) for r in table]
             [writer.writerow(r) for r in summary]
@@ -718,7 +726,7 @@ class Dataset:
             row.append(wordEdge)
         table.append(row)
 
-        with open(graph_details, 'w') as csvfile:
+        with open(graph_details, 'w', newline='') as csvfile:
             writer = csv.writer(csvfile)
             [writer.writerow(r) for r in table]
 
@@ -876,7 +884,7 @@ class Dataset:
         G.add_edges_from(doc_word_edges, color='black', weight=1)
         graph.setDocWordEdges(doc_word_edges)
         graph.setNoDocWordEdges(len(doc_word_edges))
-        drawHistogram(tf_idf_weights, tf_idf_histogram, tf_idf_histogram_title)
+        plotHistogram(tf_idf_weights, tf_idf_histogram, tf_idf_histogram_title)
 
         # Word-to-Word Edges
         words_edges = word_word_edges(self.getPmiCnt())
@@ -884,7 +892,7 @@ class Dataset:
         G.add_edges_from(words_edges, color='r', weight=2)
         graph.setWordWordEdges(words_edges)
         graph.setNoWordWordEdges(len(words_edges))
-        drawHistogram(pmi_weights, pmi_histogram, pmi_histogram_title)
+        plotHistogram(pmi_weights, pmi_histogram, pmi_histogram_title)
 
         graph.setTotalEdges(len(graph.getDocWordEdges()) + len(graph.getWordWordEdges()))
         if not os.listdir(output_folder).__contains__(text_graph_pkl_file_name):

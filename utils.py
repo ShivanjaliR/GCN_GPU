@@ -9,6 +9,8 @@ from sklearn.manifold import TSNE
 from resources.constants import untrained_nodes, trained_nodes, data_index_distribution, \
     label_not_selected_distribution
 import seaborn as sns
+import plotly.express as px
+
 
 def plotGraph(x, y, x_label, y_label, fileName, graph_title):
     """
@@ -110,10 +112,12 @@ def plotScatter(weights, selected_index, selectedLabels,
     :param testing_file_name: Image file name of plotted scatter graph of testing dataset
     :return:
     """
-    fea = TSNE(n_components=2).fit_transform(weights.detach().numpy())
+    tsne = TSNE(n_components=3, random_state=0)
+    fea = tsne.fit_transform(weights.detach().numpy(), )
+    # fea = TSNE(n_components=3).fit_transform(weights.detach().numpy())
     cls = np.unique(selectedLabels)
     fea_num = [fea[selected_index][np.array(selectedLabels) == i] for i in cls]
-    colors = ['red', 'blue', 'green', 'yellow', 'black', 'orange', 'purple']
+    colors = ['red', 'blue', 'green', 'yellow', 'black', 'orange', 'purple', 'pink']
     legends = ['Accounts', 'Biology', 'Geography', 'Physics', 'Computer Science', 'History', 'Math']
     plt.figure(figsize=(15, 4))
     for i, f in enumerate(fea_num):
@@ -132,7 +136,6 @@ def plotScatter(weights, selected_index, selectedLabels,
     plt.tight_layout()
     plt.savefig(testing_file_name)
 
-
 def plotBarChart(features, y, title, filename, categories):
     """
     Plot bar chart
@@ -150,7 +153,7 @@ def plotBarChart(features, y, title, filename, categories):
     plt.savefig(filename)
 
 
-def drawHistogram(array, fileName, title):
+def plotHistogram(array, fileName, title):
     """
     Draw Histogram for given input
     :param array: Given Input for the histogram

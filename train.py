@@ -4,13 +4,17 @@ from calculate import writeTextFile, accuracy, save_as_pickle
 from resources.constants import learning_rate, num_of_epochs, model_filename, regularization_factor, result_file, \
     X_input, Ahat_input, selected_index_file, selected_label_doc_index_file, not_selected_file, \
     not_selected_label_doc_index_file, loss_per_epochs_file, accuracy_per_epochs_file, trained_epochs_file, \
-    trained_accuracy_file, untrained_accuracy_file, trained_loss_file, untrained_loss_file
+    trained_accuracy_file, untrained_accuracy_file, trained_loss_file, untrained_loss_file, before_training_model, \
+    list_of_epochs, training_output_file
 from gcnmodel import gcn
 from calculate import read_pickel
 import time
+import sys
 
 if __name__ == '__main__':
     # Step 8. Graph Convolutional Network Model
+
+    sys.stdout = open(training_output_file, "w+")
 
     X = read_pickel(X_input)
     A_hat = read_pickel(Ahat_input)
@@ -29,6 +33,7 @@ if __name__ == '__main__':
     trained_epochs = []
     untrained_loss = []
     trained_loss = []
+    epochs = []
     l1_crit = nn.L1Loss(size_average=False)
     model.train()
     print('Learning Rate:', learning_rate)
@@ -38,8 +43,11 @@ if __name__ == '__main__':
     not_selected = read_pickel(not_selected_file)
     labels_not_selected_doc_index = read_pickel(not_selected_label_doc_index_file)
 
+    save_as_pickle(before_training_model, model)
+
     start_time = time.time()
     for epoch in range(num_of_epochs):
+        epochs.append(epoch)
         optimizer.zero_grad()
         output = model(X)
         reg_loss = 0
@@ -98,6 +106,7 @@ if __name__ == '__main__':
     save_as_pickle(untrained_accuracy_file, untrained_accuracy)
     save_as_pickle(trained_loss_file, trained_loss)
     save_as_pickle(untrained_loss_file, untrained_loss)
+    save_as_pickle(list_of_epochs, epochs)
 
     # Write result on text file
     writeTextFile(result_file, "Training Loss\n", loss_per_epochs)

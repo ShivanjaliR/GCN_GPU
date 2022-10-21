@@ -9,7 +9,6 @@ from sklearn.manifold import TSNE
 from resources.constants import untrained_nodes, trained_nodes, data_index_distribution, \
     label_not_selected_distribution
 import seaborn as sns
-import plotly.express as px
 
 
 def plotGraph(x, y, x_label, y_label, fileName, graph_title):
@@ -54,7 +53,7 @@ def plotCombined(x, y_trained, y_untrained, x_label, y_label, fileName, graph_ti
     plt.savefig(fileName, dpi=100)
 
 
-def labelDistribution(labels_not_selected, labels_selected):
+def labelDistribution(labels_not_selected, labels_selected, categories):
     """
     Plot label distribution of selected and not-selected data points.
     :param labels_not_selected: Labels not selected for training (Test set)
@@ -65,7 +64,8 @@ def labelDistribution(labels_not_selected, labels_selected):
     ax = fig.add_subplot(111)
     ax.hist([(e) for e in labels_not_selected] + [(e) for e in labels_selected], bins=66)
     ax.set_title("Class label distribution for data set", fontsize=20)
-    ax.set_xlabel("Class label", fontsize=17)
+    #plt.xlabel(categories)
+    ax.set_xlabel(categories, fontsize=17)
     ax.set_ylabel("Counts", fontsize=17)
     [x.set_fontsize(15) for x in ax.get_xticklabels()]
     [x.set_fontsize(15) for x in ax.get_yticklabels()]
@@ -75,7 +75,7 @@ def labelDistribution(labels_not_selected, labels_selected):
     ax = fig1.add_subplot(111)
     ax.hist([(e) for e in labels_not_selected], bins=66)
     ax.set_title("Class label distribution for test set", fontsize=20)
-    ax.set_xlabel("Class label", fontsize=17)
+    ax.set_xlabel(categories, fontsize=17)
     ax.set_ylabel("Counts", fontsize=17)
     [x.set_fontsize(15) for x in ax.get_xticklabels()]
     [x.set_fontsize(15) for x in ax.get_yticklabels()]
@@ -118,7 +118,7 @@ def plotScatter(weights, selected_index, selectedLabels,
     cls = np.unique(selectedLabels)
     fea_num = [fea[selected_index][np.array(selectedLabels) == i] for i in cls]
     colors = ['red', 'blue', 'green', 'yellow', 'black', 'orange', 'purple', 'pink']
-    legends = ['Accounts', 'Biology', 'Geography', 'Physics', 'Computer Science', 'History', 'Math']
+    legends = ['Accounting', 'Biology', 'Geography', 'Physics', 'Computer Science', 'History', 'Math']
     plt.figure(figsize=(15, 4))
     for i, f in enumerate(fea_num):
         plt.scatter(f[:, 0], f[:, 1], c=colors[i])
@@ -131,10 +131,11 @@ def plotScatter(weights, selected_index, selectedLabels,
     plt.figure(figsize=(15, 4))
     for i, f in enumerate(testing_fea_num):
         plt.scatter(f[:, 0], f[:, 1], c=colors[i])
-    plt.legend(['Accounts', 'Biology', 'Geography', 'Physics', 'Computer Science', 'History', 'Math'])
+    plt.legend(['Accounting', 'Biology', 'Geography', 'Physics', 'Computer Science', 'History', 'Math'])
     plt.title(testing_title)
     plt.tight_layout()
     plt.savefig(testing_file_name)
+
 
 def plotBarChart(features, y, title, filename, categories):
     """

@@ -1,0 +1,2 @@
+A_hat shape,Weight 1 shape,Bias 1 shape,Weight 2 shape,Bias 2 shape,Output shape
+"torch.Size([4782, 4782])",4782X400,400,400X200,200,200X7

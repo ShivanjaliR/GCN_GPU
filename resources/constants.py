@@ -2,68 +2,68 @@ input_folder = 'paper_1000/'
 
 output_folder = './input_1000_readingchanges'
 
-output_file = './output_1000_readingchanges/output.txt'
-training_output_file = './output_1000_readingchanges/training_output.txt'
-dataset_details = './output_1000_readingchanges/DatasetDetails.csv'
-text_graph_file_name = './output_1000_readingchanges/Text Graph'
+output_file = './output_1000_readingchanges_500X300_Epochs_4500/output.txt'
+training_output_file = './output_1000_readingchanges_500X300_Epochs_4500/training_output.txt'
+dataset_details = './output_1000_readingchanges_500X300_Epochs_4500/DatasetDetails.csv'
+text_graph_file_name = './output_1000_readingchanges_500X300_Epochs_4500/Text Graph'
 text_graph_name = 'Text Graph'
-training_loss_plot_file_name = './output_1000_readingchanges/Training Loss per epochs'
+training_loss_plot_file_name = './output_1000_readingchanges_500X300_Epochs_4500/Training Loss per epochs'
 training_loss_plot_name = 'Training Loss per epochs'
-training_accuracy_plot_file_name = './output_1000_readingchanges/Training Accuracy per epochs'
-training_precision_plot_file_name = './output_1000_readingchanges/Precision Trained dataset'
-training_recall_plot_file_name = './output_1000_readingchanges/Recall Trained dataset'
-training_f1score_plot_file_name = './output_1000_readingchanges/F1 score of Trained dataset'
+training_accuracy_plot_file_name = './output_1000_readingchanges_500X300_Epochs_4500/Training Accuracy per epochs'
+training_precision_plot_file_name = './output_1000_readingchanges_500X300_Epochs_4500/Precision Trained dataset'
+training_recall_plot_file_name = './output_1000_readingchanges_500X300_Epochs_4500/Recall Trained dataset'
+training_f1score_plot_file_name = './output_1000_readingchanges_500X300_Epochs_4500/F1 score of Trained dataset'
 training_accuracy_plot_name = 'Training Accuracy per epochs'
 training_precision_plot_name = 'Precision of Trained Dataset'
 training_recall_plot_name = 'Recall of Trained Dataset'
 training_f1score_plot_name = 'F1 score of Trained Dataset'
 model_filename = 'finalized_model.pkl'
 before_training_model = 'finalized_model_before_training.pkl'
-neural_ntw_details = './output_1000_readingchanges/neural_ntw_details.csv'
+neural_ntw_details = './output_1000_readingchanges_500X300_Epochs_4500/neural_ntw_details.csv'
 list_of_epochs = 'epochs.pkl'
 
-testing_precision_plot_file_name = './output_1000_readingchanges/Precision untrained dataset'
-testing_recall_plot_file_name = './output_1000_readingchanges/Recall untrained dataset'
-testing_f1score_plot_file_name = './output_1000_readingchanges/F1 score untrained dataset'
+testing_precision_plot_file_name = './output_1000_readingchanges_500X300_Epochs_4500/Precision untrained dataset'
+testing_recall_plot_file_name = './output_1000_readingchanges_500X300_Epochs_4500/Recall untrained dataset'
+testing_f1score_plot_file_name = './output_1000_readingchanges_500X300_Epochs_4500/F1 score untrained dataset'
 testing_precision_plot_name = 'Precision of Untrained Dataset'
 testing_recall_plot_name = 'Recall of Untrained Dataset'
 testing_f1score_plot_name = 'F1 score of Untrained Dataset'
 
-testing_loss_plot_file_name = './output_1000_readingchanges/Testing Loss per epochs'
+testing_loss_plot_file_name = './output_1000_readingchanges_500X300_Epochs_4500/Testing Loss per epochs'
 testing_loss_plot_name = 'Testing Loss per epochs'
-testing_accuracy_plot_file_name = './output_1000_readingchanges/Testing Accuracy per epochs'
+testing_accuracy_plot_file_name = './output_1000_readingchanges_500X300_Epochs_4500/Testing Accuracy per epochs'
 testing_accuracy_plot_name = 'Testing Accuracy per epochs'
 
-combined_accuracy_plot_file_name = './output_1000_readingchanges/Combined Accuracy per epochs'
+combined_accuracy_plot_file_name = './output_1000_readingchanges_500X300_Epochs_4500/Combined Accuracy per epochs'
 combined_accuracy_plot_name = 'Trained and Un-trained Node accuracy'
 
-tf_idf_histogram = './output_1000_readingchanges/TF-IDF Histogram'
-pmi_histogram = './output_1000_readingchanges/PMI Histogram'
+tf_idf_histogram = './output_1000_readingchanges_500X300_Epochs_4500/TF-IDF Histogram'
+pmi_histogram = './output_1000_readingchanges_500X300_Epochs_4500/PMI Histogram'
 tf_idf_histogram_title = 'TF-IDF Histogram'
 pmi_histogram_title = 'PMI Histogram'
 
 first_layer_before_training_for_training_dataset_name = 'Classification of First Trained Layer weights Before Training'
 first_layer_before_training_for_testing_dataset_name = 'Classification of First Un-trained Layer weights Before Training'
-first_layer_before_training_for_training_dataset_file_name = './output_1000_readingchanges/Training Classification First Layer Before Training'
-first_layer_before_training_for_testing_dataset_file_name = './output_1000_readingchanges/Testing Classification First Layer Before Training'
+first_layer_before_training_for_training_dataset_file_name = './output_1000_readingchanges_500X300_Epochs_4500/Training Classification First Layer Before Training'
+first_layer_before_training_for_testing_dataset_file_name = './output_1000_readingchanges_500X300_Epochs_4500/Testing Classification First Layer Before Training'
 first_layer_after_training_for_training_dataset_name = 'Classification of First Trained Layer weights After Training'
 first_layer_after_training_for_testing_dataset_name = 'Classification of First Un-trained Layer weights After Training'
-first_layer_after_training_for_training_dataset_file_name = './output_1000_readingchanges/Classification of First Trained Layer weights After Training'
-first_layer_after_training_for_testing_dataset_file_name = './output_1000_readingchanges/Classification of First Un-trained Layer weights After Training'
+first_layer_after_training_for_training_dataset_file_name = './output_1000_readingchanges_500X300_Epochs_4500/Classification of First Trained Layer weights After Training'
+first_layer_after_training_for_testing_dataset_file_name = './output_1000_readingchanges_500X300_Epochs_4500/Classification of First Un-trained Layer weights After Training'
 
 categories_for_classification = 'Categories of documents'
 
-graph_details = './output_1000_readingchanges/GraphDetails.csv'
+graph_details = './output_1000_readingchanges_500X300_Epochs_4500/GraphDetails.csv'
 
-model_digram = './output_1000_readingchanges/gcn_model.png'
+model_digram = './output_1000_readingchanges_500X300_Epochs_4500/gcn_model.png'
 
-data_index_distribution = './output_1000_readingchanges/data_index_distribution'
-label_not_selected_distribution = './output_1000_readingchanges/label_not_selected_distribution'
-trained_confusion_matrix_file_name = './output_1000_readingchanges/trained_confusion_matrix'
-untrained_confusion_matrix_file_name = './output_1000_readingchanges/untrained_confusion_matrix'
+data_index_distribution = './output_1000_readingchanges_500X300_Epochs_4500/label_selected_distribution'
+label_not_selected_distribution = './output_1000_readingchanges_500X300_Epochs_4500/label_not_selected_distribution'
+trained_confusion_matrix_file_name = './output_1000_readingchanges_500X300_Epochs_4500/trained_confusion_matrix'
+untrained_confusion_matrix_file_name = './output_1000_readingchanges_500X300_Epochs_4500/untrained_confusion_matrix'
 
-result_file = './output_1000_readingchanges/result.txt'
-accuracy_file = './output_1000_readingchanges/prediction.txt'
+result_file = './output_1000_readingchanges_500X300_Epochs_4500/result.txt'
+accuracy_file = './output_1000_readingchanges_500X300_Epochs_4500/prediction.txt'
 
 output_column_filename = 'File Name'
 output_column_noOfWords = 'Number of Words in File'
@@ -154,7 +154,7 @@ hidden_layer_1_size = 250
 hidden_layer_2_size = 100  # 25
 no_output_classes = 7
 learning_rate = 0.0001
-num_of_epochs = 1001
+num_of_epochs = 4501
 dropout = 0.50
 weight_decay = 1e-5
 regularization_factor = 0.000005

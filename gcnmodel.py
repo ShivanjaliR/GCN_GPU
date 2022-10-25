@@ -40,13 +40,14 @@ class gcn(nn.Module):
 
         # Initialize weights for the first layer of size (X_size, 330)
         self.weight = nn.parameter.Parameter(torch.FloatTensor(X_size, hidden_layer_1_size))  # Hidden Size 1
-        #var = 2 / (self.weight.size(1) + self.weight.size(0)
+        # var = 2 / (self.weight.size(1) + self.weight.size(0)
         var = 1. / math.sqrt(self.weight.size(1))
-        #self.weight.data.normal_(0, var)
+        # self.weight.data.normal_(0, var)
         self.weight.data.uniform_(-var, var)
 
         # Initialize weights for the first layer of size (330, 130)
-        self.weight2 = nn.parameter.Parameter(torch.FloatTensor(hidden_layer_1_size, hidden_layer_2_size))  # Hidden size 2
+        self.weight2 = nn.parameter.Parameter(
+            torch.FloatTensor(hidden_layer_1_size, hidden_layer_2_size))  # Hidden size 2
         var2 = 1. / math.sqrt(self.weight2.size(1))
         self.weight2.data.uniform_(-var2, var2)
         '''var2 = 2 / (self.weight2.size(1) + self.weight2.size(0))
@@ -67,17 +68,18 @@ class gcn(nn.Module):
         # Create Linear Transformation function
         self.fc1 = nn.Linear(hidden_layer_2_size, no_output_classes)  # Hidden size 2 and no of classes
         table = []
-        columns = ['A_hat shape','Weight 1 shape', 'Bias 1 shape','Weight 2 shape', 'Bias 2 shape', 'Output shape']
-        details = [self.A_hat.shape, str(X_size)+str('X')+str(hidden_layer_1_size),
+        columns = ['A_hat shape', 'Weight 1 shape', 'Bias 1 shape', 'Weight 2 shape', 'Bias 2 shape', 'Output shape']
+        details = [self.A_hat.shape, str(X_size) + str('X') + str(hidden_layer_1_size),
                    str(hidden_layer_1_size),
                    str(hidden_layer_1_size) + str('X') + str(hidden_layer_2_size),
                    str(hidden_layer_2_size),
                    str(hidden_layer_2_size) + str('X') + str(no_output_classes)]
         table.append(columns)
         table.append(details)
-        with open(neural_ntw_details, 'w') as csvfile:
-            writer = csv.writer(csvfile)
-            [writer.writerow(r) for r in table]
+
+    ''' with open(neural_ntw_details, 'w') as csvfile:
+         writer = csv.writer(csvfile)
+         [writer.writerow(r) for r in table]'''
 
     def forward(self, X):
         """
@@ -93,7 +95,7 @@ class gcn(nn.Module):
             Input Matrix multiplication of Normalized symmetric adjacency matrix 
             and newly calculated X to the relu function 
         '''
-        #X = self.dropout(X)
+        # X = self.dropout(X)
         X = F.relu(torch.mm(self.A_hat, X))
         '''
             Matrix multiplication of first layer result with weights of second layer
@@ -105,6 +107,6 @@ class gcn(nn.Module):
             As we have to do multi-classification, 
             apply Softmax log to second layer result.
         '''
-        #X = self.dropout(X)
+        # X = self.dropout(X)
         X = F.log_softmax(torch.mm(self.A_hat, X))
         return self.fc1(X)

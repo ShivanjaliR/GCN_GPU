@@ -1,4 +1,7 @@
+import pickle
+
 import torch
+import os
 from sklearn.metrics import confusion_matrix
 from calculate import read_pickel, calculateMetrics
 from resources.constants import accuracy_per_epochs_file, loss_per_epochs_file, trained_loss_file, \
@@ -14,10 +17,16 @@ from resources.constants import accuracy_per_epochs_file, loss_per_epochs_file, 
     training_recall_plot_file_name, training_precision_plot_file_name, training_recall_plot_name, \
     training_f1score_plot_name, training_f1score_plot_file_name, features_file, num_of_epochs, \
     model_filename, selected_index_file, selected_label_doc_index, not_selected_file, \
-    not_selected_label_file
-from utils import plotScatter, plotGraph, plotCombined, plotConfusionMatrix, plotBarChart, labelDistribution
+    not_selected_label_file, output_folder, text_graph_pkl_file_name
+from utils import plotGraph, plotCombined, plotConfusionMatrix, plotBarChart, labelDistribution, plotTSNE, drawGraph
 
 if __name__ == '__main__':
+    '''completeName = os.path.join(output_folder, text_graph_pkl_file_name)
+    with open(completeName, 'rb') as pkl_file:
+        G = pickle.load(pkl_file)
+
+    drawGraph(G)'''
+
     model = read_pickel(model_filename)
     selected = read_pickel(selected_index_file)
     labels_selected_doc_index = read_pickel(selected_label_doc_index)
@@ -28,18 +37,15 @@ if __name__ == '__main__':
 
     labelDistribution(labels_not_selected_doc_index, labels_selected_doc_index, features)
 
-    '''before_training_model = read_pickel('input_106_readingchanges/' + before_training_model)
-    plotScatter(before_training_model, selected, labels_selected_doc_index, not_selected, labels_not_selected_doc_index,
-                first_layer_before_training_for_training_dataset_name,
-                first_layer_before_training_for_testing_dataset_name,
-                first_layer_before_training_for_training_dataset_file_name,
-                first_layer_before_training_for_testing_dataset_file_name)'''
-
-    plotScatter(model.weight, selected, labels_selected_doc_index, not_selected, labels_not_selected_doc_index,
-                first_layer_after_training_for_training_dataset_name,
-                first_layer_after_training_for_testing_dataset_name,
-                first_layer_after_training_for_training_dataset_file_name,
-                first_layer_after_training_for_testing_dataset_file_name)
+    X = read_pickel(X_input)
+    model.eval()
+    with torch.no_grad():
+        pred_labels = model(X)
+    plotTSNE(pred_labels[selected], labels_selected_doc_index, pred_labels[not_selected], labels_not_selected_doc_index,
+             first_layer_after_training_for_training_dataset_name,
+             first_layer_after_training_for_testing_dataset_name,
+             first_layer_after_training_for_training_dataset_file_name,
+             first_layer_after_training_for_testing_dataset_file_name)
 
     loss_per_epochs = read_pickel(loss_per_epochs_file)
     accuracy_per_epochs = read_pickel(accuracy_per_epochs_file)
@@ -60,18 +66,14 @@ if __name__ == '__main__':
     plotCombined(trained_epochs, trained_loss, untrained_loss, plot_x_axis, plot_y_axis_loss,
                  testing_loss_plot_file_name, testing_loss_plot_name)
 
-    X = read_pickel(X_input)
     test_idxs = read_pickel(test_idxs_file)
     # Confusion Matrix for un-trained dataset
-    model.eval()
-    with torch.no_grad():
-        pred_labels = model(X)
+
     confusion_matrix_untrained_nodes = confusion_matrix([(e) for e in labels_not_selected_doc_index],
                                                         list(pred_labels[test_idxs].max(1)[1].numpy()))
 
     plotConfusionMatrix(confusion_matrix_untrained_nodes, untrained_confusion_matrix_file_name)
     testing_precision, testing_recall, testing_F1_measure = calculateMetrics(confusion_matrix_untrained_nodes)
-
 
     plotBarChart(features, testing_precision, testing_precision_plot_name,
                  testing_precision_plot_file_name, categories_for_classification)

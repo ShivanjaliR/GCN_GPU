@@ -14,7 +14,7 @@ from resources.constants import output_file, test_index_file_name, \
     selected_label_file, not_selected_label_file, training_dataset_size, testing_dataset_size, sliding_window_size, \
     selected_label_doc_index_file, \
     not_selected_label_doc_index_file, X_input, f_function, Ahat_input, graph_input, \
-    selected_index_training, selected_label_doc_index, test_idxs_file, features_file
+    selected_index_training, selected_label_doc_index, test_idxs_file, features_file, all_label_file
 from textGraph import TextGraph
 from calculate import save_as_pickle
 
@@ -81,6 +81,7 @@ if __name__ == '__main__':
 
     '''Dumping training and testing dataset'''
 
+    save_as_pickle(all_label_file,contentDict["category"])
     save_as_pickle(selected_index_file, selected)
     save_as_pickle(not_selected_file, not_selected)
 

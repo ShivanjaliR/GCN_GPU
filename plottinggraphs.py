@@ -1,7 +1,4 @@
-import pickle
-
 import torch
-import os
 from sklearn.metrics import confusion_matrix
 from calculate import read_pickel, calculateMetrics
 from resources.constants import accuracy_per_epochs_file, loss_per_epochs_file, trained_loss_file, \
@@ -17,7 +14,7 @@ from resources.constants import accuracy_per_epochs_file, loss_per_epochs_file, 
     training_recall_plot_file_name, training_precision_plot_file_name, training_recall_plot_name, \
     training_f1score_plot_name, training_f1score_plot_file_name, features_file, num_of_epochs, \
     model_filename, selected_index_file, selected_label_doc_index, not_selected_file, \
-    not_selected_label_file, output_folder, text_graph_pkl_file_name
+    not_selected_label_file
 from utils import plotGraph, plotCombined, plotConfusionMatrix, plotBarChart, labelDistribution, plotTSNE, drawGraph
 
 if __name__ == '__main__':
